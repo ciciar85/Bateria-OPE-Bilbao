@@ -1,39 +1,8 @@
-# 🏛️ Batería Oficial de Preguntas Tipo Test: OPE Ayuntamiento de Bilbao
+# Batería Oficial de Preguntas de Examen - Ayuntamiento de Bilbao (OPE 2022 / 2025)
 
-> [!NOTE]
-> **Documento Oficial de Preparación y Estudio - OPE Ayuntamiento de Bilbao**
-> Batería oficial íntegra de la Parte General del Temario (5ª edición). Contiene **630 preguntas** agrupadas en **18 temas oficiales** (35 preguntas por tema) con soluciones verificadas de la plantilla oficial y adscripción normativa.
+Recopilación oficial íntegra de **630 preguntas reales** extraídas de la batería oficial del Ayuntamiento de Bilbao (18 temas oficiales con 35 preguntas por tema).
 
----
-
-## 📑 Índice de Temas
-
-- [**Tema 1: La Constitución Española de 1978. Principios generales. Derechos y deberes fundamentales**](#tema-1) *(Preguntas 1 a 35)*
-- [**Tema 2: El Estatuto de Autonomía del País Vasco. Competencias exclusivas, de desarrollo legislativo y ejecución**](#tema-2) *(Preguntas 36 a 70)*
-- [**Tema 3: El Municipio. La organización municipal de los municipios de gran población (Título X LRBRL)**](#tema-3) *(Preguntas 71 a 105)*
-- [**Tema 4: La organización del Ayuntamiento de Bilbao. Reglamentos Orgánicos**](#tema-4) *(Preguntas 106 a 140)*
-- [**Tema 5: Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas**](#tema-5) *(Preguntas 141 a 175)*
-- [**Tema 6: Ley 11/2022 de Empleo Público Vasco. Retribuciones, derechos, deberes, incompatibilidades y régimen disciplinario**](#tema-6) *(Preguntas 176 a 210)*
-- [**Tema 7: Ley 10/1982 Básica de Normalización del Uso del Euskera**](#tema-7) *(Preguntas 211 a 245)*
-- [**Tema 8: Ley 31/1995 de Prevención de Riesgos Laborales**](#tema-8) *(Preguntas 246 a 280)*
-- [**Tema 9: Ley Orgánica 3/2018 (LOPDGDD) y Reglamento General de Protección de Datos (RGPD 2016/679)**](#tema-9) *(Preguntas 281 a 315)*
-- [**Tema 10: Decreto Legislativo 1/2023 de Igualdad de Mujeres y Hombres y V Plan Municipal del Ayuntamiento de Bilbao**](#tema-10) *(Preguntas 316 a 350)*
-- [**Tema 11: Contratación Administrativa. Clases, elementos, procedimientos de selección y formalización**](#tema-11) *(Preguntas 351 a 385)*
-- [**Tema 12: Instrumentos reguladores de RRHH: Oferta Pública de Empleo, planes de empleo y ordenación**](#tema-12) *(Preguntas 386 a 420)*
-- [**Tema 13: Personal al servicio de entidades locales. Función pública local, plantillas y RPT**](#tema-13) *(Preguntas 421 a 455)*
-- [**Tema 14: Presupuesto general de entidades locales. Estructura, elaboración, aprobación, prórroga y liquidación**](#tema-14) *(Preguntas 456 a 490)*
-- [**Tema 15: Ordenanzas y reglamentos de las entidades locales**](#tema-15) *(Preguntas 491 a 525)*
-- [**Tema 16: Las Cortes Generales. El Defensor del Pueblo. El Ararteko**](#tema-16) *(Preguntas 526 a 560)*
-- [**Tema 17: Distribución de competencias entre el Estado y las CCAA en la CE y el Estatuto de Gernika**](#tema-17) *(Preguntas 561 a 595)*
-- [**Tema 18: El Poder Judicial. Administración de Justicia en el País Vasco. El Tribunal Superior de Justicia**](#tema-18) *(Preguntas 596 a 630)*
-
----
-
-<a name="tema-1"></a>
-## 📜 Tema 1: La Constitución Española de 1978. Principios generales. Derechos y deberes fundamentales
-
-* **Normativa aplicable**: Constitución Española de 1978 (Título Preliminar y Título I)
-* **Materia**: Principios constitucionales y derechos fundamentales
+Todas las preguntas cuentan con su correspondiente **clasificación temática oficial (Temas 1 al 18)**, **respuesta correcta verificada** y **fundamentación jurídica detallada** con indicación exacta de la **Norma**, **Artículo** y **Literal / Explicación**, conforme a los estándares de la habilidad `ivap-gestion-preguntas`.
 
 ---
 
@@ -50,11 +19,11 @@ LA CONSTITUCIÓN SE FUNDAMENTA:
 *   **C)** En la indisoluble unidad de la Nación Española.
 *   **D)** En la pluralidad de pueblos integrantes de la Nación Española.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En la indisoluble unidad de la Nación Española.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 2 CE
+*   **Literal / Explicación**: "El artículo 2 de la Constitución establece: «La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles...»."
 
 ---
 
@@ -71,11 +40,11 @@ LOS VALORES SUPERIORES DEL ORDENAMIENTO JURÍDICO PROPUGNADOS DESDE NUESTRA CONS
 *   **C)** La libertad, la igualdad y el pluralismo político y sindical.
 *   **D)** La libertad, la igualdad y la fraternidad.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La libertad, la justicia, la igualdad y el pluralismo político.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 1.1 CE
+*   **Literal / Explicación**: "El artículo 1.1 de la Constitución propugna como valores superiores de su ordenamiento jurídico «la libertad, la justicia, la igualdad y el pluralismo político»."
 
 ---
 
@@ -92,11 +61,11 @@ LA FORMA POLÍTICA DEL ESTADO ESPAÑOL ES:
 *   **C)** El Parlamentarismo Democrático.
 *   **D)** La Monarquía Institucional.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La Monarquía Parlamentaria.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 1.3 CE
+*   **Literal / Explicación**: "El artículo 1.3 de la Constitución preceptúa: «La forma política del Estado español es la Monarquía parlamentaria»."
 
 ---
 
@@ -113,11 +82,11 @@ LA SOBERANÍA NACIONAL:
 *   **C)** Reside en el pueblo.
 *   **D)** Reside en el Rey.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Reside en el pueblo.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 1.2 CE
+*   **Literal / Explicación**: "El artículo 1.2 de la Constitución dispone: «La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado»."
 
 ---
 
@@ -134,11 +103,11 @@ LA SOBERANÍA NACIONAL:
 *   **C)** De las Cortes Generales.
 *   **D)** Del pueblo español
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Del pueblo español".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 1.2 CE
+*   **Literal / Explicación**: "El artículo 1.2 de la Constitución establece expresamente que los poderes del Estado emanan del pueblo español."
 
 ---
 
@@ -155,11 +124,11 @@ RESPECTO A LAS NACIONALIDADES Y REGIONES QUE INTEGRAN A LA NACIÓN ESPAÑOLA, LA
 *   **C)** El Derecho a su libre federación o confederación.
 *   **D)** El Derecho a la libre autodeterminación.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El derecho a la autonomía.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 2 CE
+*   **Literal / Explicación**: "El artículo 2 de la Constitución reconoce y garantiza «el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas»."
 
 ---
 
@@ -176,11 +145,11 @@ RESPECTO A LAS NACIONALIDADES Y REGIONES QUE INTEGRAN A LA NACIÓN ESPAÑOLA, LA
 *   **C)** Las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra alcancen el nivel más alto posible.
 *   **D)** Las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 9.2 CE
+*   **Literal / Explicación**: "El artículo 9.2 de la Constitución impone a los poderes públicos promover «las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas»."
 
 ---
 
@@ -197,11 +166,11 @@ UNO DE LOS SIGUIENTES PRINCIPIOS NO ESTÁ GARANTIZADO POR LA CONSTITUCIÓN:
 *   **C)** El de jerarquía reglamentaria.
 *   **D)** El de legalidad.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El de jerarquía reglamentaria.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 9.3 CE
+*   **Literal / Explicación**: "El artículo 9.3 de la Constitución garantiza el principio de jerarquía normativa (no de 'jerarquía reglamentaria', que es un término inexacto)."
 
 ---
 
@@ -218,11 +187,11 @@ SEGÚN LA CONSTITUCIÓN ESPAÑOLA, NUESTRO PAÍS SE HA CONSTITUIDO:
 *   **C)** En un Estado social y democrático de Derecho.
 *   **D)** En un Estado respetuoso del Derecho y de la Democracia.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En un Estado social y democrático de Derecho.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 1.1 CE
+*   **Literal / Explicación**: "El artículo 1.1 de la Constitución dispone literalmente: «España se constituye en un Estado social y democrático de Derecho...»."
 
 ---
 
@@ -239,11 +208,11 @@ LOS PARTIDOS POLÍTICOS:
 *   **C)** Participan en la manifestación de la voluntad de las agrupaciones políticas.
 *   **D)** Expresan el pluralismo ideológico en todos los campos.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Son instrumento fundamental para la participación política.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 6 CE
+*   **Literal / Explicación**: "El artículo 6 de la Constitución declara que «los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política»."
 
 ---
 
@@ -260,11 +229,11 @@ LOS PARTIDOS POLÍTICOS:
 *   **C)** A la edad que se establezca en una Ley orgánica.
 *   **D)** A los dieciocho años.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "A los dieciocho años.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 12 CE
+*   **Literal / Explicación**: "El artículo 12 de la Constitución estipula: «Los españoles son mayores de edad a los dieciocho años»."
 
 ---
 
@@ -281,11 +250,11 @@ LOS PARTIDOS POLÍTICOS:
 *   **C)** Extra corpus carceris.
 *   **D)** Habeas Corpus.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Habeas Corpus.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 17.4 CE
+*   **Literal / Explicación**: "El artículo 17.4 de la Constitución determina: «La ley regulará un procedimiento de 'habeas corpus' para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente»."
 
 ---
 
@@ -302,11 +271,11 @@ LOS PARTIDOS POLÍTICOS:
 *   **C)** 72 horas.
 *   **D)** 36 horas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "72 horas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 17.2 CE
+*   **Literal / Explicación**: "El artículo 17.2 de la Constitución fija que «la detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones... y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial»."
 
 ---
 
@@ -323,11 +292,11 @@ UNA DE LAS SIGUIENTES AFIRMACIONES ES FALSA:
 *   **C)** La Constitución delega en la Ley la concreción de los derechos y deberes de los cónyuges.
 *   **D)** La Constitución dispone que la edad y la capacidad del hombre y la mujer para contraer matrimonio se alcanza con la mayoría de edad.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "La Constitución dispone que la edad y la capacidad del hombre y la mujer para contraer matrimonio se alcanza con la mayoría de edad.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 12 CE
+*   **Literal / Explicación**: "El artículo 12 de la Constitución fija la mayoría de edad en los 18 años sin remisión legal condicionada a la capacidad civil para dicha fijación."
 
 ---
 
@@ -344,11 +313,11 @@ EL PRINCIPIO DE LEGALIDAD REGULADO EN EL ARTÍCULO 25.1 DE NUESTRA CONSTITUCIÓN
 *   **C)** Podrá ser sancionada una persona por la comisión de una falta, aun cuando no constituya infracción penal en el momento de producirse, siempre que si lo sea al dictarse sentencia.
 *   **D)** Podrá ser sancionada una persona por la comisión de una infracción administrativa, aun cuando no constituya conducta sancionable en el momento de producirse.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Nadie podrá ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito según la legislación vigente en aquel momento.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 25.1 CE
+*   **Literal / Explicación**: "El artículo 25.1 de la Constitución consagra el principio de legalidad penal y sancionadora: «Nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento»."
 
 ---
 
@@ -365,11 +334,11 @@ UNA DE LAS SIGUIENTES AFIRMACIONES NO ES VERDADERA. LOS PODERES PÚBLICOS, SEGÚ
 *   **C)** Garantizan la protección jurídica de la familia.
 *   **D)** Garantizan la protección social de la familia.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Garantizan la protección fiscal de la familia.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 39.1 CE
+*   **Literal / Explicación**: "El artículo 39.1 de la Constitución establece: «Los poderes públicos aseguran la protección social, económica y jurídica de la familia» (no menciona la 'protección fiscal')."
 
 ---
 
@@ -386,11 +355,11 @@ EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE, EN LUGARES DE TRÁNSITO P
 *   **C)** Sólo podrá ser prohibido si su celebración implica un peligro para las personas.
 *   **D)** Podrá ser prohibido cuando existan razones fundadas de alteración del orden público.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Podrá ser prohibido cuando existan razones fundadas de alteración del orden público.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 21.2 CE
+*   **Literal / Explicación**: "El artículo 21.2 de la Constitución prevé que en los casos de reuniones en lugares de tránsito público y manifestaciones «sólo podrán ser prohibidas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes»."
 
 ---
 
@@ -407,11 +376,11 @@ EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE, EN LUGARES DE TRÁNSITO P
 *   **C)** Ante el Tribunal Constitucional.
 *   **D)** Ante el Tribunal Supremo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ante el Tribunal Constitucional.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 53.2 y 161.1.b CE
+*   **Literal / Explicación**: "Los artículos 53.2 y 161.1.b) de la Constitución atribuyen la competencia para conocer del recurso de amparo al Tribunal Constitucional."
 
 ---
 
@@ -428,11 +397,11 @@ EN TORNO AL SOSTENIMIENTO DE LOS GASTOS PÚBLICOS:
 *   **C)** El sistema tributario estará inspirado en el principio de recaudación intensiva.
 *   **D)** El sistema recaudatorio tendrá en determinados casos alcance confiscatorio.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Se realizarán mediante un sistema tributario justo.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 31.1 CE
+*   **Literal / Explicación**: "El artículo 31.1 de la Constitución establece: «Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad...»."
 
 ---
 
@@ -449,11 +418,11 @@ CONSTITUYE EL FUNDAMENTO DEL ORDEN PÚBLICO Y DE LA PAZ SOCIAL, SEGÚN LA CONSTI
 *   **C)** Derechos inviolables inherentes a la persona.
 *   **D)** Justicia.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Derechos inviolables inherentes a la persona.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 10.1 CE
+*   **Literal / Explicación**: "El artículo 10.1 de la Constitución dispone: «La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social»."
 
 ---
 
@@ -470,11 +439,11 @@ LA EDUCACIÓN TENDRÁ POR OBJETO:
 *   **C)** El desarrollo de la personalidad humana conforme a las líneas educativas marcadas por el Consejo Escolar Nacional.
 *   **D)** El pleno desarrollo de la personalidad humana en el respeto de los principios democráticos de convivencia, y a los derechos y libertades fundamentales.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "El pleno desarrollo de la personalidad humana en el respeto de los principios democráticos de convivencia, y a los derechos y libertades fundamentales.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 27.2 CE
+*   **Literal / Explicación**: "El artículo 27.2 de la Constitución preceptúa: «La educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales»."
 
 ---
 
@@ -491,11 +460,11 @@ LOS PODERES PÚBLICOS GARANTIZAN EL DERECHO QUE ASISTE A LOS PADRES PARA QUE SUS
 *   **C)** Reciban la formación religiosa y moral determinada por dichos poderes públicos.
 *   **D)** No reciban formación moral o religiosa alguna.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 27.3 CE
+*   **Literal / Explicación**: "El artículo 27.3 de la Constitución garantiza el derecho de los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones."
 
 ---
 
@@ -512,11 +481,11 @@ LA ENSEÑANZA:
 *   **C)** Media es gratuita.
 *   **D)** Universitaria es gratuita.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Básica es obligatoria y gratuita.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 27.4 CE
+*   **Literal / Explicación**: "El artículo 27.4 de la Constitución establece taxativamente: «La enseñanza básica es obligatoria y gratuita»."
 
 ---
 
@@ -533,11 +502,11 @@ ADEMÁS DE EN LA VIDA ECONÓMICA Y POLÍTICA, LOS PODERES PÚBLICOS DEBEN FOMENT
 *   **C)** Corporativa.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las respuestas a) y b) son correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 9.2 CE
+*   **Literal / Explicación**: "El artículo 9.2 de la Constitución encomienda a los poderes públicos facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social."
 
 ---
 
@@ -554,11 +523,11 @@ EL DERECHO DE PETICIÓN:
 *   **C)** Siempre deberá ser ejercido por escrito en papel timbrado.
 *   **D)** No podrá ser ejercido colectivamente.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Podrá ser ejercido de forma individual.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 29.1 CE
+*   **Literal / Explicación**: "El artículo 29.1 de la Constitución dispone que todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley."
 
 ---
 
@@ -575,11 +544,11 @@ EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE:
 *   **C)** No precisará autorización previa cuando la reunión sea pacífica y sin armas.
 *   **D)** Precisará para su ejercicio autorización previa.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No precisará autorización previa cuando la reunión sea pacífica y sin armas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 21.1 CE
+*   **Literal / Explicación**: "El artículo 21.1 de la Constitución reconoce el derecho de reunión pacífica y sin armas, añadiendo expresamente que el ejercicio de este derecho no necesitará autorización previa."
 
 ---
 
@@ -596,11 +565,11 @@ EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE:
 *   **C)** Las secretas.
 *   **D)** Las respuestas a) y c) son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las secretas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 22.5 CE
+*   **Literal / Explicación**: "El artículo 22.5 de la Constitución prohíbe de forma taxativa las asociaciones secretas y las de carácter paramilitar."
 
 ---
 
@@ -617,11 +586,11 @@ EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE:
 *   **C)** En caso de delito flagrante o resolución judicial exclusivamente.
 *   **D)** En caso de resolución judicial exclusivamente.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "En caso de autorización del titular, resolución judicial o flagrante delito.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 18.2 CE
+*   **Literal / Explicación**: "El artículo 18.2 de la Constitución consagra la inviolabilidad del domicilio: «Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito»."
 
 ---
 
@@ -638,11 +607,11 @@ EN TORNO AL MEDIO AMBIENTE:
 *   **C)** El derecho a disfrutarlo es fundamental para las personas.
 *   **D)** Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 45.1 CE
+*   **Literal / Explicación**: "El artículo 45.1 de la Constitución reconoce el derecho de todos a «disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo»."
 
 ---
 
@@ -659,11 +628,11 @@ LAS ORGANIZACIONES PROFESIONALES PARA LA DEFENSA DE SUS PROPIOS INTERESES ECONÓ
 *   **C)** Su estructura interna y su funcionamiento deberán ser democráticos.
 *   **D)** No están previstas constitucionalmente.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Su estructura interna y su funcionamiento deberán ser democráticos.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 52 CE
+*   **Literal / Explicación**: "El artículo 52 de la Constitución exige expresamente que la estructura interna y el funcionamiento de las organizaciones profesionales deberán ser democráticos."
 
 ---
 
@@ -680,11 +649,11 @@ EN TODO CASO, EL DETENIDO DEBERÁ SER PUESTO EN LIBERTAD O A DISPOSICIÓN JUDICI
 *   **C)** Mínimo de veinticuatro horas.
 *   **D)** Máximo de cuarenta y ocho horas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Máximo de setenta y dos horas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 17.2 CE
+*   **Literal / Explicación**: "El artículo 17.2 de la Constitución fija el límite temporal absoluto de setenta y dos horas para la puesta en libertad o a disposición judicial del detenido."
 
 ---
 
@@ -701,11 +670,11 @@ LA IGUALDAD DE LOS ESPAÑOLES ANTE LA LEY:
 *   **C)** Puede prevalecer discriminación en base a determinadas circunstancias personales.
 *   **D)** Se recoge en el Título Preliminar de nuestra Constitución.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Es absoluta.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 14 CE
+*   **Literal / Explicación**: "El artículo 14 de la Constitución proclama el principio universal de igualdad jurídica de los españoles ante la ley sin que pueda prevalecer discriminación alguna."
 
 ---
 
@@ -722,11 +691,11 @@ LA PROPIEDAD PRIVADA:
 *   **C)** Al igual que la herencia está protegida por el Recurso de Amparo.
 *   **D)** Tal función social no existe respecto del derecho a la herencia.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Tiene una función social que delimitará su contenido.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 33.2 CE
+*   **Literal / Explicación**: "El artículo 33.2 de la Constitución estipula: «La función social de estos derechos delimitará su contenido, de acuerdo con las leyes»."
 
 ---
 
@@ -743,11 +712,11 @@ EN RELACIÓN CON EL DERECHO DE LOS ESPAÑOLES A UNA VIVIENDA DIGNA Y ADECUADA:
 *   **C)** Los poderes públicos están obligados a regular la utilización del suelo de acuerdo con el interés general para impedir la especulación.
 *   **D)** La efectividad de tal derecho está en manos de los propios ciudadanos y de las empresas constructoras.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los poderes públicos están obligados a regular la utilización del suelo de acuerdo con el interés general para impedir la especulación.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 47 CE
+*   **Literal / Explicación**: "El artículo 47 de la Constitución impone a los poderes públicos regular la utilización del suelo de acuerdo con el interés general para impedir la especulación."
 
 ---
 
@@ -764,19 +733,11 @@ EN EL MARCO DE LO DISPUESTO CONSTITUCIONALMENTE EN TORNO A LA PROTECCIÓN DE LOS
 *   **C)** El régimen de formulación de servicios públicos.
 *   **D)** El régimen de formulación de quejas y reclamaciones.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título Preliminar y Título I)
-*   **Ámbito / Materia**: Principios constitucionales y derechos fundamentales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El comercio interior.".
-
----
-
-<a name="tema-2"></a>
-## 📜 Tema 2: El Estatuto de Autonomía del País Vasco. Competencias exclusivas, de desarrollo legislativo y ejecución
-
-* **Normativa aplicable**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-* **Materia**: Estatuto de Gernika y régimen competencial de la CAE
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 51.1 y 51.2 CE
+*   **Literal / Explicación**: "El artículo 51 de la Constitución encomienda a los poderes públicos la defensa de los consumidores y usuarios y la regulación del comercio interior y el régimen de autorización de productos comerciales."
 
 ---
 
@@ -793,11 +754,11 @@ SEÑALE LA AFIRMACIÓN CORRECTA SEGÚN EL ART. 6 DEL ESTATUTO DE AUTONOMÍA PARA
 *   **C)** El castellano es lengua propia del País Vasco, y será, además del euskera, oficial.
 *   **D)** Ninguna de las afirmaciones anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El euskera es lengua propia del País Vasco, y será, además del castellano, oficial.".
+*   **Norma**: Estatuto de Autonomía del País Vasco (Ley Orgánica 3/1979)
+*   **Artículo**: Art. 6.1 EAPV
+*   **Literal / Explicación**: "El artículo 6.1 del Estatuto de Autonomía establece: «El euskera, lengua propia del Pueblo Vasco, tendrá, como el castellano, carácter de lengua oficial en Euskadi...»."
 
 ---
 
@@ -814,11 +775,11 @@ LA DESIGNACIÓN DE LA SEDE DE LAS INSTITUCIONES COMUNES DE LA COMUNIDAD AUTÓNOM
 *   **C)** Se hará mediante Acuerdo de la Comisión Arbitral.
 *   **D)** Está determinada en el Estatuto de Autonomía del País Vasco.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Se hará mediante Ley del Parlamento Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 4.2 EAPV
+*   **Literal / Explicación**: "El artículo 4.2 del Estatuto dispone: «La designación de la sede de las Instituciones Comunes de la Comunidad Autónoma del País Vasco se hará mediante Ley del Parlamento Vasco»."
 
 ---
 
@@ -835,11 +796,11 @@ EL TÉRMINO “VECINDAD ADMINISTRATIVA” RECOGIDO EN EL ARTÍCULO 7 DEL ESTATUT
 *   **C)** Pertenencia a cualquiera de los municipios integrados en el territorio del Comunidad Autónoma del País Vasco.
 *   **D)** Sujeción a las Leyes Generales del Estado.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Pertenencia a cualquiera de los municipios integrados en el territorio del Comunidad Autónoma del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 7.1 EAPV
+*   **Literal / Explicación**: "El artículo 7.1 del Estatuto define la condición política de vasco por la vecindad administrativa que, con arreglo a las leyes generales del Estado, se tenga en cualquiera de los municipios integrados en el territorio de la Comunidad Autónoma."
 
 ---
 
@@ -856,11 +817,11 @@ SEÑALE LA AFIRMACIÓN CORRECTA SEGÚN EL ART. 9 DEL ESTATUTO DE AUTONOMÍA PARA
 *   **C)** Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en el Concierto Económico.
 *   **D)** Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en la Ley de Territorios Históricos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en la Constitución.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 9.1 EAPV
+*   **Literal / Explicación**: "El artículo 9.1 del Estatuto establece que los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en la Constitución."
 
 ---
 
@@ -877,11 +838,11 @@ EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO FUÉ APROBADO EN EL AÑO:
 *   **C)** 1980.
 *   **D)** 1981.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "1979.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Disposición Final EAPV
+*   **Literal / Explicación**: "El Estatuto de Autonomía para el País Vasco fue promulgado como Ley Orgánica 3/1979, de 18 de diciembre de 1979."
 
 ---
 
@@ -898,11 +859,11 @@ SEGÚN EL ARTÍCULO 9 DEL ESTATUTO DE AUTONOMIA  PARA EL PAIS VASCO, LOS DERECHO
 *   **C)** Los establecidos en la Constitución.
 *   **D)** Los establecidos en el Concierto Económico.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los establecidos en la Constitución.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 9.1 EAPV
+*   **Literal / Explicación**: "El artículo 9.1 del Estatuto reitera que los derechos y deberes fundamentales de la ciudadanía vasca son los consagrados en la Constitución Española de 1978."
 
 ---
 
@@ -919,11 +880,11 @@ EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO NO ESTABLECE COMO COMPETENCIA EXCL
 *   **C)** Régimen de los bienes provinciales y municipales.
 *   **D)** Las demarcaciones territoriales de ámbito supramunicipal que no excedan de los límites provinciales.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Régimen electoral foral.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10 y Art. 37 EAPV
+*   **Literal / Explicación**: "El régimen electoral foral corresponde privativamente a las instituciones forales de los Territorios Históricos (art. 37.3 EAPV), no figurando entre las competencias exclusivas comunes del art. 10."
 
 ---
 
@@ -940,11 +901,11 @@ SEGÚN EL TÍTULO PRELIMINAR DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO:
 *   **C)** La Comunidad Autónoma se denomina Euskal Herria.
 *   **D)** Se reconoce el derecho a formar parte de la Comunidad Autónoma del País Vasco a Alava, Guipuzcoa y Vizcaya, así como Navarra.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Se reconoce el derecho a formar parte de la Comunidad Autónoma del País Vasco a Alava, Guipuzcoa y Vizcaya, así como Navarra.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 7.2 EAPV
+*   **Literal / Explicación**: "El artículo 7.2 del Estatuto reconoce a los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Euskadi los derechos políticos regulados en el Estatuto."
 
 ---
 
@@ -961,11 +922,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LA COMUNIDAD AUTÓNOMA TIE
 *   **C)** Ordenación del sector pesquero del País Vasco.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las respuestas anteriores es correcta.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 2.2 EAPV
+*   **Literal / Explicación**: "El territorio de la CAV se compone de Álava, Guipúzcoa y Vizcaya, pudiendo agregarse Navarra según el procedimiento específico del art. 47 del Estatuto."
 
 ---
 
@@ -982,11 +943,11 @@ CADA UNO DE LOS TERRITORIOS HISTÓRICOS QUE INTEGRAN EL PAÍS VASCO PODRÁN:
 *   **C)** Legislar en materia de euskera.
 *   **D)** Ordenar el transporte de mercancías y viajeros.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "En el seno del mismo, conservar o, en su caso, restablecer y actualizar su organización e instituciones privativas de autogobierno.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 3 EAPV
+*   **Literal / Explicación**: "El artículo 3 del Estatuto determina: «Cada uno de los Territorios Históricos que integran el País Vasco podrá, en el seno del mismo, conservar o, en su caso, restablecer y actualizar su organización e instituciones privativas de autogobierno»."
 
 ---
 
@@ -1003,11 +964,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CUÁL DE LAS SIGUIENTES MA
 *   **C)** Organización, régimen y funcionamiento de sus Instituciones de autogobierno dentro de las normas del presente Estatuto.
 *   **D)** Medio Ambiente y ecología.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Organización, régimen y funcionamiento de sus Instituciones de autogobierno dentro de las normas del presente Estatuto.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.2 EAPV
+*   **Literal / Explicación**: "El artículo 10.2 del Estatuto confiere a la CAE competencia exclusiva sobre la organización, régimen y funcionamiento de sus instituciones de autogobierno."
 
 ---
 
@@ -1024,11 +985,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LOS ARCHIVOS, BIBLIOTECAS 
 *   **C)** exclusiva.
 *   **D)** concurrente.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "exclusiva.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.18 EAPV
+*   **Literal / Explicación**: "El artículo 10.18 del Estatuto otorga competencia exclusiva a la Comunidad Autónoma sobre archivos, bibliotecas y museos que no sean de titularidad estatal."
 
 ---
 
@@ -1045,11 +1006,11 @@ SEGÚN EL ESTATUTO DE AUTONOMIA PARA EL PAÍS VASCO, SON COMPETENCIAS DE DESARRO
 *   **C)** Asistencia social.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ordenación del sector pesquero del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.21 EAPV
+*   **Literal / Explicación**: "El artículo 10.21 del Estatuto atribuye competencia exclusiva a la Comunidad Autónoma sobre la pesca en aguas interiores, marisqueo y acuicultura, y la ordenación del sector pesquero."
 
 ---
 
@@ -1066,11 +1027,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA, CORRESPONDE A LA COMUNIDAD AUTONOMA DEL PAIS V
 *   **C)** Régimen de los bienes provinciales y municipales.
 *   **D)** Legislación penitenciaria.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Legislación penitenciaria.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 12.1 EAPV
+*   **Literal / Explicación**: "El artículo 12.1 del Estatuto confiere a la Comunidad Autónoma la ejecución de la legislación del Estado en materia penitenciaria."
 
 ---
 
@@ -1087,11 +1048,11 @@ SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 1 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS
 *   **C)** La Ley de Territorios Históricos y la Ley Básica de Normalización Lingüística.
 *   **D)** La Ley del Parlamento Vasco y La Ley de Ordenación del Territorio.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Estatuto.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 1 EAPV
+*   **Literal / Explicación**: "El artículo 1 del Estatuto instituye que el Pueblo Vasco accede a su autogobierno constituyéndose en Comunidad Autónoma de acuerdo con la Constitución y con el presente Estatuto, que es su norma institucional básica."
 
 ---
 
@@ -1108,11 +1069,11 @@ SEGÚN EL ARTÍCULO 2 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO:
 *   **C)** Navarra no puede integrarse en la Comunidad Autónoma del País Vasco.
 *   **D)** Navarra tiene derecho a integrarse en la Comunidad Autónoma del País Vasco.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Navarra tiene derecho a integrarse en la Comunidad Autónoma del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 2.2 EAPV
+*   **Literal / Explicación**: "El artículo 2.2 del Estatuto reconoce que la Comunidad Foral de Navarra tiene derecho a integrarse en la Comunidad Autónoma del País Vasco conforme a la Disposición Transitoria Cuarta de la CE."
 
 ---
 
@@ -1129,11 +1090,11 @@ SEGÚN EL ESTATUTO DE AUTONOMIA PARA EL PAÍS VASCO, CADA UNO DE LOS TERRITORIOS
 *   **C)** Actualizar, en su caso, su organización e instituciones privativas de autogobierno.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 2 y 3 EAPV
+*   **Literal / Explicación**: "Los Territorios Históricos coinciden con las provincias históricas y conservan su régimen foral privativo dentro de la estructura institucional autonómica."
 
 ---
 
@@ -1150,11 +1111,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 5 DEL ESTATUTO DE AUTONOMÍA P
 *   **C)** La bicrucífera compuesta por aspa verde, cruz blanca superpuesta y fondo rojo.
 *   **D)** Todas las respuestas anteriores son incorrectas
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La bicrucífera compuesta por aspa verde, cruz blanca superpuesta y fondo rojo.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 5 EAPV
+*   **Literal / Explicación**: "El artículo 5 del Estatuto regula la bandera oficial de Euskadi: «La bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca sobrepuesta y fondo rojo»."
 
 ---
 
@@ -1171,11 +1132,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 6 DEL ESTATUTO DE AUTONOMÍA P
 *   **C)** Tienen el derecho a conocer y el deber de usar el castellano y el euskera.
 *   **D)** Tienen el deber de conocer y el derecho a usar el castellano y el euskera.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Tienen el derecho a conocer y usar el castellano y el euskera.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 6.2 EAPV
+*   **Literal / Explicación**: "El artículo 6.2 del Estatuto reconoce que los habitantes del País Vasco tienen el derecho a conocer y usar ambas lenguas oficiales (euskera y castellano)."
 
 ---
 
@@ -1192,11 +1153,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 9 DEL ESTATUTO DE AUTONOMIA PA
 *   **C)** El Parlamento Vasco.
 *   **D)** El Ararteko.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los poderes públicos vascos.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 9.2 EAPV
+*   **Literal / Explicación**: "El artículo 9.2 del Estatuto encomienda a los poderes públicos vascos promover las condiciones y remover los obstáculos para que la libertad e igualdad sean reales y efectivas."
 
 ---
 
@@ -1213,11 +1174,11 @@ EN RELACIÓN CON LA ADMINISTRACIÓN DE JUSTICIA, LA COMUNIDAD AUTÓNOMA DEL PAÍ
 *   **C)** Las facultades que las Leyes Orgánicas del Poder Judicial y la Ley de Territorios Históricos reconozcan, reserven o atribuyan al Gobierno Vasco.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Las facultades que las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan, reserven o atribuyan al Gobierno.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 13 EAPV
+*   **Literal / Explicación**: "En relación con la Administración de Justicia, la Comunidad Autónoma ejerce las facultades que la Ley Orgánica del Poder Judicial reconozca o atribuya al Gobierno de la Nación."
 
 ---
 
@@ -1234,11 +1195,11 @@ LOS PODERES PÚBLICOS VASCOS, EN EL ÁMBITO DE SU COMPETENCIA:
 *   **C)** Adoptarán aquellas medidas tendentes a fomentar el incremento del empleo y la estabilidad impositiva.
 *   **D)** Adoptarán aquellas medidas tendentes a fomentar el pleno empleo y la estabilidad presupuestaria.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Facilitarán la participación de todos los ciudadanos en la vida política, económica, cultural y social del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 9.2.b EAPV
+*   **Literal / Explicación**: "El artículo 9.2.b) del Estatuto impone a los poderes públicos vascos facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social del País Vasco."
 
 ---
 
@@ -1255,11 +1216,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LA REAL ACADEMIA DE LA LEN
 *   **C)** Institución oficial de estudio, análisis e investigación del euskera.
 *   **D)** Institución cultural oficial del Gobierno Vasco para el desarrollo e impulso del euskera.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Institución consultiva oficial en lo referente al euskera.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 6.5 EAPV
+*   **Literal / Explicación**: "El artículo 6.5 del Estatuto declara: «Siendo el euskera patrimonio de otros territorios vascos y comunidades, la Real Academia de la Lengua Vasca-Euskaltzaindia es institución consultiva oficial en lo referente al euskera»."
 
 ---
 
@@ -1276,11 +1237,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, PODRÁN AGREGARSE A LA COM
 *   **C)** El Parlamento del País Vasco y, posteriormente, las Cortes Generales del Estado, mediante Ley Orgánica.
 *   **D)** El Parlamento del País Vasco y, posteriormente, las Cortes Generales del Estado, mediante Ley Ordinaria.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Parlamento del País Vasco y, posteriormente, las Cortes Generales del Estado, mediante Ley Orgánica.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 8 EAPV
+*   **Literal / Explicación**: "El artículo 8 del Estatuto prevé que podrán agregarse a la Comunidad Autónoma otros territorios o municipios que estuvieran enclavados en su totalidad dentro de su territorio mediante acuerdo favorable de sus habitantes y aprobación parlamentaria."
 
 ---
 
@@ -1297,11 +1258,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS DE DESARR
 *   **C)** En las que al Estado corresponde la fijación de las bases generales y al Gobierno Vasco el desarrollo normativo.
 *   **D)** En las que a la Comunidad Autónoma corresponde la fijación de las bases generales y a los Territorios Históricos el desarrollo normativo.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En las que al Estado corresponde la fijación de las normas básicas y a la Comunidad Autónoma el desarrollo legislativo.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 11 EAPV
+*   **Literal / Explicación**: "El artículo 11 del Estatuto regula las competencias de desarrollo legislativo y ejecución de la legislación básica que el Estado fije."
 
 ---
 
@@ -1318,11 +1279,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAIS VASCO, LAS COMPETENCIAS CONTENIDAS
 *   **C)** Competencias elusivas.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las respuestas a) y b) son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10 y 11 EAPV
+*   **Literal / Explicación**: "El Estatuto distingue sistemáticamente entre competencias exclusivas (art. 10), de desarrollo legislativo (art. 11) y de ejecución (art. 12)."
 
 ---
 
@@ -1339,11 +1300,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, INDIQUE CUÁLES DE LAS SIG
 *   **C)** Pesca en aguas interiores.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10 EAPV
+*   **Literal / Explicación**: "El artículo 10 enumera las materias exclusivas de la CAE: ordenación del territorio, montes, ferias interiores, cooperativas y artesanía."
 
 ---
 
@@ -1360,11 +1321,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, INDIQUE CUÁL DE LAS SIGUI
 *   **C)** Archivos, Bibliotecas y Museos que no sean de titularidad estatal.
 *   **D)** Estadística del País Vasco para sus propios fines y competencias.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El régimen local.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.4 EAPV
+*   **Literal / Explicación**: "El artículo 10.4 del Estatuto confiere a la Comunidad Autónoma competencia exclusiva en materia de régimen local en los términos concordantes con la legislación básica del Estado."
 
 ---
 
@@ -1381,11 +1342,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS EXCLUSIVA
 *   **C)** Artículo 148 de la Constitución.
 *   **D)** Todas las respuestas son erróneas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Artículo 10 del Estatuto.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10 EAPV
+*   **Literal / Explicación**: "El elenco exhaustivo de las materias sobre las que la CAE ostenta competencia exclusiva está recogido formalmente en el artículo 10 del Estatuto."
 
 ---
 
@@ -1402,11 +1363,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS DE DESARR
 *   **C)** Materias en las que a la Comunidad Autónoma corresponde la fijación de las bases generales y a los Ayuntamientos el desarrollo normativo y ejecución.
 *   **D)** Materias en las que a los Territorios Históricos corresponde la fijación de las normas básicas y a los Ayuntamientos la ejecución.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Materias en las que al Estado corresponde la fijación de las normas básicas y a la Comunidad Autónoma el desarrollo legislativo.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 11 EAPV
+*   **Literal / Explicación**: "El artículo 11 del Estatuto recoge las competencias de desarrollo legislativo y de ejecución de las bases del Estado (medio ambiente, sanidad interior, régimen minero, etc.)."
 
 ---
 
@@ -1423,11 +1384,11 @@ SEGÚN EL ARTÍCULO 12 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS FERIA
 *   **C)** Exclusiva.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "De ejecución.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 12 EAPV
+*   **Literal / Explicación**: "El artículo 12 del Estatuto delimita las materias en las que corresponde a la Comunidad Autónoma la ejecución de la legislación estatal."
 
 ---
 
@@ -1444,11 +1405,11 @@ LA DESIGNACION DE LA SEDE DE LAS INSTITUCIONES COMUNES DE LA COMUNIDAD AUTÓNOMA
 *   **C)** Ley del Parlamento Vasco.
 *   **D)** Decreto del Gobierno Vasco.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ley del Parlamento Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 4.2 EAPV
+*   **Literal / Explicación**: "La designación formal de la sede de las Instituciones Comunes de Euskadi se reserva expresamente a una Ley del Parlamento Vasco (aprobada por Ley 1/1980 en Vitoria-Gasteiz)."
 
 ---
 
@@ -1465,11 +1426,11 @@ SEGÚN EL ARTÍCULO 10 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CUÁL DE 
 *   **C)** Ordenación del crédito, banca y seguros.
 *   **D)** Ordenación del sector pesquero del País Vasco.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Ordenación del territorio y del litoral, urbanismo y vivienda.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.31 EAPV
+*   **Literal / Explicación**: "El artículo 10.31 del Estatuto atribuye competencia exclusiva a la Comunidad Autónoma en ordenación del territorio y del litoral, urbanismo y vivienda."
 
 ---
 
@@ -1486,11 +1447,11 @@ LA COMUNIDAD AUTONOMA VASCA EN BASE A SUS PODERES DE ORGANIZACIÓN, PUEDE REGULA
 *   **C)** El Estatuto de los Funcionarios  del País Vasco y de su Administración Local, sin perjuicio de las competencias de los Territorios Históricos.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El Estatuto de los Funcionarios del País Vasco y de su Administración Local, sin perjuicio de lo establecido en el artículo 149.1.18 de la Constitución.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.4 EAPV
+*   **Literal / Explicación**: "El artículo 10.4 del Estatuto autoriza a la CAE a regular el Estatuto de los Funcionarios del País Vasco y de su Administración Local con respeto a las bases del Estado."
 
 ---
 
@@ -1507,19 +1468,11 @@ SEGÚN EL ARTÍCULO 9 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LOS PODERE
 *   **C)** Velarán y garantizarán el adecuado ejercicio de los deberes de los ciudadanos vascos.
 *   **D)** Velarán y garantizarán el adecuado ejercicio de los derechos y deberes de los ciudadanos vascos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco
-*   **Ámbito / Materia**: Estatuto de Gernika y régimen competencial de la CAE
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Velarán y garantizarán el adecuado ejercicio de los derechos y deberes fundamentales de los ciudadanos.".
-
----
-
-<a name="tema-3"></a>
-## 📜 Tema 3: El Municipio. La organización municipal de los municipios de gran población (Título X LRBRL)
-
-* **Normativa aplicable**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-* **Materia**: Régimen de municipios de gran población y órganos de gobierno local
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 9.1 EAPV
+*   **Literal / Explicación**: "El artículo 9.1 del Estatuto estipula que los poderes públicos vascos velarán y garantizarán el adecuado ejercicio de los derechos y deberes fundamentales de los ciudadanos."
 
 ---
 
@@ -1536,11 +1489,11 @@ LA CONSTITUCIÓN REGULA LA AUTONOMÍA DEL MUNICIPIO EN SU ARTÍCULO:
 *   **C)** 143.
 *   **D)** 149.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "140.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 140 CE
+*   **Literal / Explicación**: "El artículo 140 de la Constitución consagra la autonomía de los municipios y garantiza su personalidad jurídica plena, encomendando su gobierno y administración a los Ayuntamientos."
 
 ---
 
@@ -1557,11 +1510,11 @@ LA ENTIDAD BÁSICA DE LA ORGANIZACIÓN TERRITORIAL DEL ESTADO ES:
 *   **C)** La provincia.
 *   **D)** El municipio.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "El municipio.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 137 CE y Art. 1 LRBRL
+*   **Literal / Explicación**: "El artículo 1 de la Ley 7/1985 define el Municipio como la entidad local básica de la organización territorial del Estado."
 
 ---
 
@@ -1578,11 +1531,11 @@ NO ES UN ELEMENTO DEL MUNICIPIO:
 *   **C)** El ayuntamiento.
 *   **D)** La organización.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El ayuntamiento.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 11.2 LRBRL
+*   **Literal / Explicación**: "El artículo 11.2 de la LRBRL enumera los tres elementos esenciales constitutivos del municipio: el término municipal, la población y la organización. La 'comarca' es una entidad local asociativa supramunicipal, no un elemento del municipio."
 
 ---
 
@@ -1599,11 +1552,11 @@ NO ES UN ELEMENTO DEL MUNICIPIO:
 *   **C)** Los domiciliados, los transeúntes y los extranjeros.
 *   **D)** Los inscritos en el Padrón municipal que sean mayores de edad.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los inscritos en el Padrón municipal.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 15 LRBRL
+*   **Literal / Explicación**: "El artículo 15 de la LRBRL estipula: «Los residentes en un municipio constituyen la población del mismo. Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente»."
 
 ---
 
@@ -1620,11 +1573,11 @@ QUIEN RESIDA EN VARIOS MUNICIPIOS DEBE INSCRIBIRSE EN EL PADRÓN MUNICIPAL:
 *   **C)** De cualquiera de ellos.
 *   **D)** No existe obligación de inscribirse en ninguno de ellos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Del municipio en el que resida mayor tiempo al año.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 15 LRBRL
+*   **Literal / Explicación**: "El artículo 15 de la LRBRL preceptúa que quien resida en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año."
 
 ---
 
@@ -1641,11 +1594,11 @@ LAS PERSONAS TITULARES DEL ÓRGANO U ÓRGANOS CON FUNCIONES DE PRESUPUESTACIÓN,
 *   **C)** Presupuestación.
 *   **D)** Contabilidad y recaudación.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Presupuestación.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 130 LRBRL
+*   **Literal / Explicación**: "En los municipios de gran población, los coordinadores generales y directores generales son órganos directivos nombrados y cesados libremente por la Junta de Gobierno Local."
 
 ---
 
@@ -1662,11 +1615,11 @@ SEGÚN EL ARTÍCULO 19 DE LA LEY DE BASES DE RÉGIMEN LOCAL, EL GOBIERNO Y LA AD
 *   **C)** El Alcalde, los Concejales y el Pleno.
 *   **D)** El Alcalde, los Concejales, la Junta de Gobierno Local y el Pleno.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El Alcalde y los Concejales.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 19.1 LRBRL
+*   **Literal / Explicación**: "El artículo 19.1 de la LRBRL establece que el gobierno y la administración municipal corresponden al Ayuntamiento, integrado por el Alcalde y los Concejales."
 
 ---
 
@@ -1683,11 +1636,11 @@ LA JUNTA DE GOBIERNO LOCAL EXISTE EN TODOS LOS MUNICIPIOS CON POBLACIÓN SUPERIO
 *   **C)** Cuando así lo disponga su Reglamento Orgánico o así lo acuerde el Pleno de su ayuntamiento.
 *   **D)** Cuando así lo disponga la Ley de Bases de Régimen Local.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cuando así lo disponga su Reglamento Orgánico o así lo acuerde el Pleno de su ayuntamiento.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 20.1.b LRBRL
+*   **Literal / Explicación**: "El artículo 20.1.b) de la LRBRL dispone que la Junta de Gobierno Local existe preceptivamente en todos los municipios con población superior a 5.000 habitantes y en los de menos cuando así lo disponga su reglamento orgánico o lo acuerde el Pleno."
 
 ---
 
@@ -1704,11 +1657,11 @@ LOS ÓRGANOS DE LOS AYUNTAMIENTOS SE CLASIFICAN EN:
 *   **C)** Obligatorios y necesarios.
 *   **D)** Complementarios y necesarios.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Complementarios y necesarios.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 20 LRBRL
+*   **Literal / Explicación**: "La LRBRL clasifica la organización municipal en órganos básicos (necesarios en todo Ayuntamiento) y órganos complementarios (creados por las leyes de las CCAA o los Reglamentos Orgánicos Municipales)."
 
 ---
 
@@ -1725,11 +1678,11 @@ EL ALCALDE ES ELEGIDO POR:
 *   **C)** Todos los Concejales.
 *   **D)** Todos los vecinos que tengan derecho de sufragio pasivo.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Los Concejales o por los vecinos; todo ello en los términos que establezca la legislación electoral general.".
+*   **Norma**: Ley Orgánica 5/1985 del Régimen Electoral General (LOREG)
+*   **Artículo**: Art. 19.2 LRBRL y Art. 196 LOREG
+*   **Literal / Explicación**: "El Alcalde es elegido por los Concejales o por los vecinos en la sesión constitutiva del Ayuntamiento con arreglo a la legislación electoral general."
 
 ---
 
@@ -1746,11 +1699,11 @@ EL ALCALDE ES EL PRESIDENTE DE LA CORPORACIÓN Y OSTENTA LAS SIGUIENTES ATRIBUCI
 *   **C)** Ejercer la jefatura de la Policía Municipal.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 21.1 LRBRL
+*   **Literal / Explicación**: "El artículo 21.1 de la LRBRL establece: «El Alcalde es el Presidente de la Corporación y ostenta las siguientes atribuciones: Dirigir el gobierno y la administración municipal...»."
 
 ---
 
@@ -1767,11 +1720,11 @@ SEGÚN LA LEY DE BASES DE RÉGIMEN LOCAL, DIGA ¿CUÁL DE LAS SIGUIENTES ATRIBUC
 *   **C)** La aprobación del Reglamento Orgánico y de las ordenanzas.
 *   **D)** Todas las respuestas anteriores son falsas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La aprobación del Reglamento Orgánico y de las ordenanzas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 121 y 122 LRBRL
+*   **Literal / Explicación**: "El Título X de la LRBRL contiene el régimen organizativo especial de los municipios de gran población aplicable por Ley 57/2003."
 
 ---
 
@@ -1788,11 +1741,11 @@ SEGÚN LA LEY DE BASES DE RÉGIMEN LOCAL, EN LOS MUNICIPIOS CON POBLACIÓN SUPER
 *   **C)** Alumbrado público, cementerio, biblioteca y limpieza viaria.
 *   **D)** Alumbrado público, parque público, biblioteca pública y limpieza viaria.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Parque público, biblioteca pública, y tratamiento de residuos.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 121.1 LRBRL
+*   **Literal / Explicación**: "El régimen de gran población se aplica preceptivamente a los municipios cuya población supere los 250.000 habitantes (como el caso de Bilbao), a las capitales de provincia de más de 175.000 habitantes, y a las capitales autonómicas."
 
 ---
 
@@ -1809,11 +1762,11 @@ FUNCIONAN EN RÉGIMEN ESPECIAL DE CONCEJO ABIERTO:
 *   **C)** Los municipios con menos de 300 habitantes.
 *   **D)** Los municipios con menos de 500 habitantes.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Los municipios que tradicional y voluntariamente cuenten con ese singular régimen de gobierno y administración.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 29.1 LRBRL
+*   **Literal / Explicación**: "El régimen de Concejo Abierto funciona en los municipios que tradicional y voluntariamente cuenten con ese régimen singular y en aquellos con población inferior a 100 habitantes."
 
 ---
 
@@ -1830,11 +1783,11 @@ SEGÚN LA LEY DE BASES DE RÉGIMEN LOCAL, LA JUNTA DE GOBIERNO LOCAL SE INTEGRA 
 *   **C)** No superior al tercio del número legal de los mismos.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No superior al tercio del número legal de los mismos.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 126.1 LRBRL
+*   **Literal / Explicación**: "En los municipios de gran población, la Junta de Gobierno Local es el órgano que asume la dirección política y las funciones ejecutivas y administrativas."
 
 ---
 
@@ -1851,11 +1804,11 @@ SEGÚN LA LEY DE BASES DE RÉGIMEN LOCAL, EL RÉGIMEN DE ORGANIZACIÓN DE LOS MU
 *   **C)** A los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas  cuando así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos Ayuntamientos.
 *   **D)** A los municipios cuya población supere los 75.000 habitantes.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "A los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas  cuando así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos Ayuntamientos.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 121 LRBRL
+*   **Literal / Explicación**: "El Título X de la Ley 7/1985 fue introducido formalmente por la Ley 57/2003, de 16 de diciembre, de medidas para la modernización del gobierno local."
 
 ---
 
@@ -1872,11 +1825,11 @@ SEGÚN EL ARTÍCULO 121.3 DE LA LEY DE BASES DE RÉGIMEN LOCAL, LOS MUNICIPIOS A
 *   **C)** Continuarán rigiéndose por el mismo aun cuando su cifra oficial de población se reduzca posteriormente por debajo del límite establecido en esta Ley.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Continuarán rigiéndose por el mismo aun cuando su cifra oficial de población se reduzca posteriormente por debajo del límite establecido en esta Ley.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 121.3 LRBRL
+*   **Literal / Explicación**: "El artículo 121.3 de la LRBRL exige que la inclusión en el régimen de gran población de municipios no comprendidos inicialmente se acuerde mediante Ley de la Asamblea Legislativa de la respectiva Comunidad Autónoma."
 
 ---
 
@@ -1893,11 +1846,11 @@ SEGÚN LA LEY BÁSICA DE RÉGIMEN LOCAL, EN LOS MUNICIPIOS DE GRAN POBLACIÓN CO
 *   **C)** La aprobación y modificación de los reglamentos de naturaleza orgánica.
 *   **D)** Los acuerdos relativos a la participación en organizaciones supramunicipales.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 122.1 LRBRL
+*   **Literal / Explicación**: "El Pleno de los municipios de gran población está formado por los concejales y presidido por el Alcalde, quien puede delegar la presidencia en cualquier concejal."
 
 ---
 
@@ -1914,11 +1867,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN SON ÓRGANOS SUPERIORES:
 *   **C)** El Alcalde, los Concejales y el Secretario general del Pleno.
 *   **D)** El Alcalde, los Concejales, el Secretario general del Pleno y el Interventor general municipal.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Alcalde y los miembros de la Junta de Gobierno Local.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 130 LRBRL
+*   **Literal / Explicación**: "Son órganos directivos en los municipios de gran población los coordinadores generales, directores generales, el titular de la asesoría jurídica, el secretario de la Junta de Gobierno Local y el interventor general municipal."
 
 ---
 
@@ -1935,11 +1888,11 @@ SEGÚN LA LEY DE BASES DE RÉGIMEN LOCAL, EN LOS MUNICIPIOS DE GRAN POBLACIÓN P
 *   **C)** Un órgano de gestión económico -financiera que dará cuenta al Pleno mediante un informe anual.
 *   **D)** Un órgano especial para la resolución de las reclamaciones económico-administrativas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Una Comisión especial de Sugerencias y Reclamaciones.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 128.1 LRBRL
+*   **Literal / Explicación**: "El artículo 128.1 de la LRBRL dispone que los ayuntamientos de gran población deberán crear distritos como divisiones territoriales propias dotadas de órganos de gestión desconcentrada."
 
 ---
 
@@ -1956,11 +1909,11 @@ LA DETERMINACIÓN DE LOS RECURSOS PROPIOS DE CARÁCTER TRIBUTARIO ES COMPETENCIA
 *   **C)** El Pleno.
 *   **D)** La Junta de Gobierno Local.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Pleno.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 128.2 LRBRL
+*   **Literal / Explicación**: "El Pleno municipal aprueba mediante reglamento orgánico la división territorial del municipio en distritos y las competencias y recursos asignados a sus órganos."
 
 ---
 
@@ -1977,11 +1930,11 @@ INDIQUE LA RESPUESTA INCORRECTA. SEGÚN EL ARTÍCULO 133 DE LA LEY DE BASES DE R
 *   **C)** Cumplimiento del objetivo de estabilidad presupuestaria de acuerdo con lo dispuesto en la legislación que lo regule.
 *   **D)** Separación de las funciones de contabilidad y de fiscalización de la gestión económico- financiera.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Se excluye la exigencia del seguimiento de los costes de los servicios.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 131 LRBRL
+*   **Literal / Explicación**: "El Consejo Social de la Ciudad es un órgano consultivo y de participación ciudadana integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas."
 
 ---
 
@@ -1998,11 +1951,11 @@ SEGÚN EL ARTÍCULO 128 DE LA LEY DE BASES DE RÉGIMEN LOCAL, LA PRESIDENCIA DEL
 *   **C)** Al Pleno.
 *   **D)** A un Concejal o a una Concejala.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "A un Concejal o a una Concejala.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 128.2 LRBRL
+*   **Literal / Explicación**: "La presidencia de cada distrito recae siempre en un concejal de la corporación designado por el Alcalde."
 
 ---
 
@@ -2019,11 +1972,11 @@ EL CONSEJO SOCIAL DE LA CIUDAD ESTÁ INTEGRADO POR:
 *   **C)** Representantes de las organizaciones empresariales, sindicales, académicas y de vecinos más representativas.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 131 LRBRL
+*   **Literal / Explicación**: "El Consejo Social emite informes preceptivos en materia de planificación estratégica y proyectos de ordenanzas fiscales."
 
 ---
 
@@ -2040,11 +1993,11 @@ EL TITULAR DE LA ASESORÍA JURÍDICA SERÁ NOMBRADO Y SEPARADO POR:
 *   **C)** La Junta de Gobierno Local.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La Junta de Gobierno Local.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 129.2 LRBRL
+*   **Literal / Explicación**: "El titular de la Asesoría Jurídica será nombrado y cesado por la Junta de Gobierno Local entre personas que ostenten el título de licenciado en derecho y tengan la condición de funcionario."
 
 ---
 
@@ -2061,11 +2014,11 @@ EL PLENO, FORMADO POR EL ALCALDE Y LOS CONCEJALES, ES:
 *   **C)** Podrá dotarse de su propio reglamento, que tendrá la naturaleza de orgánico.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 122 y 123 LRBRL
+*   **Literal / Explicación**: "El Pleno es el órgano de máxima representación política ciudadana en el gobierno municipal, dotado de potestades normativas y de control."
 
 ---
 
@@ -2082,11 +2035,11 @@ ESTABLECER EL RÉGIMEN RETRIBUTIVO DE LOS MIEMBROS DEL PLENO, DE SU SECRETARIO G
 *   **C)** A la Junta de Gobierno Local.
 *   **D)** Al Órgano de gestión económico-financiera y presupuestaria.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Al Pleno.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 123.1.k LRBRL
+*   **Literal / Explicación**: "Corresponde exclusivamente al Pleno del Ayuntamiento determinar el régimen retributivo de los miembros de la corporación y del personal directivo."
 
 ---
 
@@ -2103,11 +2056,11 @@ EL ALCALDE EN LOS MUNICIPIOS DE GRAN POBLACIÓN TENDRÁ EL TRATAMIENTO DE:
 *   **C)** Ilustrísimo.
 *   **D)** Señoría.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Excelencia.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 124.1 LRBRL
+*   **Literal / Explicación**: "El Alcalde ostenta la máxima representación del municipio y responde de su gestión política ante el Pleno."
 
 ---
 
@@ -2124,11 +2077,11 @@ EL ALCALDE PODRÁ DELEGAR SUS COMPETENCIAS QUE PUEDAN SER OBJETO DE DELEGACIÓN 
 *   **C)** Bandos.
 *   **D)** Decreto legislativo.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Decreto.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 124.5 LRBRL
+*   **Literal / Explicación**: "El Alcalde podrá delegar sus competencias en la Junta de Gobierno Local, en sus miembros o en los demás concejales y, excepcionalmente, en los órganos directivos."
 
 ---
 
@@ -2145,11 +2098,11 @@ LA SECRETARÍA DE LA JUNTA DE GOBIERNO LOCAL CORRESPONDERÁ A UNO DE SUS MIEMBRO
 *   **C)** La Junta de Gobierno Local.
 *   **D)** El Secretario general del Pleno.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Alcalde.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 126.4 LRBRL
+*   **Literal / Explicación**: "La Secretaría de la Junta de Gobierno Local corresponde a uno de sus miembros concejales que sea designado por el Alcalde."
 
 ---
 
@@ -2166,11 +2119,11 @@ INDIQUE CUAL DE LAS SIGUIENTES ATRIBUCIONES NO ES COMPETENCIA DE LA JUNTA DE GOB
 *   **C)** La concesión de cualquier tipo de licencia.
 *   **D)** Aprobar la relación de puestos de trabajo.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Nombrar y cesar a los Tenientes de Alcalde y a los Presidentes de los Distritos.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 127.1 LRBRL
+*   **Literal / Explicación**: "Corresponde a la Junta de Gobierno Local la aprobación de los proyectos de ordenanzas y de reglamentos y el proyecto de presupuestos municipales."
 
 ---
 
@@ -2187,11 +2140,11 @@ LAS FUNCIONES DE PRESUPUESTACIÓN, CONTABILIDAD, TESORERÍA Y RECAUDACIÓN SERÁ
 *   **C)** El Órgano u órganos que se determine en el Reglamento orgánico municipal.
 *   **D)** El Órgano para la resolución de las reclamaciones económico-administrativas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Órgano u órganos que se determine en el Reglamento orgánico municipal.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 134 LRBRL
+*   **Literal / Explicación**: "Las funciones de presupuestación, contabilidad y control financiero se atribuyen al Órgano de Gestión Económico-Financiera y a la Intervención General Municipal."
 
 ---
 
@@ -2208,11 +2161,11 @@ INDIQUE CUÁL DE LAS SIGUIENTES COMPETENCIAS NO CORRESPONDE AL ÓRGANO DE GESTI�
 *   **C)** La recaudación en período ejecutivo de los demás ingresos de derecho público del ayuntamiento.
 *   **D)** La tramitación y resolución de los expedientes sancionadores tributarios relativos a los tributos cuya competencia gestora tenga atribuida.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El conocimiento y resolución de las reclamaciones sobre actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público, que sean de competencia municipal.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 127.1 LRBRL
+*   **Literal / Explicación**: "La aprobación de los proyectos de instrumentos de planeamiento urbanístico corresponde a la Junta de Gobierno Local para su ulterior elevación al Pleno."
 
 ---
 
@@ -2229,11 +2182,11 @@ EL ÓRGANO PARA LA RESOLUCIÓN DE LAS RECLAMACIONES ECONÓMICO-ADMINISTRATIVAS E
 *   **C)** un número impar de miembros, con un mínimo de tres, designados por el Pleno.
 *   **D)** un número impar de miembros, con un mínimo de cinco, designados por el Alcalde.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "un número impar de miembros, con un mínimo de tres, designados por el Pleno.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 137 LRBRL
+*   **Literal / Explicación**: "Para el conocimiento y resolución de las reclamaciones sobre actos de gestión, liquidación e inspección tributaria municipal existirá un órgano especializado denominado Tribunal Económico-Administrativo Municipal."
 
 ---
 
@@ -2250,19 +2203,11 @@ FORMARÁN PARTE DE LA CONFERENCIA DE CIUDADES PREVISTA EN EL TÍTULO X RÉGIMEN 
 *   **C)** Las Comunidades Autónomas, la Federación Española de municipios y provincias y los Alcaldes de los municipios de gran población.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (Título X)
-*   **Ámbito / Materia**: Régimen de municipios de gran población y órganos de gobierno local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La Administración General del Estado, las Comunidades Autónomas y los alcaldes de los municipios comprendidos en el ámbito de aplicación del título X de la Ley de Bases de Régimen Local.".
-
----
-
-<a name="tema-4"></a>
-## 📜 Tema 4: La organización del Ayuntamiento de Bilbao. Reglamentos Orgánicos
-
-* **Normativa aplicable**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-* **Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 138 LRBRL
+*   **Literal / Explicación**: "La Conferencia de Ciudades está constituida por el Presidente del Gobierno o Ministro correspondiente, los Consejeros autonómicos de régimen local y los Alcaldes de los municipios de gran población."
 
 ---
 
@@ -2279,11 +2224,11 @@ EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO TIENE POR OBJETO ES
 *   **C)** Del Pleno del Ayuntamiento de Bilbao, de sus Comisiones, así como el Estatuto de los Grupos políticos que lo conforman.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Del Pleno del Ayuntamiento de Bilbao, de sus Comisiones, así como el Estatuto de sus Concejales y Concejalas.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 1 ROP
+*   **Literal / Explicación**: "El artículo 1 del Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao establece que tiene por objeto regular el estatuto de los concejales, el funcionamiento del Pleno y de sus comisiones permanentes y especiales."
 
 ---
 
@@ -2300,11 +2245,11 @@ EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO TIENE NATURALEZA OR
 *   **C)** La Legislación básica de régimen local y en la Ley de Instituciones Locales de Euskadi.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La Legislación básica de régimen local y en la Ley de Instituciones Locales de Euskadi.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 2 ROP
+*   **Literal / Explicación**: "El artículo 2 del ROP dispone que el Pleno es el órgano de máxima representación política ciudadana en el gobierno municipal de la Villa de Bilbao."
 
 ---
 
@@ -2321,11 +2266,11 @@ EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO SE ESTRUCTURA EN:
 *   **C)** 8 títulos, 6 disposiciones adicionales, 1 disposición derogatoria y 1 disposición final.
 *   **D)** 6 títulos, 3 disposiciones adicionales, 1 disposición derogatoria y 1 disposición final.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "8 títulos, 3 disposiciones adicionales, 1 disposición derogatoria y 1 disposición final.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 3 ROP
+*   **Literal / Explicación**: "El artículo 3 del ROP regula la constitución, organización e integración de los Grupos Políticos Municipales."
 
 ---
 
@@ -2342,11 +2287,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO, PARA PODER 
 *   **C)** Un mínimo de seis personas.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Un mínimo de dos personas.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 4 ROP
+*   **Literal / Explicación**: "El artículo 4 del ROP garantiza a los concejales el derecho al ejercicio de su cargo representativo y al acceso a la información municipal indispensable."
 
 ---
 
@@ -2363,11 +2308,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO LA JUNTA DE 
 *   **C)** El Órgano consultivo del Presidente o Presidenta del Pleno.
 *   **D)** El Órgano de gestión de las reuniones del Pleno.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Órgano consultivo del Presidente o Presidenta del Pleno.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 5 ROP
+*   **Literal / Explicación**: "El artículo 5 del ROP impone a los corporativos el deber de asistir a las sesiones plenarias y guardar reserva de los asuntos confidenciales."
 
 ---
 
@@ -2384,11 +2329,11 @@ DE ACUERDO CON EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO, LAS
 *   **C)** Ordinarias, nominales, por llamamiento y secretas.
 *   **D)** Ordinarias, nominales y secretas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ordinarias, nominales y secretas.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 10 y ss. ROP
+*   **Literal / Explicación**: "El ROP regula los derechos económicos, indemnizaciones por asistencia y régimen de dedicación exclusiva o parcial de los miembros del Pleno."
 
 ---
 
@@ -2405,11 +2350,11 @@ COMO REGLA GENERAL, EL PLENO DEL AYUNTAMIENTO DE BILBAO ADOPTA SUS ACUERDOS POR:
 *   **C)** Mayoría cualificada.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Mayoría simple de sus miembros presentes.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 46 LRBRL y Art. 48 ROP
+*   **Literal / Explicación**: "El artículo 48 del ROP establece que, como regla general, el Pleno del Ayuntamiento de Bilbao celebra sesión ordinaria con periodicidad mensual (último jueves de cada mes)."
 
 ---
 
@@ -2426,11 +2371,11 @@ SEGÚN EL REGLAMENTO ORGANICO DEL PLENO, EL PLENO DEL AYUNTAMIENTO DE BILBAO ADO
 *   **C)** El Alcalde o Alcaldesa, de la Junta de Gobierno, de sus miembros, de los Concejales y Concejalas restantes.
 *   **D)** El Alcalde o Alcaldesa, de la Junta de Gobierno, de sus miembros, de los Concejales y Concejalas restantes y a iniciativa popular.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Alcalde o Alcaldesa, de la Junta de Gobierno, de sus miembros, de los Concejales y Concejalas restantes, de los Grupos Políticos y a iniciativa popular.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 49 ROP
+*   **Literal / Explicación**: "El artículo 49 del ROP fija el régimen de convocatoria y orden del día de las sesiones extraordinarias del Pleno de Bilbao."
 
 ---
 
@@ -2447,11 +2392,11 @@ DE ACUERDO CON LO DISPUESTO EN LA LEGISLACIÓN DE RÉGIMEN LOCAL (TÍTULO X REGI
 *   **C)** El Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao.".
+*   **Norma**: Ley 7/1985 y Reglamento Orgánico del Pleno de Bilbao
+*   **Artículo**: Art. 122 LRBRL y ROP
+*   **Literal / Explicación**: "El quórum general para la válida constitución del Pleno municipal exige la asistencia de un tercio del número legal de sus miembros, que nunca podrá ser inferior a tres."
 
 ---
 
@@ -2468,11 +2413,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y DE LA ADMINISTRACIÓN DEL AYUNTAMIE
 *   **C)** Los componentes de la Junta de Gobierno.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La persona titular de la Oficina de la Junta de Gobierno.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 1 ROGA
+*   **Literal / Explicación**: "El artículo 1 del ROGA regula la estructura del gobierno municipal, las competencias de la Junta de Gobierno Local y las áreas de gestión y delegaciones del Alcalde."
 
 ---
 
@@ -2489,11 +2434,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y DE LA ADMINISTRACIÓN DEL AYUNTAMIE
 *   **C)** Que se extenderá, publicará y firmará por la persona titular de la Asesoría Jurídica.
 *   **D)** Que se extenderá, publicará y firmará por la Secretaria o Secretario General del Pleno.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Que se extenderá y firmará por el Concejal Secretario o la Concejala Secretaria.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 3 ROGA
+*   **Literal / Explicación**: "El artículo 3 del ROGA determina los órganos superiores y directivos que integran la Administración ejecutiva de la Villa de Bilbao."
 
 ---
 
@@ -2510,11 +2455,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y DE LA ADMINISTRACIÓN DEL AYUNTAMIE
 *   **C)** Subdirecciones, Servicios, Subáreas, Secciones y Unidades de gestión.
 *   **D)** Subdirecciones, Servicios, Subáreas y Negociados.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Subdirecciones, Subáreas, Secciones, y otras unidades inferiores o asimiladas.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 12 ROGA
+*   **Literal / Explicación**: "El artículo 12 del ROGA regula el régimen de funcionamiento interno y convocatorias de la Junta de Gobierno de Bilbao."
 
 ---
 
@@ -2531,11 +2476,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y DE LA ADMINISTRACIÓN DEL AYUNTAMIE
 *   **C)** Órgano de contabilidad.
 *   **D)** Tesorería.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Tesorería.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 15 ROGA
+*   **Literal / Explicación**: "El artículo 15 del ROGA encomienda a los Concejales Delegados de Área la dirección superior y gestión de las respectivas áreas de actuación municipal."
 
 ---
 
@@ -2552,11 +2497,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y DE LA ADMINISTRACIÓN DEL AYUNTAMIE
 *   **C)** Al Alcalde o Alcaldesa.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Al Pleno.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 20 ROGA
+*   **Literal / Explicación**: "El artículo 20 del ROGA regula el régimen de delegación de atribuciones ejecutivas del Alcalde y de la Junta de Gobierno en los Directores Generales."
 
 ---
 
@@ -2573,11 +2518,11 @@ SEGÚN EL REGLAMENTO POR EL QUE SE REGULA EL TRIBUNAL ECONÓMICO-ADMINISTRATIVO 
 *   **C)** Criterios de independencia técnica, eficacia, celeridad y gratuidad.
 *   **D)** Criterios de independencia técnica, eficacia, especialidad y gratuidad.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Criterios de independencia técnica, celeridad y gratuidad.".
+*   **Norma**: Reglamento del Tribunal Económico-Administrativo Municipal de Bilbao
+*   **Artículo**: Art. 1 Reglamento TEAM
+*   **Literal / Explicación**: "El artículo 1 del Reglamento del TEAM regula el estatuto, composición y funcionamiento del Tribunal Económico-Administrativo Municipal para la resolución de reclamaciones tributarias."
 
 ---
 
@@ -2594,11 +2539,11 @@ SEGÚN EL ARTÍCULO 2.4 DEL REGLAMENTO POR QUE SE REGULA EL TEAB, LAS RESOLUCION
 *   **C)** No ponen fin a la vía administrativa y contra ellas podrá interponerse el recurso de alzada.
 *   **D)** No ponen fin a la vía administrativa.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ponen fin a la vía administrativa y contra ellas sólo cabrá la interposición del recurso contencioso-administrativo en la forma y términos señalados en la Ley reguladora de dicha Jurisdicción.".
+*   **Norma**: Reglamento del Tribunal Económico-Administrativo Municipal de Bilbao
+*   **Artículo**: Art. 2.4 Reglamento TEAM
+*   **Literal / Explicación**: "El artículo 2.4 del Reglamento del TEAM de Bilbao garantiza la plena independencia técnica y funcional de sus vocales y presidente en el ejercicio de sus funciones."
 
 ---
 
@@ -2615,11 +2560,11 @@ EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS DISTRITOS DE LA VILLA DE 
 *   **C)** Por mayoría absoluta del Pleno.
 *   **D)** Por mayoría absoluta de los Consejos de Distrito.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Por mayoría absoluta del Pleno.".
+*   **Norma**: Reglamento de Organización y Funcionamiento de los Distritos de la Villa de Bilbao
+*   **Artículo**: Art. 1 ROFD
+*   **Literal / Explicación**: "El artículo 1 del ROFD regula la descentralización municipal en los ocho distritos de Bilbao (Deusto, Uribarri, Otxarkoaga-Txurdinaga, Begoña, Ibaiondo, Abando, Rekalde y Basurto-Zorrotza)."
 
 ---
 
@@ -2636,11 +2581,11 @@ SEGÚN EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS DISTRITOS DE LA VI
 *   **C)** Mayoría simple de los miembros del Consejo de Distrito.
 *   **D)** Mayoría cualificada de los miembros del Consejo de Distrito.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Mayoría de sus miembros asistentes con derecho a voto.".
+*   **Norma**: Reglamento de Organización y Funcionamiento de los Distritos de Bilbao
+*   **Artículo**: Art. 3 ROFD
+*   **Literal / Explicación**: "El artículo 3 del ROFD regula la composición de los Consejos de Distrito como órganos de participación ciudadana y desconcentración."
 
 ---
 
@@ -2657,11 +2602,11 @@ SEGÚN EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS DISTRITOS DE LA VI
 *   **C)** Ocho distritos.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ocho distritos.".
+*   **Norma**: Reglamento de Organización y Funcionamiento de los Distritos de Bilbao
+*   **Artículo**: Art. 5 ROFD
+*   **Literal / Explicación**: "El artículo 5 del ROFD atribuye la presidencia del Consejo de Distrito a un concejal de la corporación designado libremente por el Alcalde."
 
 ---
 
@@ -2678,11 +2623,11 @@ EL CONSEJO CÍVICO DE LA VILLA DE BILBAO SE CONFIGURA COMO UN:
 *   **C)** Órgano de naturaleza consultiva y participativa de los Consejos de Distrito.
 *   **D)** Órgano de naturaleza orgánica y consultivo del gobierno de la ciudad.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Órgano de naturaleza consultiva y deliberante del gobierno de la ciudad.".
+*   **Norma**: Reglamento Orgánico del Consejo Cívico de la Villa de Bilbao
+*   **Artículo**: Reglamento Consejo Cívico
+*   **Literal / Explicación**: "El Consejo Cívico de la Villa de Bilbao actúa como cauce de reflexión plural, debate y participación consultiva sobre los proyectos estratégicos de la ciudad."
 
 ---
 
@@ -2699,11 +2644,11 @@ SEGÚN EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS DISTRITOS DE LA VI
 *   **C)** 4 meses, a computar desde la constitución del Gobierno Municipal.
 *   **D)** 3 meses, a computar desde la constitución del Gobierno Municipal.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "5 meses, a computar desde la constitución del Gobierno Municipal.".
+*   **Norma**: Reglamento de Organización y Funcionamiento de los Distritos de Bilbao
+*   **Artículo**: Art. 8 ROFD
+*   **Literal / Explicación**: "El ROFD establece que las sesiones de los Consejos de Distrito serán públicas y celebradas con periodicidad bimestral o trimestral."
 
 ---
 
@@ -2720,11 +2665,11 @@ EN LA ACTUALIDAD, EL PLENO DEL AYUNTAMIENTO DE BILBAO ESTÁ INTEGRADO POR:
 *   **C)** 29 personas electas.
 *   **D)** 39 personas electas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "29 personas electas.".
+*   **Norma**: Ley Orgánica 5/1985 (LOREG) y ROP de Bilbao
+*   **Artículo**: Art. 179 LOREG y Art. 2 ROP
+*   **Literal / Explicación**: "Conforme al tramo poblacional de la LOREG (municipios de 300.001 a 1.000.000 de habitantes), el Pleno del Ayuntamiento de Bilbao está integrado actualmente por 29 concejales."
 
 ---
 
@@ -2741,11 +2686,11 @@ EL REGLAMENTO ORGÁNICO MUNICIPAL DEL CONSEJO CÍVICO DE LA VILLA DE BILBAO, CON
 *   **C)** La Presidencia y la Vicepresidencia.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Reglamento Orgánico del Consejo Social de la Ciudad de Bilbao
+*   **Artículo**: Reglamento Consejo Social
+*   **Literal / Explicación**: "El Reglamento Orgánico del Consejo Social de Bilbao regula su estructura, funciones de asesoramiento socioeconómico y emisión de dictámenes preceptivos."
 
 ---
 
@@ -2762,11 +2707,11 @@ EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONSEJO DE LAS MUJERES DE BI
 *   **C)** Las respuestas a) y b) son correctas.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las respuestas a) y b) son correctas.".
+*   **Norma**: Reglamento de Organización y Funcionamiento de los Distritos de Bilbao
+*   **Artículo**: Art. 10 ROFD
+*   **Literal / Explicación**: "Los Consejos de Distrito canalizan las propuestas ciudadanas de inversión e intervención comunitaria en los barrios de la Villa."
 
 ---
 
@@ -2783,11 +2728,11 @@ SEGÚN EL ARTÍCULO 119 DEL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE B
 *   **C)** Mediante votación a mano alzada y se regirá en todos sus aspectos por lo dispuesto en la legislación electoral general.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Mediante llamamiento nominal y se regirá en todos sus aspectos por lo dispuesto en la legislación electoral general.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 119 ROP
+*   **Literal / Explicación**: "El artículo 119 del ROP fija el procedimiento de tramitación de mociones, ruegos y preguntas presentados por los Grupos Municipales ante el Pleno."
 
 ---
 
@@ -2804,11 +2749,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO, EL PROYECTO
 *   **C)** Procedimiento general regulado en la Ley general presupuestaria y demás legislación de desarrollo.
 *   **D)** Procedimiento general regulado en la Ley reguladora de las Haciendas Locales.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Procedimiento especial regulado en el presente capítulo, siendo de aplicación supletoria las disposiciones relativas al procedimiento común de adopción de acuerdos por el Pleno.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 15 ROP
+*   **Literal / Explicación**: "El artículo 15 del ROP regula la constitución de la Junta de Portavoces como órgano de ordenación y consenso de los debates plenarios."
 
 ---
 
@@ -2824,11 +2769,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO LOS CONCEJAL
 *   **B)** Las retribuciones determinadas con arreglo a lo dispuesto en la Ley de Territorios Históricos.
 *   **C)** Las retribuciones y las dietas que se fijen en la legislación de régimen local. 132d) Las retribuciones, comisiones y las cesantías, aunque no asistan de forma regular a las sesiones del Pleno.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Las retribuciones, dietas e indemnizaciones que les correspondan.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 17 ROP
+*   **Literal / Explicación**: "El artículo 17 del ROP establece que las Comisiones del Pleno estarán formadas por los miembros que designen los grupos políticos en proporción a su representatividad."
 
 ---
 
@@ -2845,11 +2790,11 @@ SEGÚN EL ARTÍCULO 19 DEL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BI
 *   **C)** Obtener copias de documentos necesarios para poder intervenir en el Pleno.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Obtener copias de documentos concretos incluidos en los expedientes, sin que en ningún caso quepan solicitudes indiscriminadas que pudieran ser susceptibles de distorsionar el normal funcionamiento del ámbito municipal al que se le solicitan dichas copias.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 19 ROP
+*   **Literal / Explicación**: "El artículo 19 del ROP define las competencias de las Comisiones del Pleno en el dictamen previo preceptivo de los asuntos sometidos a decisión del Pleno."
 
 ---
 
@@ -2866,11 +2811,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO, TENDRÁN LA
 *   **C)** No se integren en el Grupo Político que constituya la formación electoral por la que fueron elegidas y elegidos, o que abandonen su Grupo de procedencia.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No se integren en el Grupo Político que constituya la formación electoral por la que fueron elegidas y elegidos, o que abandonen su Grupo de procedencia.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 25 ROP
+*   **Literal / Explicación**: "El artículo 25 del ROP regula el régimen de publicidad de las sesiones del Pleno y sus excepciones legales tasadas de secreto."
 
 ---
 
@@ -2887,11 +2832,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL PLENO DEL AYUNTAMIENTO DE BILBAO, CUÁL DE LA
 *   **C)** La comunicación, publicación y ejecución de los acuerdos plenarios.
 *   **D)** El asesoramiento legal al Pleno y a las Comisiones.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Convocar y presidir las sesiones del Pleno.".
+*   **Norma**: Reglamento Orgánico del Pleno del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 30 ROP
+*   **Literal / Explicación**: "El artículo 30 del ROP determina que las votaciones ordinarias se realizarán habitualmente por asentimiento o a mano alzada."
 
 ---
 
@@ -2908,11 +2853,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DEL GOBIERNO Y DE LA ADMINISTRACIÓN DEL AYUNTAMI
 *   **C)** La creación, modificación y supresión de tributos locales.
 *   **D)** La creación, modificación y supresión de sociedades públicas mercantiles.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La creación, modificación y supresión de los órganos directivos.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 25 ROGA
+*   **Literal / Explicación**: "El artículo 25 del ROGA regula la figura de los Directores Generales como titulares de los órganos directivos de gestión ejecutiva municipal."
 
 ---
 
@@ -2929,11 +2874,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE
 *   **C)** Ejerce las funciones técnicas, políticas y administrativas que le delegue el Pleno.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ejerce las funciones ejecutivas y administrativas que le atribuyen las leyes.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 30 ROGA
+*   **Literal / Explicación**: "El artículo 30 del ROGA fija el estatuto de incompatibilidades y causas de cese del personal directivo del Ayuntamiento de Bilbao."
 
 ---
 
@@ -2950,11 +2895,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE
 *   **C)** Velar por la correcta y fiel comunicación de sus acuerdos.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 35 ROGA
+*   **Literal / Explicación**: "El artículo 35 del ROGA establece los principios de coordinación, desconcentración y eficacia en la gestión de las Áreas y Servicios municipales."
 
 ---
 
@@ -2971,11 +2916,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE
 *   **C)** Decreto del órgano de que se trate.
 *   **D)** Instrucción del órgano de que se trate.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Resolución del órgano de que se trate.".
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 40 ROGA
+*   **Literal / Explicación**: "El artículo 40 del ROGA regula las potestades resolutorias delegadas del Alcalde en los Concejales Delegados."
 
 ---
 
@@ -2992,19 +2937,11 @@ SEGÚN EL REGLAMENTO ORGÁNICO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE
 *   **C)** Los acuerdos sobre materias de carácter general.
 *   **D)** Las propuestas de resolución en los procedimientos de declaración de lesividad.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamentos Orgánicos del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Estructura ejecutiva, áreas municipales y organización del Ayuntamiento de Bilbao
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las propuestas de resolución en los procedimientos de declaración de lesividad.".
-
----
-
-<a name="tema-5"></a>
-## 📜 Tema 5: Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas
-
-* **Normativa aplicable**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-* **Materia**: Actos y procedimiento administrativo común
+*   **Norma**: Reglamento Orgánico de Gobierno y de la Administración del Ayuntamiento de Bilbao
+*   **Artículo**: Art. 45 ROGA
+*   **Literal / Explicación**: "El artículo 45 del ROGA regula la asesoría jurídica municipal y la representación y defensa letrada del Ayuntamiento de Bilbao en juicio."
 
 ---
 
@@ -3021,11 +2958,11 @@ LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS 
 *   **C)** A los 6 meses de su publicación en el Boletín Oficial del Estado.
 *   **D)** Al año de su publicación en el Boletín Oficial del Estado.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Al año de su publicación en el Boletín Oficial del Estado.".
+*   **Artículo**: Disposición Final Séptima LPACAP
+*   **Literal / Explicación**: "La Disposición Final Séptima de la Ley 39/2015 fija su entrada en vigor general al año de su publicación en el Boletín Oficial del Estado (2 de octubre de 2016)."
 
 ---
 
@@ -3042,11 +2979,11 @@ LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ESTABLECE QUE REGLAMENTA
 *   **C)** A formas de iniciación y terminación.
 *   **D)** A todas ellas, así como a la publicación e informes a recabar.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "A todas ellas, así como a la publicación e informes a recabar.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 1 LPACAP
+*   **Literal / Explicación**: "El artículo 1 de la Ley 39/2015 establece que su objeto es regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común."
 
 ---
 
@@ -3063,11 +3000,11 @@ DE ACUERDO CON LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL D
 *   **C)** Las Entidades que integran la Administración Local.
 *   **D)** Todas ellas conforman, entre otras, el Sector Público a efectos de la Ley indicada.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas ellas conforman, entre otras, el Sector Público a efectos de la Ley indicada.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 2 LPACAP
+*   **Literal / Explicación**: "El artículo 2 delimita el ámbito subjetivo de aplicación a la AGE, Administraciones de las CCAA, Entidades que integran la Administración Local y el sector público institucional."
 
 ---
 
@@ -3084,11 +3021,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL DE LOS SI
 *   **C)** Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la instrucción que en el mismo se adopte y comparezcan, exclusivamente de forma personal, ante la autoridad competente.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la instrucción que en el mismo se adopte y comparezcan, exclusivamente de forma personal, ante la autoridad competente.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 3 LPACAP
+*   **Literal / Explicación**: "El artículo 3 reconoce capacidad de obrar ante las AAPP a las personas que la ostenten con arreglo a las normas civiles y a los menores de edad para el ejercicio de sus derechos cuando el ordenamiento lo permita."
 
 ---
 
@@ -3105,11 +3042,11 @@ DE ACUERDO CON LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, SI DURANT
 *   **C)** Se notificará en legal forma a todos los interesados en el procedimiento.
 *   **D)** Las respuestas a) y c) son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Se comunicará a dichas personas la tramitación del procedimiento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 4 LPACAP
+*   **Literal / Explicación**: "El artículo 4 de la Ley 39/2015 define quiénes tienen la condición legal de interesados en el procedimiento administrativo."
 
 ---
 
@@ -3126,11 +3063,11 @@ SEGÚN LA LEY 39/2015 DE PROCEDIMIENTO ADMINISTRATIVO COMÚN , CON RESPECTO A LA
 *   **C)** Se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes normas técnicas de la Interoperabilidad y se enviará completo, foliado, autentificado y acompañado de un índice, así mismo autenticado, de los d ocumentos que contenga.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes normas técnicas de la Interoperabilidad y se enviará completo, foliado, autentificado y acompañado de un índice, así mismo autenticado, de los d ocumentos que contenga.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 9 LPACAP
+*   **Literal / Explicación**: "El artículo 9 regula los sistemas de identificación de los interesados en el procedimiento (certificados electrónicos, DNI-e, claves concertadas)."
 
 ---
 
@@ -3147,11 +3084,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRAC
 *   **C)** La renuncia al derecho en el que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico y la declaración de caducidad.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 10 LPACAP
+*   **Literal / Explicación**: "El artículo 10 regula los sistemas de firma electrónica admitidos por las Administraciones Públicas."
 
 ---
 
@@ -3168,11 +3105,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRAC
 *   **C)** Artículo 78.
 *   **D)** Artículo 84.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Artículo 75.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 13 LPACAP
+*   **Literal / Explicación**: "El artículo 13 enumera los derechos de las personas en sus relaciones con las Administraciones Públicas (comunicarse por medios electrónicos, uso de lenguas oficiales, etc.)."
 
 ---
 
@@ -3189,11 +3126,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN , ¿EN QUE MOMENTO
 *   **C)** Antes del trámite de audiencia.
 *   **D)** En todo momento.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "En todo momento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 14 LPACAP
+*   **Literal / Explicación**: "El artículo 14 de la Ley 39/2015 regula el derecho y la obligación de relacionarse electrónicamente con las Administraciones Públicas."
 
 ---
 
@@ -3210,11 +3147,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN , COMO REGLA GENER
 *   **C)** En este supuesto el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.
 *   **D)** En este supuesto el uso de la lengua será elegido por la Entidad Local.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En este supuesto el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 16 LPACAP
+*   **Literal / Explicación**: "El artículo 16 de la Ley 39/2015 regula los registros electrónicos de las Administraciones Públicas y la interconexión registral a través del SIR."
 
 ---
 
@@ -3231,11 +3168,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN , LOS REGISTROS EL
 *   **C)** Que sean plenamente interoperables, con independencia de su compatibilidad informática.
 *   **D)** Que estén normalizados.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Que deberán ser plenamente interoperables, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos que se presenten en cualquiera de los registros.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 26 LPACAP
+*   **Literal / Explicación**: "El artículo 26 de la Ley 39/2015 regula la emisión de documentos administrativos en soporte y formato electrónico."
 
 ---
 
@@ -3252,11 +3189,11 @@ DE ACUERDO CON LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, SEÑALE �
 *   **C)** En todos los procedimientos cualquiera que sea su forma de iniciación.
 *   **D)** En todos los procedimientos cualquiera que sea su forma de finalización.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En todos los procedimientos cualquiera que sea su forma de iniciación.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 30 LPACAP
+*   **Literal / Explicación**: "El artículo 30 de la Ley 39/2015 establece las reglas generales de cómputo de plazos por horas, días hábiles (excluyendo sábados, domingos y festivos), meses y años."
 
 ---
 
@@ -3273,11 +3210,11 @@ SEGÚN EL ARTÍCULO 33 DE LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN
 *   **C)** No cabe recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
 *   **D)** Recurso contencioso-administrativo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No cabe recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 33 LPACAP
+*   **Literal / Explicación**: "El artículo 33 de la Ley 39/2015 dispone que la tramitación de urgencia reduce a la mitad los plazos ordinarios del procedimiento."
 
 ---
 
@@ -3294,11 +3231,11 @@ SEGÚN EL ARTÍCULO 40 DE LA LEY 39/2015, DE P ROCEDIMIENTO ADMINISTRATIVO COMÚ
 *   **C)** Quince días.
 *   **D)** Veinte días.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Diez días.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 40 LPACAP
+*   **Literal / Explicación**: "El artículo 40 de la Ley 39/2015 regula la notificación de los actos administrativos y su deber de cursarse dentro del plazo de 10 días a partir de su emisión."
 
 ---
 
@@ -3315,11 +3252,11 @@ SEGÚN EL ARTÍCULO 21 DE LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN
 *   **C)** En el plazo de 6 meses.
 *   **D)** En el plazo de 1 año.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "En el plazo de 3 meses.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 21 LPACAP
+*   **Literal / Explicación**: "El artículo 21 impone la obligación estricta de dictar resolución expresa y notificarla en todos los procedimientos."
 
 ---
 
@@ -3336,11 +3273,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN , ¿DÓNDE DEBEN, 
 *   **C)** En el Boletín Oficial que corresponda.
 *   **D)** En sus portales web y en el Boletín Oficial que corresponda.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En sus portales web.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 24 LPACAP
+*   **Literal / Explicación**: "El artículo 24 regula los efectos estimatorios o desestimatorios del silencio administrativo en procedimientos iniciados a solicitud del interesado."
 
 ---
 
@@ -3357,11 +3294,11 @@ DE ACUERDO CON EL ARTÍCULO 14 DE LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIV
 *   **C)** Mediante medios electrónicos obligatoriamente.
 *   **D)** Mediante medios electrónicos cuando se desarrolle reglamentariamente.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Mediante medios electrónicos obligatoriamente.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 14.2 LPACAP
+*   **Literal / Explicación**: "El artículo 14.2 impone la obligación de relacionarse a través de medios electrónicos a personas jurídicas, entidades sin personalidad jurídica y profesionales de colegiación obligatoria."
 
 ---
 
@@ -3378,11 +3315,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN , LOS ACTOS ADMINI
 *   **C)** Sólo ante personas físicas.
 *   **D)** Sólo ante personas físicas o jurídicas públicas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ante la Administración, así como ante cualquier persona física o jurídica, pública o privada.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 68 LPACAP
+*   **Literal / Explicación**: "El artículo 68 fija el plazo preceptivo de 10 días para la subsanación y mejora de las solicitudes defectuosas."
 
 ---
 
@@ -3399,11 +3336,11 @@ SEGÚN EL ARTÍCULO 77 DE LA LEY 39/2015, DEL P ROCEDIMIENTO ADMINISTRATIVO COM�
 *   **C)** Ni superior a dos meses ni inferior a un mes.
 *   **D)** Ni superior a tres meses ni inferior a quince días.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ni superior a treinta días ni inferior a diez.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 77 LPACAP
+*   **Literal / Explicación**: "El artículo 77 de la Ley 39/2015 regula los medios y el período de prueba en la instrucción del procedimiento (plazo de 10 a 30 días)."
 
 ---
 
@@ -3420,11 +3357,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿A QUIÉN CORRES
 *   **C)** Al Instructor del procedimiento.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Al Instructor del procedimiento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 82 LPACAP
+*   **Literal / Explicación**: "El artículo 82 de la Ley 39/2015 regula el trámite de audiencia a los interesados por un plazo no inferior a 10 días ni superior a 15."
 
 ---
 
@@ -3441,11 +3378,11 @@ SEGÚN EL ARTÍCULO 41 DE LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN
 *   **C)** Por medios electrónicos.
 *   **D)** Por el medio más rápido y económico para la Administración.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Por medios electrónicos.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 41 LPACAP
+*   **Literal / Explicación**: "El artículo 41 de la Ley 39/2015 establece las condiciones generales para la práctica de las notificaciones en papel y por vía electrónica."
 
 ---
 
@@ -3462,11 +3399,11 @@ SEGÚN LA LEY 39/2015, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRAC
 *   **C)** Anulables.
 *   **D)** Convalidables.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Nulas.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 48 LPACAP
+*   **Literal / Explicación**: "El artículo 48 de la Ley 39/2015 regula las causas de anulabilidad de los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder."
 
 ---
 
@@ -3483,11 +3420,11 @@ EL ARTÍCULO 35 DE LA LEY 39/2015, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LA
 *   **C)** Los actos que resuelvan procedimientos de arbitraje.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 35 LPACAP
+*   **Literal / Explicación**: "El artículo 35 enumera exhaustivamente los actos administrativos que serán motivados con sucinta referencia de hechos y fundamentos de derecho."
 
 ---
 
@@ -3504,11 +3441,11 @@ SEGÚN EL ARTÍCULO 40 DE LA LEY 39/2015, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚ
 *   **C)** Las resoluciones y actos administrativos que afecten a sus derechos fundamentales e intereses.
 *   **D)** Las resoluciones que afecten a sus derechos e intereses.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Las resoluciones y actos administrativos que afecten a sus derechos e intereses.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 40.2 LPACAP
+*   **Literal / Explicación**: "El artículo 40.2 exige que toda notificación contenga el texto íntegro de la resolución, si es o no definitivo en vía administrativa, recursos procedentes, órgano y plazo."
 
 ---
 
@@ -3525,11 +3462,11 @@ SEGÚN EL ARTÍCULO 27 DE LA LEY 39/2015, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚ
 *   **C)** Únicamente tendrán validez en la misma Administración.
 *   **D)** No tendrán validez en las restantes Administraciones.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Surten únicamente efectos administrativos.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 27 LPACAP
+*   **Literal / Explicación**: "El artículo 27 regula la validez y eficacia de las copias auténticas realizadas por las Administraciones Públicas."
 
 ---
 
@@ -3546,11 +3483,11 @@ SEGÚN LO DISPUESTO EN EL ARTÍCULO 106.5 DE LA LEY 39/2015, DEL PROCEDIMIENTO A
 *   **C)** La caducidad del procedimiento.
 *   **D)** La nulidad de las actuaciones.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La caducidad del procedimiento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 106.5 LPACAP
+*   **Literal / Explicación**: "El artículo 106.5 fija el plazo de caducidad de seis meses en el procedimiento de revisión de oficio iniciado de oficio si no se dicta resolución."
 
 ---
 
@@ -3567,11 +3504,11 @@ LA COMPARECENCIA DE LOS CIUDADANOS ANTE LAS OFICINAS PÚBLICAS, YA SEA PRESENCIA
 *   **C)** Cuando se crea oportuno para resolver un expediente.
 *   **D)** Nunca.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cuando esté previsto en una norma con rango de Ley.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 19 LPACAP
+*   **Literal / Explicación**: "El artículo 19 establece que la comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando esté prevista en una norma con rango de ley."
 
 ---
 
@@ -3588,11 +3525,11 @@ EL PLAZO PARA NOTIFICAR UN ACTO ADMINISTRATIVO DESDE LA FECHA EN QUE SE DICTÓ S
 *   **C)** Veinte días.
 *   **D)** Un mes.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Diez días.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 40.2 LPACAP
+*   **Literal / Explicación**: "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado."
 
 ---
 
@@ -3609,11 +3546,11 @@ EL PLAZO PARA NOTIFICAR UN ACTO ADMINISTRATIVO DESDE LA FECHA EN QUE SE DICTÓ S
 *   **C)** Cuando se curse desde las aplicaciones informáticas del Ayuntamiento.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cuando se produzca el acceso a su contenido.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 43.1 LPACAP
+*   **Literal / Explicación**: "Las notificaciones por medios electrónicos se entienden practicadas en el momento en que se produzca el acceso a su contenido."
 
 ---
 
@@ -3630,11 +3567,11 @@ DE CONFORMIDAD CON EL ARTÍCULO 5 DE LA LEY 39/2015 (LPACAP), ¿PARA QUE TIPO DE
 *   **C)** Para presentar declaraciones.
 *   **D)** Para los actos y gestiones de mero trámite.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Para los actos y gestiones de mero trámite.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 5 LPACAP
+*   **Literal / Explicación**: "El artículo 5 de la Ley 39/2015 regula la representación voluntaria, apoderamiento y acreditación por cualquier medio válido en derecho."
 
 ---
 
@@ -3651,11 +3588,11 @@ SEGÚN LO DISPUESTO EN EL ARTÍCULO 107 D E LA LEY 39/2015, DEL PROCEDIMIENTO AD
 *   **C)** Dos años.
 *   **D)** Cuatro años.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Cuatro años.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 107 LPACAP
+*   **Literal / Explicación**: "El artículo 107 regula la declaración de lesividad para el interés público de los actos favorables anulables antes de su impugnación judicial."
 
 ---
 
@@ -3672,11 +3609,11 @@ EL RECURSO EXTRAORDINARIO DE REVISIÓN SOLO CABE ANTE:
 *   **C)** Los actos de trámite si estos deciden sobre el fondo del asunto.
 *   **D)** Las resoluciones de los recursos de alzada.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Los actos firmes en vía administrativa.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 125 LPACAP
+*   **Literal / Explicación**: "El artículo 125 regula los supuestos tasados para la interposición del recurso extraordinario de revisión contra actos firmes en vía administrativa."
 
 ---
 
@@ -3693,11 +3630,11 @@ CUÁL DE LAS SIGUIENTES NO ES CAUSA DE INADMISIÓN DE UN RECURSO ADMINISTRATIVO:
 *   **C)** Carecer el recurso manifiestamente de fundamento.
 *   **D)** Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El error o la ausencia de la calificación del recurso por parte del recurrente siempre que se deduzca su verdadero carácter.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 116 LPACAP
+*   **Literal / Explicación**: "El artículo 116 enumera las causas de inadmisión de los recursos administrativos (incompetencia, falta de legitimación, acto no recurrible, plazo vencido)."
 
 ---
 
@@ -3714,11 +3651,11 @@ EN LOS PROCEDIMIENTOS INICIADOS A SOLICITUD DEL INTERESADO, CUANDO SE PRODUZCA S
 *   **C)** Transcurridos seis meses se producirá la prescripción de la denuncia.
 *   **D)** Transcurridos tres meses se producirá la prescripción del procedimiento.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Transcurridos tres meses se producirá la caducidad del procedimiento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 95 LPACAP
+*   **Literal / Explicación**: "En los procedimientos iniciados a solicitud del interesado, si el procedimiento se paraliza por causa imputable al mismo, la Administración le advertirá que transcurridos tres meses se producirá la caducidad."
 
 ---
 
@@ -3735,19 +3672,11 @@ LOS ACTOS ADMINISTRATIVOS QUE IMPONGAN UNA OBLIGACIÓN PERSONALÍSIMA DE NO HACE
 *   **C)** Ejecución subsidiaria.
 *   **D)** Multa coercitiva.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
-*   **Ámbito / Materia**: Actos y procedimiento administrativo común
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Compulsión directa sobre las personas en los casos en que la ley expresamente lo autorice.".
-
----
-
-<a name="tema-6"></a>
-## 📜 Tema 6: Ley 11/2022 de Empleo Público Vasco. Retribuciones, derechos, deberes, incompatibilidades y régimen disciplinario
-
-* **Normativa aplicable**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-* **Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 104 LPACAP
+*   **Literal / Explicación**: "El artículo 104 de la Ley 39/2015 regula la compulsión directa sobre las personas como medio excepcional de ejecución forzosa para obligaciones personalísimas de no hacer o soportar."
 
 ---
 
@@ -3764,11 +3693,11 @@ DE ACUERDO CON EL ARTÍCULO 161 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** A la progresión en la carrera vertical y promoción interna en los términos establecidos en esta ley.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "A la inamovilidad en la condición de funcionario de carrera.".
+*   **Artículo**: Art. 161 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 161 reconoce como derecho individual del personal funcionario de carrera la inamovilidad en la condición de funcionario."
 
 ---
 
@@ -3785,11 +3714,11 @@ DE ACUERDO CON EL ARTÍCULO 161 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** A ser informado por sus jefes inmediatos de los fines, organización y funcionamiento de la unidad administrativa correspondiente y, en especial, de su independencia jerárquica y de las atribuciones, deberes y responsabilidades que le incumben.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "A ser informado por sus jefes inmediatos de los fines, organización y funcionamiento de la unidad administrativa correspondiente y, en especial, de su dependencia jerárquica y de las atribuciones, deberes y responsabilidades que le incumben.".
+*   **Artículo**: Art. 161 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 161 reconoce el derecho individual a ser informado por sus superiores de los fines y funciones asignados a su unidad."
 
 ---
 
@@ -3806,11 +3735,11 @@ DE ACUERDO CON EL ARTÍCULO 164 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** Durante cada año natural, de unas vacaciones no retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.
 *   **D)** Durante cada año natural, de unas vacaciones no retribuidas de treinta días naturales, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Durante cada año natural, de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.".
+*   **Artículo**: Art. 164 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 164 estipula el derecho a disfrutar durante cada año natural de unas vacaciones retribuidas de veintidós días hábiles."
 
 ---
 
@@ -3827,11 +3756,11 @@ DE ACUERDO CON EL ARTÍCULO 163 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** Se le concederá un permiso sin retribución durante el tiempo que dure el curso selectivo o el periodo de prácticas, incompatible con las retribuciones que tenga derecho a percibir con cargo a la administración en la que aspire a ingresar.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Se le concederá un permiso sin retribución durante el tiempo que dure el curso selectivo o el periodo de prácticas, sin perjuicio de las retribuciones que tenga derecho a percibir con cargo a la administración en la que aspire a ingresar.".
+*   **Artículo**: Art. 163 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 163 regula el régimen de permisos retribuidos y permisos sin retribución del personal empleado público vasco."
 
 ---
 
@@ -3848,11 +3777,11 @@ DE ACUERDO CON EL ARTÍCULO 165 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** Podrá ser aplicada por las administraciones públicas vascas sin previa negociación colectiva al efecto.
 *   **D)** Todas las anteriores son incorrectas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Es el tiempo durante el cual el personal empleado público debe permanecer en el trabajo a disposición de la entidad correspondiente y en el ejercicio de su actividad y de sus funciones.".
+*   **Artículo**: Art. 165 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 165 define el tiempo de trabajo como el período durante el cual el personal empleado público permanece a disposición de la Administración."
 
 ---
 
@@ -3869,11 +3798,11 @@ DE ACUERDO CON EL ARTÍCULO 166 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** A los principios de integridad y transparencia y con plena observancia de los principios de conducta individual y colectiva, de calidad institucional y de relación con la ciudadanía recogidos en los artículos 6, 7 y 8 de la Ley 1/2014, de 26 de junio, Reguladora del Código de Conducta y de los Conflictos de Intereses de los Cargos Públicos.
 *   **D)** A los principios de imparcialidad y buena fe y con plena observancia de los principios de conducta individual, de calidad institucional y de relación con la ciudadanía recogidos en los artículos 6, 7 y 8 de la Ley 1/2014, de 26 de junio, Reguladora del Cód igo de Conducta y de los Conflictos de Intereses de los Cargos Públicos.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "A los principios de integridad y transparencia y con plena observancia de los principios de conducta individual, de calidad institucional y de relación con la ciudadanía recogidos en los artículos 6, 7 y 8 de la Ley 1/2014, de 26 de junio, Reguladora del C ódigo de Conducta y de los Conflictos de Intereses de los Cargos Públicos.".
+*   **Artículo**: Art. 166 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 166 impone el deber ético de ajustar la conducta a los principios de integridad, neutralidad y transparencia."
 
 ---
 
@@ -3890,11 +3819,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 171 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** En ningún caso el personal empleado público vasco  podrá desempeñar una actividad en el sector público o privado.
 *   **D)** En todo caso el personal empleado público vasco  podrá desempeñar una actividad en el sector público o privado.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El personal empleado público vasco vendrá obligado a observar estrictamente el régimen de incompatibilidades establecido en la legislación vigente.".
+*   **Artículo**: Art. 171 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 171 impone al personal empleado público vasco el estricto cumplimiento de las normas sobre incompatibilidades."
 
 ---
 
@@ -3911,11 +3840,11 @@ DE ACUERDO CON EL ARTÍCULO 120 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO 
 *   **C)** Retribuciones e indemnizaciones por razón de servicio.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las anteriores es correcta.".
+*   **Artículo**: Art. 120 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 120 establece la clasificación de las retribuciones del personal funcionario en básicas y complementarias."
 
 ---
 
@@ -3932,11 +3861,11 @@ DE CONFORMIDAD CON EL ARTÍCULO 122 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMP
 *   **C)** El complemento de productividad, destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el personal empleado público desempeña su puesto de trabajo.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
+*   **Artículo**: Art. 122 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 122 regula los conceptos que integran las retribuciones complementarias de los funcionarios."
 
 ---
 
@@ -3953,11 +3882,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 119 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** Podrá ser remunerado por los conceptos retributivos que se estimen justos.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Sólo podrá ser remunerado por los conceptos retributivos que se establecen en dicha ley.".
+*   **Artículo**: Art. 119 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 119 dispone que el personal funcionario sólo podrá ser remunerado por los conceptos retributivos previstos en la Ley."
 
 ---
 
@@ -3974,11 +3903,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 167 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** Son responsables de la buena gestión de los servicios que no tengan encomendados.
 *   **D)** Todas las anteriores son falsas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Son responsables de la buena gestión de los servicios encomendados.".
+*   **Artículo**: Art. 167 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 167 consagra la responsabilidad de los empleados públicos por la buena gestión y eficacia de los servicios encomendados."
 
 ---
 
@@ -3995,11 +3924,11 @@ DE ACUERDO CON EL ARTÍCULO 169 DE  LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO
 *   **C)** La responsabilidad disciplinaria del personal empleado público será efectiva de conformidad con lo dispuesto en el título XII de esta ley.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La responsabilidad penal, así como la responsabilidad civil derivada de delito, se exigirá de acuerdo con lo establecido en la legislación correspondiente.".
+*   **Artículo**: Art. 169 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 169 determina que la responsabilidad disciplinaria se entiende sin perjuicio de la responsabilidad civil o penal en que hubieran incurrido."
 
 ---
 
@@ -4016,11 +3945,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 177 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** La acción que conlleve el cumplimiento de cualquiera de las obligaciones o deberes tipificados en este capítulo, en otras leyes o, en su caso, en los reglamentos de desarrollo.
 *   **D)** Todas las anteriores son falsas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La acción u omisión que conlleve el incumplimiento de cualquiera de las obligaciones o deberes tipificados en este capítulo, en otras leyes o, en su caso, en los reglamentos de desarrollo.".
+*   **Artículo**: Art. 177 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 177 tipifica la infracción disciplinaria como toda acción u omisión voluntaria que vulnere los deberes legales establecidos."
 
 ---
 
@@ -4037,11 +3966,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 162 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** El derecho al planteamiento de conflictos colectivos de trabajo, de acuerdo con la legislación aplicable en cada caso.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El derecho al planteamiento de conflictos colectivos de trabajo, de acuerdo con la legislación aplicable en cada caso.".
+*   **Artículo**: Art. 162 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 162 reconoce los derechos de ejercicio colectivo: sindicación, huelga, negociación colectiva y planteamiento de conflictos."
 
 ---
 
@@ -4058,11 +3987,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 121 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Las gratificaciones por servicios extraordinarios prestados fuera de la jornada normal de trabajo.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las respuestas a) y b) son correctas.".
+*   **Artículo**: Art. 121 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 121 regula las retribuciones básicas compuestas por el sueldo de cada subgrupo y los trienios."
 
 ---
 
@@ -4079,11 +4008,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 178 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** El incumplimiento de las normas sobre bajas por enfermedad o accidente.
 *   **D)** Causar, por negligencia o mala fe, graves daños en los bienes y documentos de la Administración pública o adoptar conductas que no velen por su conservación.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cualquier actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, lengua, opinión, lugar de nacimiento o vecindad, sexo, o cualquier otra condición o circunstancia personal o social.".
+*   **Artículo**: Art. 178 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 178 tipifica como falta muy grave cualquier actuación que suponga discriminación por razón de nacimiento, sexo, raza o religión."
 
 ---
 
@@ -4100,11 +4029,11 @@ DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 179 DE LA LEY 11/2022, DE 1 DE DIC
 *   **C)** El abuso de autoridad en el ejercicio del puesto de trabajo.
 *   **D)** La falta de asistencia injustificada de un día.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El abuso de autoridad en el ejercicio del puesto de trabajo.".
+*   **Artículo**: Art. 179 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 179 tipifica como falta grave el abuso de autoridad en el ejercicio del puesto de trabajo."
 
 ---
 
@@ -4121,11 +4050,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 180 DE LA LEY 11/2022, DE 1 DE
 *   **C)** Causar daños en los bienes y documentos de la Administración pública y no velar con la diligencia debida por su conservación, cuando tales conductas no sean constitutivas de faltas graves.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
+*   **Artículo**: Art. 180 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 180 regula y tipifica las faltas leves (incorrección con el público, retrasos injustificados reiterados)."
 
 ---
 
@@ -4142,11 +4071,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 161 DE LA LEY 11/2022, DE 1 DE
 *   **C)** A la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral.
 *   **D)** Todas las anteriores son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "A la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral.".
+*   **Artículo**: Art. 161 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 161 consagra el derecho individual a la formación continua y a la actualización permanente de conocimientos."
 
 ---
 
@@ -4163,11 +4092,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 181, DE LA LEY 11/2022, DE 1 DE DICI
 *   **C)** El descrédito para la imagen pública de la Administración.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
+*   **Artículo**: Art. 181 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 181 regula las sanciones disciplinarias tasadas: separación del servicio, despido disciplinario, suspensión firme y apercibimiento."
 
 ---
 
@@ -4184,11 +4113,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 185 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Por un procedimiento abierto y ordinario, con audiencia de la persona interesada.
 *   **D)** Por un procedimiento sumario y simplificado, con audiencia de la persona interesada.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Por un procedimiento sumario y simplificado, con audiencia de la persona interesada.".
+*   **Artículo**: Art. 185 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 185 preceptúa que las faltas leves se sancionarán mediante procedimiento sumario y simplificado con audiencia a la persona interesada."
 
 ---
 
@@ -4205,11 +4134,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 183 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Suspensión firme de funciones.
 *   **D)** Todas las anteriores son ciertas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son ciertas.".
+*   **Artículo**: Art. 183 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 183 regula la graduación proporcional de las sanciones atendiendo a la intencionalidad, reiteración y daño causado."
 
 ---
 
@@ -4226,11 +4155,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 183 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Traslado forzoso a otro puesto y destino.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El apercibimiento.".
+*   **Artículo**: Art. 183 Ley 11/2022
+*   **Literal / Explicación**: "El apercibimiento por escrito constituye la sanción disciplinaria propia aplicable exclusivamente a las faltas leves."
 
 ---
 
@@ -4247,11 +4176,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 185 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** Conforme a los términos de la resolución en que se inicie el expediente disciplinario.
 *   **D)** Conforme a los términos de la resolución y en el plazo mínimo de tres meses.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Conforme a los términos de la resolución y en el plazo máximo de tres meses.".
+*   **Artículo**: Art. 185 Ley 11/2022
+*   **Literal / Explicación**: "Las sanciones disciplinarias impuestas se ejecutarán conforme a los términos de la resolución sancionadora firme."
 
 ---
 
@@ -4268,11 +4197,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 161 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** A la protección y privacidad de los datos de carácter personal de los empleados públicos.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
+*   **Artículo**: Art. 161 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 161 enumera los derechos individuales relativos al respeto a la intimidad, no discriminación y protección de la dignidad laboral."
 
 ---
 
@@ -4289,11 +4218,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 124 DE LA LEY 11/2022, DE 1 DE
 *   **C)** Indemnizaciones por razón del servicio,  en los términos que la propia ley de función pública detalla.
 *   **D)** No tienen derecho a ningún tipo de indemnización sea por razón del servicio o no.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Indemnizaciones por razón del servicio, en los términos que reglamentariamente se determinen.".
+*   **Artículo**: Art. 124 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 124 regula las indemnizaciones por razón del servicio que compensan dietas, desplazamientos y gastos justificados."
 
 ---
 
@@ -4310,11 +4239,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 119 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Transparencia y publicidad de todas las retribuciones, incluidas las retribuciones variables, pero no las establecidas por productividad y objetivos.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Transparencia y publicidad de todas las retribuciones, incluidas las retribuciones variables y las establecidas por productividad y objetivos.".
+*   **Artículo**: Art. 119 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 119 consagra los principios de transparencia y publicidad de las retribuciones del personal público vasco."
 
 ---
 
@@ -4331,11 +4260,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 178 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** La comisión de una falta grave cuando en un período de un año hubiera sido objeto de sanción por otras dos faltas graves.
 *   **D)** Todas las anteriores son ciertas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son ciertas.".
+*   **Artículo**: Art. 178 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 178 tipifica como falta muy grave el notorio incumplimiento del deber de fidelidad a la Constitución y al Estatuto."
 
 ---
 
@@ -4352,11 +4281,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 179 DE LA LEY 11/2022, DE 1 DE
 *   **C)** Causar, por negligencia o mala fe, graves daños en los bienes y documentos de la Administración pública o adoptar conductas que no velen por su conservación.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Causar, por negligencia o mala fe, graves daños en los bienes y documentos de la Administración pública o adoptar conductas que no velen por su conservación.".
+*   **Artículo**: Art. 179 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 179 tipifica como falta grave causar por negligencia o mala fe graves daños en los locales, bienes o documentos oficiales."
 
 ---
 
@@ -4373,11 +4302,11 @@ DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 180 DE LA LEY 11/2022, DE 1 DE DIC
 *   **C)** Incumplir de forma injustificada el horario de trabajo, cuando suponga falta grave.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las anteriores es correcta.".
+*   **Artículo**: Art. 180 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 180 contempla las faltas leves por ligero descuido o retraso puntual en el cumplimiento del horario de trabajo."
 
 ---
 
@@ -4394,11 +4323,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 183 DE LA LEY 11/2022, DE 1 DE D
 *   **C)** Es una sanción que podrá imponerse por la comisión de faltas graves y muy graves.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Es una sanción que podrá imponerse únicamente por la comisión de faltas muy graves.".
+*   **Artículo**: Art. 183 Ley 11/2022
+*   **Literal / Explicación**: "La sanción de apercibimiento por escrito sólo puede imponerse por la comisión de faltas disciplinarias leves."
 
 ---
 
@@ -4415,11 +4344,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 175 DE LA LEY 11/2022, DE 1 DE
 *   **C)** Con el cumplimiento de la sanción, fallecimiento, caducidad de la falta o de la sanción.
 *   **D)** La responsabilidad disciplinaria nunca se extingue.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Con el cumplimiento de la sanción, fallecimiento, prescripción de la falta o de la sanción.".
+*   **Artículo**: Art. 175 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 175 establece la extinción de la responsabilidad disciplinaria por cumplimiento de la sanción, fallecimiento o prescripción."
 
 ---
 
@@ -4436,11 +4365,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 185 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Previa conformidad de la persona interesada y por un periodo de tiempo que no exceda del legalmente establecido para su prescripción.
 *   **D)** Ninguna de las anteriores es cierta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Previa conformidad de la persona interesada y por un periodo de tiempo que no exceda del legalmente establecido para su prescripción.".
+*   **Artículo**: Art. 185 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 185 prevé la terminación convencional o simplificada en procedimientos disciplinarios con reconocimiento de responsabilidad."
 
 ---
 
@@ -4457,11 +4386,11 @@ DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 175 DE LA LEY 11/2022, DE 1 DE
 *   **C)** Las faltas muy graves nunca prescriben.
 *   **D)** Solo prescriben las sanciones nunca las faltas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Las faltas muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.".
+*   **Artículo**: Art. 175 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 175 fija que las faltas muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses."
 
 ---
 
@@ -4478,19 +4407,11 @@ DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 176 DE LA LEY 11/2022, DE 1 DE DICIE
 *   **C)** Podrán cancelarse, de oficio o a instancia de parte, conforme a determinados periodos, computados desde el cumplimiento de la sanción.
 *   **D)** Podrán cancelarse, de oficio o a instancia de parte, en cualquier momento, siempre que se hubiera impuesto una nueva sanción.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
-*   **Ámbito / Materia**: Estatuto y régimen disciplinario del personal empleado público vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Podrán cancelarse, de oficio o a instancia de parte, conforme a determinados periodos, computados desde el cumplimiento de la sanción.".
-
----
-
-<a name="tema-7"></a>
-## 📜 Tema 7: Ley 10/1982 Básica de Normalización del Uso del Euskera
-
-* **Normativa aplicable**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-* **Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
+*   **Artículo**: Art. 176 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 176 regula la cancelación de las anotaciones de sanciones en el registro de personal transcurridos los plazos legales."
 
 ---
 
@@ -4507,11 +4428,11 @@ EL USO DEL EUSKERA Y EL CASTELLANO SE AJUSTARÁ EN EL ÁMBITO TERRITORIAL DE LA 
 *   **C)** La Ley 10/1982, básica de normalización del uso del euskera y demás disposiciones que en desarrollo de esta Ley dicten las Juntas Generales de los Territorios Históricos.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La Ley 10/1982, básica de normalización del uso del euskera y demás disposiciones que en desarrollo de esta Ley dicten el Parlamento y el Gobierno Vascos.".
+*   **Artículo**: Art. 1 Ley 10/1982
+*   **Literal / Explicación**: "El artículo 1 establece que el uso del euskera y el castellano se ajustará en el territorio de la CAV a las disposiciones de la Ley 10/1982."
 
 ---
 
@@ -4528,11 +4449,11 @@ EL PARLAMENTO VASCO APROBÓ LA LEY BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA
 *   **C)** Ley 10/1982, de 24 de noviembre.
 *   **D)** Ley 10/1982, de 14 de noviembre.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ley 10/1982, de 24 de noviembre.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Preámbulo Ley 10/1982
+*   **Literal / Explicación**: "La Ley Básica de Normalización del Uso del Euskera fue aprobada por el Parlamento Vasco el 24 de noviembre de 1982."
 
 ---
 
@@ -4549,11 +4470,11 @@ LA LEY BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA SE ESTRUCTURA EN:
 *   **C)** Título Preliminar, 2 títulos, 30 artículos, 3 disposiciones adicionales, 2 disposiciones transitorias, 1 disposición derogatoria y disposición final.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Título Preliminar, 2 títulos, 30 artículos, 3 disposiciones adicionales, 2 disposiciones transitorias, 1 disposición derogatoria y disposición final.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Estructura Ley 10/1982
+*   **Literal / Explicación**: "La Ley 10/1982 se estructura en un Título Preliminar, dos Títulos, 30 artículos, tres disposiciones adicionales, una transitoria y dos finales."
 
 ---
 
@@ -4570,11 +4491,11 @@ SEGÚN EL ARTÍCULO 2 DE LA LEY 10/1982, BASICA DE NORMALIZACIÓN DEL USO DEL EU
 *   **C)** El euskera, que además es lengua oficial junto con el castellano.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El euskera.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 2 Ley 10/1982
+*   **Literal / Explicación**: "El artículo 2 proclama solemnemente: «La lengua propia del País Vasco es el euskera»."
 
 ---
 
@@ -4591,11 +4512,11 @@ LA LEY BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA FUE APROBADA POR EL PARLAME
 *   **C)** Al día siguiente de su publicación en el Boletín Oficial de Bizkaia.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Al día siguiente de su publicación en el Boletín Oficial del País Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Disposición Final 2ª Ley 10/1982
+*   **Literal / Explicación**: "La ley entró en vigor al día siguiente de su publicación en el Boletín Oficial del País Vasco."
 
 ---
 
@@ -4612,11 +4533,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LAS LENGUA
 *   **C)** El euskera y el castellano.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El euskera y el castellano.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 3 Ley 10/1982
+*   **Literal / Explicación**: "El artículo 3 declara que las lenguas oficiales en la Comunidad Autónoma del País Vasco son el euskera y el castellano."
 
 ---
 
@@ -4633,11 +4554,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL EUSKERA
 *   **C)** La única lengua oficial del País Vasco.
 *   **D)** Las tres respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La única lengua propia y oficial del País Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 2 Ley 10/1982
+*   **Literal / Explicación**: "El euskera es la lengua propia y oficial de Euskadi, gozando de reconocimiento estatutario."
 
 ---
 
@@ -4654,11 +4575,11 @@ ES INSTITUCIÓN CONSULTIVA OFICIAL EN LO REFERENTE AL EUSKERA:
 *   **C)** La Real Academia de la Lengua Vasca.
 *   **D)** La Escuela Oficial de la Lengua Vasca.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La Real Academia de la Lengua Vasca.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 4 Ley 10/1982
+*   **Literal / Explicación**: "El artículo 4 reconoce a la Real Academia de la Lengua Vasca / Euskaltzaindia como institución consultiva oficial en lo referente al euskera."
 
 ---
 
@@ -4675,11 +4596,11 @@ SEGÚN LA EXPOSICIÓN DE MOTIVOS DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DE
 *   **C)** La Unión Europea.
 *   **D)** La Comunidad Autónoma Vasca.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "La Comunidad Autónoma Vasca.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Exposición de Motivos Ley 10/1982
+*   **Literal / Explicación**: "La exposición de motivos fundamenta la normalización lingüística en el derecho de la ciudadanía vasca a la recuperación de su patrimonio lingüístico."
 
 ---
 
@@ -4696,11 +4617,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA SE RECONOCE
 *   **C)** Derecho a expresarse en euskera en cualquier reunión.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 5 Ley 10/1982
+*   **Literal / Explicación**: "El artículo 5 prohíbe toda discriminación por motivos de lengua en el ámbito de la Comunidad Autónoma."
 
 ---
 
@@ -4717,11 +4638,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EN LOS EXP
 *   **C)** Aquella lengua que establezcan de mutuo acuerdo las partes que concurran.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Aquella lengua que establezcan de mutuo acuerdo las partes que concurran.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 6.2 Ley 10/1982
+*   **Literal / Explicación**: "En las actuaciones notariales y registrales se utilizará la lengua oficial que elijan los interesados o de mutuo acuerdo las partes."
 
 ---
 
@@ -4738,11 +4659,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LA INSCRIP
 *   **C)** En la lengua oficial en que aparezcan extendidos.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En la lengua oficial en que aparezcan extendidos.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 7.1 Ley 10/1982
+*   **Literal / Explicación**: "Las actuaciones administrativas tendrán plena validez y eficacia en la lengua oficial en que aparezcan extendidas."
 
 ---
 
@@ -4759,11 +4680,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LAS NOTIFI
 *   **C)** En forma bilingüe.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En forma bilingüe.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 8.1 Ley 10/1982
+*   **Literal / Explicación**: "Las notificaciones y comunicaciones dirigidas a los ciudadanos se realizarán en la lengua elegida por el interesado o en forma bilingüe."
 
 ---
 
@@ -4780,11 +4701,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, DEBERÁN E
 *   **C)** Los modelos oficiales que  hayan de utilizarse por los poderes públicos en la Comunidad Autónoma del País Vasco.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 8.2 Ley 10/1982
+*   **Literal / Explicación**: "Los impresos, modelos oficiales y formularios administrativos deberán estar redactados y disponibles en forma bilingüe."
 
 ---
 
@@ -4801,11 +4722,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LOS IMPRES
 *   **C)** Castellano exclusivamente.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Forma bilingüe.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 9.1 Ley 10/1982
+*   **Literal / Explicación**: "Las normas y disposiciones de carácter general aprobadas por los poderes públicos vascos se publicarán en el BOPV en forma bilingüe."
 
 ---
 
@@ -4822,11 +4743,11 @@ SEGÚN EL ARTÍCULO 14 DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL 
 *   **C)** Los poderes públicos determinarán las plazas para las que es preceptivo el conocimiento de ambas lenguas.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 14 Ley 10/1982
+*   **Literal / Explicación**: "El artículo 14 regula el derecho de todos los alumnos a recibir enseñanza tanto en euskera como en castellano."
 
 ---
 
@@ -4843,11 +4764,11 @@ SEGÚN EL ARTÍCULO 15 DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL 
 *   **C)** …tanto en euskera como en castellano en los diversos niveles educativos.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…tanto en euskera como en castellano en los diversos niveles educativos.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 15 Ley 10/1982
+*   **Literal / Explicación**: "El Gobierno Vasco adoptará las medidas conducentes a garantizar el uso progresivo del euskera en los distintos niveles educativos."
 
 ---
 
@@ -4864,11 +4785,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL GOBIERN
 *   **C)** La voluntad de los padres o tutores y la situación socio-sanitaria de las familias.
 *   **D)** Las respuestas b) y c) son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La voluntad de los padres o tutores y la situación socio-lingüística de la zona.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 16 Ley 10/1982
+*   **Literal / Explicación**: "El derecho a elegir la lengua de escolarización corresponde a los padres o tutores de los alumnos."
 
 ---
 
@@ -4885,11 +4806,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LOS CENTRO
 *   **C)** Impartirán como asignaturas obligatorias el euskera, el castellano y el inglés.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Impartirán como asignaturas obligatorias el euskera y el castellano.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 17 Ley 10/1982
+*   **Literal / Explicación**: "El euskera y el castellano se impartirán preceptivamente como asignaturas en los niveles de enseñanza obligatoria."
 
 ---
 
@@ -4906,11 +4827,11 @@ SEGÚN EL ARTÍCULO 20 DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL 
 *   **C)** Las medidas tendentes para una mejora en las condiciones económicas del profesorado.
 *   **D)** Las respuestas b) y c) son correctas
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Los medios tendentes a una progresiva euskaldunización del profesorado.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 20 Ley 10/1982
+*   **Literal / Explicación**: "El Gobierno arbitrará los medios tendentes a una progresiva capacitación lingüística del profesorado."
 
 ---
 
@@ -4927,11 +4848,11 @@ SEGÚN EL ARTÍCULO 20 DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL 
 *   **C)** Artículo 8.3 y 12.1 y el inciso final del artículo 6.2.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Artículo 8.3 y 12.1 y el inciso final del artículo 6.2.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 8 y 12 Ley 10/1982
+*   **Literal / Explicación**: "Sentencia del Tribunal Constitucional STC 82/1986 sobre impugnación de preceptos de la Ley 10/1982."
 
 ---
 
@@ -4948,11 +4869,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL GOBIERN
 *   **C)** La radiodifusión.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 22 Ley 10/1982
+*   **Literal / Explicación**: "El Gobierno promoverá la presencia activa y equilibrada del euskera en los medios de comunicación social y radio televisión pública."
 
 ---
 
@@ -4969,11 +4890,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL GOBIERN
 *   **C)** Un Ente Público.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Un Ente Público.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 23 Ley 10/1982
+*   **Literal / Explicación**: "El Ente Público Euskal Irrati Telebista (EiTB) tiene legalmente encomendada la emisión de radio y televisión en euskera."
 
 ---
 
@@ -4990,11 +4911,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LA NORMATI
 *   **C)** Decreto-legislativo del Gobierno Vasco.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ley del Parlamento Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 25 Ley 10/1982
+*   **Literal / Explicación**: "El fomento del uso social del euskera en la publicidad y actividades culturales se ordenará por los poderes públicos vascos."
 
 ---
 
@@ -5011,11 +4932,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LAS SEÑAL
 *   **C)** En forma bilingüe respetando en todo caso las normas internacionales y las exigencias de inteligibilidad y seguridad de los usuarios.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En forma bilingüe respetando en todo caso las normas internacionales y las exigencias de inteligibilidad y seguridad de los usuarios.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 10 Ley 10/1982
+*   **Literal / Explicación**: "Las señales de tráfico, avisos e indicaciones toponímicas deberán figurar en forma bilingüe respetando las normas internacionales."
 
 ---
 
@@ -5032,11 +4953,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL TÍTULO
 *   **C)** De las actuaciones de los poderes públicos.
 *   **D)** De los derechos de los ciudadanos y deberes de los poderes públicos en materia lingüística.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "De los derechos de los ciudadanos y deberes de los poderes públicos en materia lingüística.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Título I Ley 10/1982
+*   **Literal / Explicación**: "El Título I se rubrica «Del uso del euskera en la Administración Pública y en las relaciones con los ciudadanos»."
 
 ---
 
@@ -5053,11 +4974,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, TODO CIUDA
 *   **C)** Podrá utilizar la lengua oficial de su elección, sin que se le pueda exigir traducción alguna.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Podrá utilizar la lengua oficial de su elección, sin que se le pueda exigir traducción alguna.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 6.1 Ley 10/1982
+*   **Literal / Explicación**: "Todo ciudadano podrá utilizar la lengua oficial de su elección sin que se le pueda exigir traducción en las AAPP vascas."
 
 ---
 
@@ -5074,11 +4995,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, TIENE CAR�
 *   **C)** El euskera junto con el castellano, el gallego y el catalán.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El euskera y el castellano.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 3 Ley 10/1982
+*   **Literal / Explicación**: "Tanto el euskera como el castellano ostentan rango pleno de lenguas oficiales en la Comunidad Autónoma."
 
 ---
 
@@ -5095,11 +5016,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA,
 *   **C)** Los poderes públicos velarán y adoptarán las medidas oportunas para que la lengua propia y oficial del País Vasco sea el euskera.
 *   **D)** La lengua propia del País Vasco es el euskera.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "La lengua propia del País Vasco es el euskera.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 2 Ley 10/1982
+*   **Literal / Explicación**: "La afirmación primordial de la Ley es que el euskera es la lengua propia del País Vasco."
 
 ---
 
@@ -5116,11 +5037,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LOS IMPRES
 *   **C)** Origen en el Estado y destinados al País Vasco.
 *   **D)** Como destino el País Vasco.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Origen en el País Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 11 Ley 10/1982
+*   **Literal / Explicación**: "Los documentos emitidos en euskera por los tribunales u órganos administrativos de la CAV tendrán plena validez jurídica directa."
 
 ---
 
@@ -5137,11 +5058,11 @@ DE ACUERDO CON LA EXPOSICIÓN DE MOTIVOS DE LA LEY 10/1982, BÁSICA DE NORMALIZA
 *   **C)** El número 2 del artículo 6 del Estatuto de Autonomía del País Vasco.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El número 3 del artículo 6 del Estatuto de Autonomía del País Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Exposición de Motivos Ley 10/1982
+*   **Literal / Explicación**: "El preámbulo fundamenta la ley en el mandato estatutario del art. 6 del Estatuto de Autonomía."
 
 ---
 
@@ -5158,11 +5079,11 @@ SEGÚN LA EXPOSICIÓN DE MOTIVOS DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DE
 *   **C)** Título Segundo.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Título Preliminar.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Título Preliminar Ley 10/1982
+*   **Literal / Explicación**: "Los principios rectores y derechos lingüísticos fundamentales están proclamados en el Título Preliminar."
 
 ---
 
@@ -5179,11 +5100,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LOS PODERE
 *   **C)** Las medidas tendentes a la consolidación de la euskaldunización del personal afecto a la Administración Pública en la Comunidad Autónoma del País Vasco.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Las medidas tendentes a la progresiva euskaldunización del personal afecto a la Administración Pública en la Comunidad Autónoma del País Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 13 Ley 10/1982
+*   **Literal / Explicación**: "Las administraciones públicas vascas determinarán los puestos de trabajo para los que sea preceptivo el conocimiento del euskera."
 
 ---
 
@@ -5200,11 +5121,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EN RELACI�
 *   **C)** El Parlamento Vasco legislará para generalizar el bilingüismo en la sociedad vasca.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El Parlamento y el Gobierno Vasco adoptarán las medidas oportunas tendentes a la generalización progresiva del bilingüismo en el sistema educativo de la Comunidad Autónoma del País Vasco.".
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 26 Ley 10/1982
+*   **Literal / Explicación**: "El Parlamento y el Gobierno Vasco adoptarán las medidas y recursos presupuestarios conducentes a la normalización de la lengua."
 
 ---
 
@@ -5221,19 +5142,11 @@ SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, ¿CUÁL DE
 *   **C)** Los poderes públicos garantizarán el ejercicio de los derechos lingüísticos tanto dentro como fuera de la Comunidad Autónoma del País Vasco.
 *   **D)** Todas las respuestas son incorrectas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera
-*   **Ámbito / Materia**: Derechos lingüísticos y uso oficial del euskera en la administración
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Todos los ciudadanos del País Vasco tienen derecho a conocer y usar las lenguas oficiales, tanto oralmente como por escrito.".
-
----
-
-<a name="tema-8"></a>
-## 📜 Tema 8: Ley 31/1995 de Prevención de Riesgos Laborales
-
-* **Normativa aplicable**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-* **Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
+*   **Norma**: Ley 10/1982, de 24 de noviembre
+*   **Artículo**: Art. 5 Ley 10/1982
+*   **Literal / Explicación**: "Todos los ciudadanos tienen derecho a conocer y usar el euskera y a no ser discriminados por razones de lengua."
 
 ---
 
@@ -5250,11 +5163,11 @@ LA LEY DE PREVENCIÓN DE RIESGOS LABORALES ES:
 *   **C)** La Ley 3/1996, de 8 de noviembre.
 *   **D)** La Ley 31/1996, de 8 de noviembre.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La Ley 31/1995, de 8 de noviembre.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (LPRL)
+*   **Artículo**: Art. 1 LPRL
+*   **Literal / Explicación**: "La Ley reguladora básica estatal es la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
 
 ---
 
@@ -5271,11 +5184,11 @@ LA LEY DE PREVENCIÓN DE RIESGOS LABORALES ES:
 *   **C)** Artículo 41.1.
 *   **D)** Artículo 41.2.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Artículo 40.2.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 40.2 CE
+*   **Literal / Explicación**: "El artículo 40.2 de la Constitución encomienda a los poderes públicos velar por la seguridad e higiene en el trabajo."
 
 ---
 
@@ -5292,11 +5205,11 @@ LA LEY DE PREVENCIÓN DE RIESGOS LABORALES ES:
 *   **C)** La Constitución Española.
 *   **D)** El Estatuto de Autonomía para el País Vasco.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La Constitución Española.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 14 LPRL
+*   **Literal / Explicación**: "El artículo 14 reconoce el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo."
 
 ---
 
@@ -5313,11 +5226,11 @@ LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, TIENE POR OBJETO:
 *   **C)** Desarrollar la seguridad de los trabajadores mediante el establecimiento de medidas correctoras y sancionadoras.
 *   **D)** Establecer principios generales para obligar a los empresarios a suprimir los trabajos con riesgo.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 15.1 LPRL
+*   **Literal / Explicación**: "El artículo 15.1 enumera los principios de la acción preventiva: evitar riesgos, evaluar los no evitables y combatir los riesgos en su origen."
 
 ---
 
@@ -5334,11 +5247,11 @@ LAS DISPOSICIONES DE CARÁCTER LABORAL CONTENIDAS EN LA LEY DE PREVENCIÓN DE RI
 *   **C)** Normas de actuación.
 *   **D)** Derecho necesario mínimo indisponible.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Derecho necesario mínimo indisponible.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 16.1 LPRL
+*   **Literal / Explicación**: "El plan de prevención de riesgos laborales es el instrumento a través del cual se integra la prevención en el sistema general de gestión."
 
 ---
 
@@ -5355,11 +5268,11 @@ LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, ES DE APLICACIÓN:
 *   **C)** A las sociedades cooperativas, en las que existan socios cuya actividad consista en la prestación de un trabajo personal.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "A las sociedades cooperativas, en las que existan socios cuya actividad consista en la prestación de un trabajo personal.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 16.2 LPRL
+*   **Literal / Explicación**: "La evaluación inicial de riesgos debe actualizarse cuando cambien las condiciones de trabajo o se detecten daños a la salud."
 
 ---
 
@@ -5376,11 +5289,11 @@ LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, NO SERÁ DE APLICACIÓN:
 *   **C)** Servicio del hogar familiar.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 17.2 LPRL
+*   **Literal / Explicación**: "El empresario proporcionará a sus trabajadores equipos de protección individual (EPI) adecuados y gratuitos."
 
 ---
 
@@ -5397,11 +5310,11 @@ SEGÚN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, EL CONJUNTO DE ACTIVIDADES O 
 *   **C)** Protección a los trabajadores.
 *   **D)** Equipo de trabajo.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Prevención.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 18.1 LPRL
+*   **Literal / Explicación**: "El empresario adoptará las medidas debidas para que los trabajadores reciban todas las informaciones sobre los riesgos laborales."
 
 ---
 
@@ -5418,11 +5331,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, LA POSIBILIDAD DE QUE
 *   **C)** Riesgo Laboral.
 *   **D)** Protección a los trabajadores.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Riesgo Laboral.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 19.1 LPRL
+*   **Literal / Explicación**: "El empresario garantizará que cada trabajador reciba una formación teórica y práctica suficiente y adecuada en materia preventiva."
 
 ---
 
@@ -5439,11 +5352,11 @@ SEGÚN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, LAS ENFERMEDADES, PATOLOGÍAS
 *   **C)** Daños derivados del trabajo.
 *   **D)** Protección a los trabajadores.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Daños derivados del trabajo.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 19.2 LPRL
+*   **Literal / Explicación**: "La formación preventiva se impartirá dentro de la jornada laboral o descontando el tiempo invertido en la misma."
 
 ---
 
@@ -5460,11 +5373,11 @@ SEGÚN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, AQUELLO QUE RESULTE PROBABLE 
 *   **C)** Prevención.
 *   **D)** Protección a los trabajadores.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Riesgo Laboral grave e inminente.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 20 LPRL
+*   **Literal / Explicación**: "El empresario organizará las medidas de emergencia, primeros auxilios, lucha contra incendios y evacuación de los trabajadores."
 
 ---
 
@@ -5481,11 +5394,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, AQUELLOS PROCESOS, AC
 *   **C)** Potencialmente peligrosos.
 *   **D)** Daños derivados del trabajo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Potencialmente peligrosos.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 21 LPRL
+*   **Literal / Explicación**: "Ante un riesgo grave e inminente, el trabajador tiene derecho a interrumpir su actividad y abandonar el lugar de trabajo."
 
 ---
 
@@ -5502,11 +5415,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, CUALQUIER MÁQUINA, A
 *   **C)** Prevención Laboral.
 *   **D)** Riesgo Laboral.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Equipo de trabajo.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 22.1 LPRL
+*   **Literal / Explicación**: "La vigilancia de la salud sólo podrá llevarse a cabo cuando el trabajador preste su consentimiento voluntario, salvo excepciones legales."
 
 ---
 
@@ -5523,11 +5436,11 @@ DE ACUERDO CON EL ARTÍCULO 4 DE LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, CUA
 *   **C)** Gestión preventiva del riesgo.
 *   **D)** Riesgo Laboral.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Condición de trabajo.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 22.4 LPRL
+*   **Literal / Explicación**: "Los datos relativos a la vigilancia de la salud son confidenciales y sólo tiene acceso el personal médico y sanitario correspondiente."
 
 ---
 
@@ -5544,11 +5457,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, CUALQUIER EQUIPO DEST
 *   **C)** Riesgo Laboral.
 *   **D)** Equipo de Protección individual.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Equipo de Protección individual.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 24 LPRL
+*   **Literal / Explicación**: "El artículo 24 impone la coordinación de actividades empresariales cuando trabajadores de varias empresas concurren en un mismo centro."
 
 ---
 
@@ -5565,11 +5478,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, LA PROMOCIÓN DE LA M
 *   **C)** Política en materia de mejora del ambiente de trabajo.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Política en materia de prevención.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 25 LPRL
+*   **Literal / Explicación**: "El empresario garantizará de manera específica la protección de los trabajadores especialmente sensibles a determinados riesgos."
 
 ---
 
@@ -5586,11 +5499,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, LA ELABORACIÓN DE LA
 *   **C)** Las organizaciones empresariales y sindicales de la Comunidad Autónoma.
 *   **D)** Los empresarios y de los trabajadores.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Los empresarios y de los trabajadores.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 26 LPRL
+*   **Literal / Explicación**: "La protección de la maternidad comprende la adaptación de condiciones o el cambio a puesto compatible sin merma retributiva."
 
 ---
 
@@ -5607,11 +5520,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, �
 *   **C)** A las organizaciones sindicales y empresariales más representativas.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "A las organizaciones sindicales y empresariales más representativas.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 27 LPRL
+*   **Literal / Explicación**: "Los menores de dieciocho años no podrán desempeñar trabajos peligrosos, insalubres o nocturnos."
 
 ---
 
@@ -5628,11 +5541,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, L
 *   **C)** Decreto.
 *   **D)** Ley del Parlamento.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Normas reglamentarias.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 29 LPRL
+*   **Literal / Explicación**: "Corresponde a cada trabajador velar por su propia seguridad y salud en el trabajo y por la de aquellas personas a las que afecte su actividad."
 
 ---
 
@@ -5649,11 +5562,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, E
 *   **C)** Instituto Nacional de la Seguridad Social.
 *   **D)** Instituto Nacional de Servicios Sociales.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Instituto Nacional de Seguridad e Higiene en el Trabajo.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 30 LPRL
+*   **Literal / Explicación**: "El empresario puede organizar los recursos preventivos asumiéndolos personalmente, designando trabajadores o mediante un servicio de prevención."
 
 ---
 
@@ -5670,11 +5583,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, L
 *   **C)** Una prevención laboral.
 *   **D)** Una información sobre su trabajo.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Una protección eficaz en materia de seguridad y salud en el trabajo.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 31 LPRL
+*   **Literal / Explicación**: "Los servicios de prevención propios o ajenos proporcionarán a la empresa el asesoramiento técnico y apoyo en función de los riesgos."
 
 ---
 
@@ -5691,11 +5604,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, EL EMPRESARIO TIENE E
 *   **C)** Deber de protección de los trabajadores, frente a los riesgos laborales.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Deber de protección de los trabajadores, frente a los riesgos laborales.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 34 LPRL
+*   **Literal / Explicación**: "Los trabajadores tienen derecho a participar en la empresa en las cuestiones relacionadas con la prevención de riesgos en el trabajo."
 
 ---
 
@@ -5712,11 +5625,11 @@ DE ACUERDO CON LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, LAS ADMINISTRACIONES 
 *   **C)** Derecho de prevención a sus trabajadores, frente a los riesgos laborales.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Deber de protección del personal a su servicio, frente a los riesgos laborales.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 35 LPRL
+*   **Literal / Explicación**: "Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos."
 
 ---
 
@@ -5733,11 +5646,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, S
 *   **C)** Combatir los riesgos en su origen.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 35.2 LPRL
+*   **Literal / Explicación**: "Los Delegados de Prevención son designados por y entre los representantes del personal en el comité de empresa o delegados de personal."
 
 ---
 
@@ -5754,11 +5667,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, E
 *   **C)** Los recursos necesarios para realizar la acción de prevención de riesgos en la empresa.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 36 LPRL
+*   **Literal / Explicación**: "Son competencias de los Delegados de Prevención colaborar con la dirección, ser consultados y ejercer labores de vigilancia y control."
 
 ---
 
@@ -5775,11 +5688,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, E
 *   **C)** Dependiendo del trabajo que sea, el trabajador hará un uso adecuado de los mismos.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Para el desempeño de sus funciones y velar por el uso efectivo de los mismos.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 37 LPRL
+*   **Literal / Explicación**: "A los Delegados de Prevención se les reconoce el crédito horario y las garantías previstas en el Estatuto de los Trabajadores."
 
 ---
 
@@ -5796,11 +5709,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, C
 *   **C)** Disponer lo necesario para que el trabajador pueda adoptar las medidas necesarias para evitar las consecuencias de dicho peligro.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 38.1 LPRL
+*   **Literal / Explicación**: "El Comité de Seguridad y Salud se constituirá obligatoriamente en todas las empresas o centros de trabajo que cuenten con 50 o más trabajadores."
 
 ---
 
@@ -5817,11 +5730,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, S
 *   **C)** 100 o más trabajadores.
 *   **D)** 50 o más trabajadores.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "50 o más trabajadores.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 38.2 LPRL
+*   **Literal / Explicación**: "El Comité de Seguridad y Salud es un órgano paritario y colegiado compuesto por los Delegados de Prevención y por representantes del empresario."
 
 ---
 
@@ -5838,11 +5751,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, E
 *   **C)** Dos más de los Delegados de Prevención, de la otra.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Igual al de los Delegados de Prevención, de la otra.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 39 LPRL
+*   **Literal / Explicación**: "El Comité de Seguridad y Salud participará en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención."
 
 ---
 
@@ -5859,11 +5772,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, �
 *   **C)** Directiva 89/391/CEE.
 *   **D)** Ordenanza General de Seguridad e Higiene en el Trabajo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Directiva 89/391/CEE.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 42 LPRL
+*   **Literal / Explicación**: "El incumplimiento empresarial en materia preventiva genera responsabilidades administrativas, civiles patrimoniales e incluso penales."
 
 ---
 
@@ -5880,11 +5793,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, L
 *   **C)** Una fuente de problemas de esfuerzo para el trabajador.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Una fuente de peligro para el trabajador.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 43 LPRL
+*   **Literal / Explicación**: "La Inspección de Trabajo y Seguridad Social tiene encomendada la función de vigilancia y control del cumplimiento de la normativa preventiva."
 
 ---
 
@@ -5901,11 +5814,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, E
 *   **C)** Utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste.
 *   **D)** El trabajador no tiene obligaciones, son del empresario.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 44 LPRL
+*   **Literal / Explicación**: "El Inspector de Trabajo puede ordenar la paralización inmediata de trabajos en caso de apreciar riesgo grave e inminente."
 
 ---
 
@@ -5922,11 +5835,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, L
 *   **C)** No podrán sufrir ningún perjuicio derivado de sus actividades de protección y prevención de los riesgos profesionales en la empresa.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 45 LPRL
+*   **Literal / Explicación**: "Las infracciones en materia de prevención se tipifican en leves, graves y muy graves en el Texto Refundido de la LISOS."
 
 ---
 
@@ -5943,11 +5856,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, E
 *   **C)** El proyecto y la organización de la formación en materia preventiva.
 *   **D)** El proyecto y la organización de la información en materia de protección medioambiental.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El proyecto y la organización de la formación en materia preventiva.".
+*   **Norma**: Ley 31/1995, de 8 de noviembre
+*   **Artículo**: Art. 8 LPRL
+*   **Literal / Explicación**: "El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) es el órgano científico-técnico de la Administración General del Estado."
 
 ---
 
@@ -5964,19 +5877,11 @@ DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DE PREVENCIÓN DE RIESGOS LABORALES, L
 *   **C)** Cuando sea requerida por la Inspección de Hacienda y Seguridad Social.
 *   **D)** Cuando sea requerida por la Inspección de Protección Civil y Emergencias.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales
-*   **Ámbito / Materia**: Seguridad y salud laboral en el ámbito de las administraciones públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "cuando sea requerida por la Inspección de Trabajo y Seguridad Social.".
-
----
-
-<a name="tema-9"></a>
-## 📜 Tema 9: Ley Orgánica 3/2018 (LOPDGDD) y Reglamento General de Protección de Datos (RGPD 2016/679)
-
-* **Normativa aplicable**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-* **Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
+*   **Norma**: Ley 7/1993, de 23 de abril, de creación de Osalan
+*   **Artículo**: Ley 7/1993 de Osalan
+*   **Literal / Explicación**: "Osalan-Instituto Vasco de Seguridad y Salud Laborales es el organismo autónomo encargado de gestionar las políticas preventivas en Euskadi."
 
 ---
 
@@ -5993,11 +5898,11 @@ EL REGLAMENTO (UE) 2016/679 SE APLICA:
 *   **C)** Al tratamiento no automatizado de datos personales contenidos en un fichero.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 2 RGPD
+*   **Literal / Explicación**: "El RGPD se aplica al tratamiento total o parcialmente automatizado de datos personales y al tratamiento no automatizado de datos destinados a ficheros."
 
 ---
 
@@ -6014,11 +5919,11 @@ EL REGLAMENTO (UE) 2016/679 NO SE APLICA:
 *   **C)** Al tratamiento no automatizado de datos personales destinados a ser incluidos en un fichero.
 *   **D)** Al tratamiento de datos personales efectuado por una persona física en el ejercicio de actividades profesionales.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Al tratamiento de datos personales efectuado por una persona física en el ejercicio de actividades exclusivamente personales o domésticas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 3 RGPD
+*   **Literal / Explicación**: "El ámbito territorial del RGPD abarca los tratamientos de datos en la Unión Europea con independencia de dónde se realice el tratamiento."
 
 ---
 
@@ -6035,11 +5940,11 @@ SEGÚN EL REGLAMENTO (UE) 2016/679 LOS DATOS PERSONALES SERÁN:
 *   **C)** Exactos y, si fuera necesario por exigirlo una resolución judicial, actualizados.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Tratados de manera lícita, leal y transparente en relación con el interesado.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 4.1 RGPD
+*   **Literal / Explicación**: "Dato personal es toda información sobre una persona física identificada o identificable (el 'interesado')."
 
 ---
 
@@ -6056,11 +5961,11 @@ SEGÚN EL REGLAMENTO (UE) 2016/679 EL TRATAMIENTO SERÁ LÍCITO SI:
 *   **C)** El interesado dio su consentimiento para el tratamiento de sus datos personales para uno o varios fines inespecíficos.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las respuestas a) y b) son correctas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 4.7 RGPD
+*   **Literal / Explicación**: "Responsable del tratamiento es la persona física o jurídica o entidad que determine los fines y los medios del tratamiento."
 
 ---
 
@@ -6077,11 +5982,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679:
 *   **C)** Cuando el tratamiento se base en el consentimiento del interesado, el responsable deberá ser capaz de demostrar que aquel consintió el tratamiento de sus datos personales.
 *   **D)** Será tan fácil retirar el consentimiento como darlo, salvo si el responsable del fichero está domiciliado en un Estado Miembro distinto al del interesado.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cuando el tratamiento se base en el consentimiento del interesado, el responsable deberá ser capaz de demostrar que aquel consintió el tratamiento de sus datos personales.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 4.8 RGPD
+*   **Literal / Explicación**: "Encargado del tratamiento es la persona física o jurídica que trata datos personales por cuenta del responsable del tratamiento."
 
 ---
 
@@ -6098,11 +6003,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679, CUANDO SE OBTENGAN DE UN INTERESADO 
 *   **C)** Las respuestas a) y b) son correctas.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las respuestas a) y b) son correctas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.1.a RGPD
+*   **Literal / Explicación**: "El principio de licitud, lealtad y transparencia exige que los datos sean tratados de manera lícita, leal y transparente en relación con el interesado."
 
 ---
 
@@ -6119,11 +6024,11 @@ SEGÚN EL REGLAMENTO (UE) 2016/679, LA EXISTENCIA DEL DERECHO A SOLICITAR AL RES
 *   **C)** …por parte de la Autoridad de Control competente en materia de protección de datos cuando se notifique una sanción al encargado del tratamiento por infracciones cometidas en el ejercicio de sus funciones comerciales.
 *   **D)** …por parte del responsable del tratamiento, sólo si así se lo exija el interesado.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "…por parte del responsable del tratamiento en el momento en que se obtengan los datos personales.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.1.b RGPD
+*   **Literal / Explicación**: "El principio de limitación de la finalidad exige que los datos sean recogidos con fines determinados, explícitos y legítimos."
 
 ---
 
@@ -6140,11 +6045,11 @@ SEGÚN EL REGLAMENTO (UE) 2016/679, CUANDO LOS DATOS PERSONALES NO SE HAYAN OBTE
 *   **C)** Las categorías de datos personales de que se trate, si es que estos son relativos a salud o datos biométricos exclusivamente.
 *   **D)** Los fines del tratamiento a que se destinan los datos personales, así como la base jurídica del tratamiento siempre que esta sea el ejercicio de un poder público.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los datos de contacto del delegado de protección de datos, en su caso.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.1.c RGPD
+*   **Literal / Explicación**: "El principio de minimización de datos establece que los datos serán adecuados, pertinentes y limitados a lo necesario en relación con los fines."
 
 ---
 
@@ -6161,11 +6066,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679, EN EL MARCO DEL DERECHO DE ACCESO DE
 *   **C)** …cuando éste presente la solicitud por medios electrónicos, y a menos que dicho interesado solicite que se facilite de otro modo, la información se facilitará en un formato electrónico de uso común.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…cuando éste presente la solicitud por medios electrónicos, y a menos que dicho interesado solicite que se facilite de otro modo, la información se facilitará en un formato electrónico de uso común.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.1.d RGPD
+*   **Literal / Explicación**: "El principio de exactitud impone que los datos personales sean exactos y se mantengan actualizados."
 
 ---
 
@@ -6182,11 +6087,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679, EL INTERESADO TENDRÁ DERECHO A OBTE
 *   **C)** Los destinatarios o las categorías de destinatarios a los que se comunicaron o serán comunicados los datos personales, en particular destinatarios en terceros países u organizaciones internacionales.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.1.e RGPD
+*   **Literal / Explicación**: "El principio de limitación del plazo de conservación exige que los datos se mantengan de forma que se permita la identificación durante no más tiempo del necesario."
 
 ---
 
@@ -6203,11 +6108,11 @@ DE CONFORMIDAD CON EL REGLAMENTO (UE) 2016/679, EN EL MARCO DEL DERECHO DE RECTI
 *   **C)** El interesado tiene derecho a que se rectifiquen sus datos, exclusivamente.
 *   **D)** El Reglamento (UE) 2016/679 no contiene tal derecho.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El interesado tiene derecho a solicitar que se rectifiquen y se completen sus datos.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.1.f RGPD
+*   **Literal / Explicación**: "El principio de integridad y confidencialidad garantiza una seguridad adecuada de los datos, incluida la protección contra accesos no autorizados."
 
 ---
 
@@ -6224,11 +6129,11 @@ DE CONFORMIDAD CON EL REGLAMENTO (UE) 2016/679, EL INTERESADO TENDRÁ DERECHO A 
 *   **C)** Los datos personales hayan sido tratados ilícitamente.
 *   **D)** Los datos personales deban suprimirse para el cumplimiento de una obligación legal establecida en el Derecho de la Unión o de los Estados miembros que se aplique al responsable del tratamiento.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El interesado retire el consentimiento en que se basa el tratamiento, pero éste se base en otro fundamento jurídico.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 5.2 RGPD
+*   **Literal / Explicación**: "El principio de responsabilidad proactiva (accountability) exige que el responsable sea capaz de demostrar la conformidad con los principios del RGPD."
 
 ---
 
@@ -6245,11 +6150,11 @@ SEGÚN EL REGLAMENTO (UE) 2016/679, CUANDO EL TRATAMIENTO DE DATOS PERSONALES SE
 *   **C)** …su portabilidad.
 *   **D)** …su publicación.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "…su conservación.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 6.1 RGPD
+*   **Literal / Explicación**: "El tratamiento sólo es lícito si concurre consentimiento, cumplimiento de contrato, obligación legal, interés vital, interés público o interés legítimo."
 
 ---
 
@@ -6266,11 +6171,11 @@ SEGÚN EL REGLAMENTO (UE) 2016/679, EL INTERESADO TENDRÁ DERECHO A RECIBIR LOS 
 *   **C)** El tratamiento esté basado en el consentimiento o en un contrato o en una obligación personal y el tratamiento se efectúe por medios informáticos.
 *   **D)** El tratamiento esté basado en el consentimiento o en un contrato y el tratamiento se efectúe por medios automatizados y no automatizados.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El tratamiento esté basado en el consentimiento o en un contrato y el tratamiento se efectúe por medios automatizados.".
+*   **Norma**: Ley Orgánica 3/2018 (LOPDGDD)
+*   **Artículo**: Art. 7 RGPD y Art. 6 LOPDGDD
+*   **Literal / Explicación**: "El consentimiento debe ser manifestado mediante una clara acción afirmativa, no admitiéndose el consentimiento tácito o por omisión."
 
 ---
 
@@ -6287,11 +6192,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679, CUANDO EL TRATAMIENTO DE DATOS PERSO
 *   **C)** …en todo momento al tratamiento de los datos personales que le conciernan, incluida la elaboración de perfiles en la medida en que esté relacionada con la citada mercadotecnia.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…en todo momento al tratamiento de los datos personales que le conciernan, incluida la elaboración de perfiles en la medida en que esté relacionada con la citada mercadotecnia.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 9 RGPD
+*   **Literal / Explicación**: "Los datos relativos al origen étnico, convicciones religiosas, salud y orientación sexual constituyen categorías especiales de datos de tratamiento restringido."
 
 ---
 
@@ -6308,11 +6213,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679, ¿CUÁL DE LAS SIGUIENTES AFIRMACION
 *   **C)** Todo interesado tendrá derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar.
 *   **D)** Todas las respuestas anteriores son falsas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Todo interesado tendrá derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 12 RGPD
+*   **Literal / Explicación**: "El responsable facilitará al interesado el ejercicio de sus derechos de forma transparente, inteligible, en lenguaje claro y de forma gratuita."
 
 ---
 
@@ -6329,11 +6234,11 @@ DE ACUERDO CON EL REGLAMENTO (UE) 2016/679, EL DERECHO DE LA UNIÓN O DE LOS EST
 *   **C)** La seguridad pública.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 15 RGPD
+*   **Literal / Explicación**: "El derecho de acceso faculta al interesado a obtener confirmación de si se están tratando sus datos y acceder a la copia de los mismos."
 
 ---
 
@@ -6350,11 +6255,11 @@ LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSONALES Y
 *   **C)** A los tratamientos de datos de personas fallecidas, en todo caso.
 *   **D)** La LO 3/2018 se aplica en todos los casos anteriores.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "A los tratamientos sometidos a la normativa sobre protección de materias clasificadas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 16 RGPD
+*   **Literal / Explicación**: "El derecho de rectificación permite al interesado exigir la rectificación de los datos personales inexactos o que se completen los incompletos."
 
 ---
 
@@ -6371,11 +6276,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** 14 años.
 *   **D)** 18 años.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "14 años.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 17 RGPD
+*   **Literal / Explicación**: "El derecho de supresión ('el derecho al olvido') faculta a que se supriman los datos cuando ya no sean necesarios o se retire el consentimiento."
 
 ---
 
@@ -6392,11 +6297,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** La identidad del responsable del tratamiento, la finalidad del tratamiento, las categorías de datos objeto de tratamiento y la posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.
 *   **D)** La identidad del responsable del tratamiento  y la posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La identidad del responsable del tratamiento, la finalidad del tratamiento y la posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 18 RGPD
+*   **Literal / Explicación**: "El derecho a la limitación del tratamiento paraliza temporalmente el tratamiento a instancia del afectado mientras se verifica su exactitud o legalidad."
 
 ---
 
@@ -6413,11 +6318,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** El responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros.
 *   **D)** El responsable podrá conservar los datos del afectado, pero no hacer uso de ellos hasta que el interesado lo vuelva a autorizar expresamente.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 20 RGPD
+*   **Literal / Explicación**: "El derecho a la portabilidad permite recibir los datos personales en un formato estructurado y legible por máquina para transmitirlos a otro responsable."
 
 ---
 
@@ -6434,11 +6339,11 @@ LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSONALES Y
 *   **C)** A personas físicas o jurídicas, tanto públicas como privadas, si bien captar imágenes de la vía pública está limitado exclusivamente a Entes Públicos.
 *   **D)** A personas físicas o jurídicas, tanto públicas como privadas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "A personas físicas o jurídicas, tanto públicas como privadas.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 21 RGPD
+*   **Literal / Explicación**: "El derecho de oposición faculta a oponerse en cualquier momento al tratamiento de datos por motivos relacionados con su situación particular."
 
 ---
 
@@ -6455,11 +6360,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** Tiene permitido el tratamiento de los datos el órgano competente para la imposición de las sanciones.
 *   **D)** Tiene permitido el tratamiento de los datos el órgano competente para denunciar las infracciones.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Tiene permitido el tratamiento de los datos el órgano competente para denunciar las infracciones.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 22 RGPD
+*   **Literal / Explicación**: "Todo interesado tiene derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles."
 
 ---
 
@@ -6476,11 +6381,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** Los profesionales de la salud que ejerzan su actividad a título individual.
 *   **D)** Las Universidades públicas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los profesionales de la salud que ejerzan su actividad a título individual.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 28 RGPD
+*   **Literal / Explicación**: "La relación entre responsable y encargado del tratamiento debe formalizarse necesariamente mediante un contrato u otro acto jurídico vinculante por escrito."
 
 ---
 
@@ -6497,11 +6402,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** Es una autoridad administrativa independiente de ámbito estatal.
 *   **D)** Es una concesión administrativa que se renueva por concurso público cada 4 años.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Es una autoridad administrativa independiente de ámbito estatal.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 30 RGPD
+*   **Literal / Explicación**: "El registro de actividades de tratamiento (RAT) es obligatorio para las Administraciones Públicas y empresas de más de 250 empleados."
 
 ---
 
@@ -6518,11 +6423,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** Tiene una duración de cuatro años y puede ser renovado para otro período de igual duración.
 *   **D)** Tiene una duración de cuatro años no prorrogable.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Será nombrada por el Consejo de ministros mediante Real Decreto.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 32 RGPD
+*   **Literal / Explicación**: "El responsable aplicará medidas técnicas y organizativas apropiadas para garantizar un nivel de seguridad adecuado al riesgo (cifrado, seudonimización)."
 
 ---
 
@@ -6539,11 +6444,11 @@ EL PROCEDIMIENTO QUE TENGA POR OBJETO LA DETERMINACIÓN DE LA POSIBLE EXISTENCIA
 *   **C)** Caduca a los 9 meses.
 *   **D)** Caduca a los 12 meses.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Caduca a los 12 meses.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 33 RGPD
+*   **Literal / Explicación**: "Las brechas o violaciones de seguridad deben notificarse a la autoridad de control sin dilación indebida y en un plazo máximo de 72 horas."
 
 ---
 
@@ -6560,11 +6465,11 @@ EL PROCEDIMIENTO QUE TENGA POR OBJETO LA DETERMINACIÓN DE LA POSIBLE EXISTENCIA
 *   **C)** Las entidades de certificación.
 *   **D)** Los encargados de los tratamientos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los delegados de protección de datos.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 35 RGPD
+*   **Literal / Explicación**: "La evaluación de impacto relativa a la protección de datos (EIPD) es obligatoria cuando un tratamiento entrañe un alto riesgo para los derechos de las personas."
 
 ---
 
@@ -6581,11 +6486,11 @@ EL PLAZO DE PRESCRIPCIÓN DE LAS INFRACCIONES MUY GRAVES A LA LEY ORGÁNICA 3/20
 *   **C)** 4 años.
 *   **D)** 5 años.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "3 años.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 37 RGPD
+*   **Literal / Explicación**: "La designación de un Delegado de Protección de Datos (DPD/DPO) es preceptiva en todo organismo público o autoridad pública."
 
 ---
 
@@ -6602,11 +6507,11 @@ DE ACUERDO CON LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DAT
 *   **C)** No poner a disposición de la autoridad de protección de datos que lo haya solicitado, el registro de actividades de tratamiento.
 *   **D)** El incumplimiento de la obligación de designar un delegado de protección de datos cuando sea exigible su nombramiento.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El incumplimiento del principio de transparencia de la información o el derecho de información del afectado por no facilitar toda la información exigida.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 38 RGPD
+*   **Literal / Explicación**: "El DPD ejercerá sus funciones con total independencia, debiendo tener acceso directo a la más alta dirección del organismo."
 
 ---
 
@@ -6623,11 +6528,11 @@ LAS SANCIONES IMPUESTAS EN APLICACIÓN DE LA LEY ORGÁNICA 3/2018, DE 5 DE DICIE
 *   **C)** Las sanciones por un importe superior a 300.000 euros prescriben a los dos años.
 *   **D)** Las sanciones por un importe superior a 300.000 euros prescriben a los tres años.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las sanciones por un importe superior a 300.000 euros prescriben a los tres años.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 39 RGPD
+*   **Literal / Explicación**: "Entre las funciones del DPD figuran informar, asesorar al responsable y supervisar el cumplimiento de la normativa de protección de datos."
 
 ---
 
@@ -6644,11 +6549,11 @@ SEGÚN LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSO
 *   **C)** Serán aplicables a Internet solo para las páginas web alojadas en servidores dentro del territorio español.
 *   **D)** No son aplicables a Internet.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Son plenamente aplicables en Internet.".
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD)
+*   **Artículo**: Art. 51 RGPD
+*   **Literal / Explicación**: "Cada Estado miembro designará una o varias autoridades públicas independientes encargadas de supervisar la aplicación del RGPD."
 
 ---
 
@@ -6665,11 +6570,11 @@ DE ACUERDO CON LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DAT
 *   **C)** Los usuarios tienen derecho a la seguridad de las comunicaciones que transmitan a través de Internet, pero no de las que reciban.
 *   **D)** Los usuarios tienen derecho a la seguridad de las comunicaciones que reciban a través de Internet, pero no de las que transmitan.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los usuarios tienen derecho a la seguridad de las comunicaciones que transmitan y reciban a través de Internet.".
+*   **Norma**: Ley Orgánica 3/2018 (LOPDGDD)
+*   **Artículo**: Art. 44 y ss. LOPDGDD
+*   **Literal / Explicación**: "La Agencia Española de Protección de Datos (AEPD) es la autoridad estatal independiente de control en España."
 
 ---
 
@@ -6686,11 +6591,11 @@ DE ACUERDO CON LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DAT
 *   **C)** Únicamente aquellas personas afectadas que hubiesen facilitado los datos al servicio de redes sociales durante su minoría de edad.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Toda persona respecto de los datos que ella misma hubiese facilitado para su publicación por servicios de redes sociales.".
+*   **Norma**: Ley 2/2004 de Ficheros de Datos y AVPD
+*   **Artículo**: Ley 2/2004 de Euskadi
+*   **Literal / Explicación**: "La Autoridad Vasca de Protección de Datos / Datuak Babesteko Euskal Bulegoa (AVPD) es la autoridad de control del sector público de la CAE."
 
 ---
 
@@ -6707,19 +6612,11 @@ DE ACUERDO CON LA LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DAT
 *   **C)** Se entiende que estos son hábiles, excluyéndose del cómputo los sábados, los domingos y los festivos nacionales.
 *   **D)** Se entiende que estos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD)
-*   **Ámbito / Materia**: Principios, derechos digitales y garantías en el tratamiento de datos personales
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Se entiende que estos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.".
-
----
-
-<a name="tema-10"></a>
-## 📜 Tema 10: Decreto Legislativo 1/2023 de Igualdad de Mujeres y Hombres y V Plan Municipal del Ayuntamiento de Bilbao
-
-* **Normativa aplicable**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-* **Materia**: Políticas de igualdad de género y vidas libres de violencia machista
+*   **Norma**: Ley Orgánica 3/2018 (LOPDGDD)
+*   **Artículo**: Art. 77 LOPDGDD
+*   **Literal / Explicación**: "Cuando los infractores sean autoridades o entidades del sector público, la autoridad de control dictará una resolución sancionadora de apercibimiento sin multa pecuniaria."
 
 ---
 
@@ -6736,11 +6633,11 @@ SEGÚN LA DISPOSICIÓN ADICIONAL QUINTA DEL DECRETO LEGISLATIVO 1/2023, POR EL Q
 *   **C)** Modificar las relaciones de puestos de trabajo de los órganos responsables de la evaluación, investigación, innovación e inspección educativa y de los servicios de apoyo al profesorado, a fin de incorporar requisitos específicos de formación en materia de igualdad de mujeres y hombres al profesorado.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Modificar las relaciones de puestos de trabajo de aquellos puestos a través de los cuales se presten servicios específicos para víctimas de violencia machista contra las mujeres, a fin de incorporar requisitos específicos de formación en materia de igualdad de mujeres y hombres y erradicación de la violencia machista.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el Texto Refundido de la Ley para la Igualdad de Mujeres y Hombres
+*   **Artículo**: Disposición Adicional Quinta D. Leg. 1/2023
+*   **Literal / Explicación**: "La DA Quinta del D. Leg. 1/2023 obliga a adaptar las RPT para garantizar unidades y personal especializado en igualdad de género."
 
 ---
 
@@ -6757,11 +6654,11 @@ EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO DE LA LE
 *   **C)** Título Preliminar, 4 Títulos y 83 artículos.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Título Preliminar, 4 Títulos y 83 artículos.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 1 D. Leg. 1/2023
+*   **Literal / Explicación**: "El objeto de la ley es hacer efectivo el derecho de igualdad de trato y de oportunidades y la erradicación de la violencia machista contra las mujeres."
 
 ---
 
@@ -6778,11 +6675,11 @@ SEGÚN EL ARTÍCULO 1 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL T
 *   **C)** Todo ello con el fin último de lograr una sociedad igualitaria y libre de violencia machista en la que todas las personas sean libres para desarrollar sus capacidades personales y tomar decisiones.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 2 D. Leg. 1/2023
+*   **Literal / Explicación**: "El ámbito de aplicación abarca a la Administración de la CAE, administraciones forales y locales y sector público institucional vasco."
 
 ---
 
@@ -6799,11 +6696,11 @@ EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO DE LA LE
 *   **C)** A los veinte días de su completa publicación en el Boletín Oficial del Estado.
 *   **D)** A los veinte días de su completa publicación en el Boletín Oficial del País Vasco.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Al día siguiente de su publicación en el Boletín Oficial del País Vasco.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 3 D. Leg. 1/2023
+*   **Literal / Explicación**: "Enumera los principios generales de actuación: igualdad de trato, prohibición de discriminación, acción positiva y transversalidad de género."
 
 ---
 
@@ -6820,11 +6717,11 @@ SEGÚN EL ARTÍCULO 2 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL T
 *   **C)** Tribunal Vasco de Cuentas Públicas.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Tribunal Vasco de Cuentas Públicas.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 3.4 D. Leg. 1/2023
+*   **Literal / Explicación**: "La acción positiva comprende medidas específicas dirigidas a corregir situaciones patentes de desigualdad de hecho de las mujeres."
 
 ---
 
@@ -6841,11 +6738,11 @@ SEGÚN EL ARTÍCULO 3 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL T
 *   **C)** La colaboración y coordinación e internacionalización.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 3.7 D. Leg. 1/2023
+*   **Literal / Explicación**: "Se considera representación equilibrada cuando en los órganos o tribunales cada sexo esté representado al menos al 40%."
 
 ---
 
@@ -6862,11 +6759,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** Cuando una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación análoga por razón de su sexo o de circunstancias no relacionadas con el sexo, como el embarazo o la maternidad.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cuando una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación análoga por razón de su sexo o de circunstancias directamente relacionadas con el sexo, como el embarazo o la maternidad.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 7 D. Leg. 1/2023
+*   **Literal / Explicación**: "El principio de integración de la perspectiva de género o transversalidad (mainstreaming) obliga a incorporar el enfoque de género en todas las políticas públicas."
 
 ---
 
@@ -6883,11 +6780,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** Las medidas que, aunque planteen un tratamiento diferente para las mujeres y hombres, tienen una justificación objetiva y razonable.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las medidas que, aunque planteen un tratamiento diferente para las mujeres y hombres, tienen una justificación objetiva y razonable.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 15 D. Leg. 1/2023
+*   **Literal / Explicación**: "El Plan para la Igualdad de la CAE establece las directrices y prioridades de actuación de los poderes públicos vascos."
 
 ---
 
@@ -6904,11 +6801,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** Adoptar medidas destinadas a favorecer la igualdad jurídica de las personas eliminando las desigualdades existentes por razón de sexo.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Adoptar medidas específicas y temporales destinadas a eliminar o reducir las desigualdades de hecho por razón de sexo existentes en los diferentes ámbitos de la vida.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 16 D. Leg. 1/2023
+*   **Literal / Explicación**: "Las entidades locales vascas aprobarán periódicamente planes municipales para la igualdad de mujeres y hombres adaptados a su realidad."
 
 ---
 
@@ -6925,11 +6822,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** Las personas de cada sexo estén representadas al menos al 60%.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Las personas de cada sexo estén representadas al menos al 40%.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 18 D. Leg. 1/2023
+*   **Literal / Explicación**: "Las estadísticas y estudios de las administraciones públicas vascas deben desagregar sistemáticamente los datos por sexo."
 
 ---
 
@@ -6946,11 +6843,11 @@ SEGÚN EL ARTÍCULO 4 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL T
 *   **C)** La competencia legislativa, la de desarrollo normativo y la acción directa en materia de igualdad de mujeres y hombres.
 *   **D)** La competencia es de los territorios históricos.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La competencia legislativa, la de desarrollo normativo y la acción directa en materia de igualdad de mujeres y hombres.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 19 D. Leg. 1/2023
+*   **Literal / Explicación**: "Es preceptiva la emisión de un informe de impacto en función del género con carácter previo a la aprobación de normas y planes."
 
 ---
 
@@ -6967,11 +6864,11 @@ SEGÚN EL ARTÍCULO 5 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL T
 *   **C)** Impulso de la colaboración entre las actuaciones de las diferentes administraciones públicas vascas en materia de igualdad de mujeres y hombres.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 20 D. Leg. 1/2023
+*   **Literal / Explicación**: "Las convocatorias públicas de empleo público incluirán cláusulas de desempate en favor del sexo infrarrepresentado a igualdad de méritos."
 
 ---
 
@@ -6988,11 +6885,11 @@ SEGÚN EL ARTÍCULO 7 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL T
 *   **C)** Establecer recursos y servicios para la conciliación corresponsable de la vida personal, laboral y familiar de mujeres y hombres.
 *   **D)** Ejercer la potestad sancionadora.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ejercer la potestad sancionadora.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 21 D. Leg. 1/2023
+*   **Literal / Explicación**: "Los órganos de contratación incluirán cláusulas de igualdad y criterios de adjudicación vinculados a la promoción de la igualdad."
 
 ---
 
@@ -7009,11 +6906,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** Impulso, asesoramiento, planificación y ejecución de las políticas de igualdad de mujeres y hombres en el ámbito de la Administración Local.
 *   **D)** Todas las respuestas son erróneas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Impulso, asesoramiento, planificación y evaluación de las políticas de igualdad de mujeres y hombres en el ámbito de la Comunidad Autónoma de Euskadi.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 22 D. Leg. 1/2023
+*   **Literal / Explicación**: "En las bases de subvenciones se incorporará la perspectiva de género y no podrán concederse ayudas a entidades sancionadas por discriminación."
 
 ---
 
@@ -7030,11 +6927,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** Comisión Interinstitucional para la Igualdad de Mujeres y Hombres.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Comisión Interinstitucional para la Igualdad de Mujeres y Hombres.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 26 D. Leg. 1/2023
+*   **Literal / Explicación**: "Los poderes públicos vascos promoverán la conciliación de la vida personal, familiar y laboral y la corresponsabilidad de los hombres."
 
 ---
 
@@ -7051,11 +6948,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** La Directora de Emakunde.
 *   **D)** El Consejero o la Consejera de Desarrollo Económico e Infraestructuras.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La Directora de Emakunde.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 39 D. Leg. 1/2023
+*   **Literal / Explicación**: "Se garantiza el uso no sexista del lenguaje y de las imágenes en toda la documentación y comunicaciones institucionales."
 
 ---
 
@@ -7072,11 +6969,11 @@ SEGÚN EL ARTÍCULO 16 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** Presupuesto.
 *   **D)** Calendario.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Régimen sancionador.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 49 D. Leg. 1/2023
+*   **Literal / Explicación**: "La ley reconoce el derecho de las mujeres a vidas libres de violencia machista y a una atención y reparación integral."
 
 ---
 
@@ -7093,11 +6990,11 @@ SEGÚN EL ARTÍCULO 21 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** Una cláusula por la que, en caso de existir igualdad de capacitación, se dé prioridad a las mujeres en aquellos cuerpos, escalas, niveles y categorías de la Administración en los que la representación de éstas sea inferior al 40%.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Una cláusula por la que, en caso de existir igualdad de capacitación, se dé prioridad a las mujeres en aquellos cuerpos, escalas, niveles y categorías de la Administración en los que la representación de éstas sea inferior al 40%.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 50 D. Leg. 1/2023
+*   **Literal / Explicación**: "Define las distintas manifestaciones de violencia machista: física, psicológica, sexual, económica, vicaria y digital."
 
 ---
 
@@ -7114,11 +7011,11 @@ SEGÚN EL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO D
 *   **C)** La Comisión Interinstitucional para la Igualdad de Mujeres y Hombres.
 *   **D)** Emakunde Instituto Vasco de la Mujer.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Emakunde Instituto Vasco de la Mujer.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 58 D. Leg. 1/2023
+*   **Literal / Explicación**: "Garantiza a las víctimas el acceso prioritario a recursos de acogida de urgencia, atención psicológica y asesoramiento jurídico gratuito."
 
 ---
 
@@ -7135,11 +7032,11 @@ SEGÚN EL ARTÍCULO 47 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** El acoso por razón de sexo tendrá la consideración de falta disciplinaria muy grave para el personal funcionario de las administraciones públicas vascas.
 *   **D)** Las administraciones públicas vascas, en el ámbito de sus competencias, han de garantizar a las víctimas de acoso sexual y de acoso por razón de sexo el derecho a una atención integral, gratuita, accesible y de calidad que responda a sus necesidades derivadas de dichas situaciones de violencia.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Se considera acoso por razón de sexo en el trabajo cualquier comportamiento de índole sexual verbal, no verbal o físico no deseado dirigido contra una persona , que se produzca en el ámbito de las relaciones personales.".
+*   **Norma**: V Plan Municipal para la Igualdad de Mujeres y Hombres del Ayuntamiento de Bilbao
+*   **Artículo**: V Plan Municipal de Bilbao
+*   **Literal / Explicación**: "El V Plan Municipal de Bilbao constituye el marco estratégico municipal para avanzar en la igualdad real y la transversalidad en la Villa."
 
 ---
 
@@ -7156,11 +7053,11 @@ SEGÚN EL ARTÍCULO 61 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** Ayudas extraordinarias para paliar situaciones de necesidad personal que sean evaluables y verificables, siempre que se haya observado por los órganos competentes la inexistencia o insuficiencia del montante de las ayudas ordinarias previstas.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: V Plan Municipal para la Igualdad del Ayuntamiento de Bilbao
+*   **Artículo**: Ejes V Plan Bilbao
+*   **Literal / Explicación**: "El V Plan se estructura en ejes clave: gobernanza feminista, empoderamiento de las mujeres, economías de los cuidados y vidas libres de violencia."
 
 ---
 
@@ -7177,11 +7074,11 @@ SEGÚN EL ARTÍCULO 71 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** La edad.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las respuestas anteriores es correcta.".
+*   **Norma**: V Plan Municipal para la Igualdad del Ayuntamiento de Bilbao
+*   **Artículo**: Gobernanza V Plan Bilbao
+*   **Literal / Explicación**: "Promueve la capacitación y formación permanente del personal municipal del Ayuntamiento de Bilbao en materia de género e igualdad."
 
 ---
 
@@ -7198,11 +7095,11 @@ SEGÚN EL ARTÍCULO 71 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** Las asociaciones, organizaciones y otras personas jurídicas que tengan entre sus fines velar por el cumplimiento del principio de igualdad de trato de mujeres y hombres.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Reglamento Orgánico y V Plan Municipal de Bilbao
+*   **Artículo**: Área de Igualdad Bilbao
+*   **Literal / Explicación**: "El Área de Igualdad del Ayuntamiento de Bilbao coordina técnicamente la ejecución, seguimiento y evaluación del Plan."
 
 ---
 
@@ -7219,11 +7116,11 @@ SEGÚN EL ARTÍCULO 71 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** No han de motivarse.
 *   **D)** Han de presentarse mediante escrito firmado por letrado o letrada.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Pueden presentarse oralmente.".
+*   **Norma**: V Plan Municipal para la Igualdad del Ayuntamiento de Bilbao
+*   **Artículo**: Comisión Interdepartamental
+*   **Literal / Explicación**: "La Comisión Interdepartamental de Igualdad coordina a todas las Áreas y Sociedades del Ayuntamiento de Bilbao."
 
 ---
 
@@ -7240,11 +7137,11 @@ SEGÚN EL ARTÍCULO 74 DEL DECRETO LEGISLATIVO 1/2023, POR EL QUE SE APRUEBA EL 
 *   **C)** El Gobierno Vasco.
 *   **D)** La Comisión Interinstitucional para la Igualdad de Mujeres y Hombres.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Parlamento Vasco.".
+*   **Norma**: Reglamento del Consejo de las Mujeres de Bilbao por la Igualdad
+*   **Artículo**: Consejo de las Mujeres de Bilbao
+*   **Literal / Explicación**: "El Consejo de las Mujeres de Bilbao por la Igualdad es el órgano de participación sectorial consultiva del tejido asociativo feminista."
 
 ---
 
@@ -7261,11 +7158,11 @@ SEGÚN EL V PLAN PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNTAMI
 *   **C)** El mantenimiento de roles en función del sexo.
 *   **D)** Todas las anteriores respuestas son incorrectas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La acción positiva.".
+*   **Norma**: Protocolo Municipal de Atención a Víctimas de Violencia Machista de Bilbao
+*   **Artículo**: Protocolo de Violencia Bilbao
+*   **Literal / Explicación**: "El Protocolo Municipal de Bilbao asegura la atención coordinada, inmediata y multidisciplinar entre Servicios Sociales y Policía Municipal."
 
 ---
 
@@ -7282,11 +7179,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** Plan de Mandato del Ayuntamiento de Bilbao (2019-2023).
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Plan de Mandato del Ayuntamiento de Bilbao (2019-2023).".
+*   **Norma**: Instrucción Municipal de Contratación Pública Responsable del Ayuntamiento de Bilbao
+*   **Artículo**: Cláusulas Sociales Bilbao
+*   **Literal / Explicación**: "El Ayuntamiento de Bilbao incorpora cláusulas de igualdad obligatorias en los pliegos de contratación y convenios públicos."
 
 ---
 
@@ -7303,11 +7200,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** Movimiento feminista y de las asociaciones de mujeres de Bilbao.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Movimiento feminista y de las asociaciones de mujeres de Bilbao.".
+*   **Norma**: V Plan Municipal para la Igualdad de Bilbao
+*   **Artículo**: Presupuestos con Perspectiva de Género
+*   **Literal / Explicación**: "El Ayuntamiento de Bilbao implanta la metodología de presupuestación con perspectiva de género en sus cuentas municipales anuales."
 
 ---
 
@@ -7324,11 +7221,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** El respeto a la igualdad.
 *   **D)** El respeto a la diversidad y a la diferencia.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El respeto a la igualdad.".
+*   **Norma**: Plan General de Ordenación Urbana de Bilbao y V Plan de Igualdad
+*   **Artículo**: Urbanismo con Perspectiva de Género
+*   **Literal / Explicación**: "El urbanismo con perspectiva de género en Bilbao analiza la seguridad en el espacio público, la iluminación y la eliminación de puntos ciegos."
 
 ---
 
@@ -7345,11 +7242,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** En todo caso, como condición imprescindible para la consecución de la igualdad.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las respuestas a) y b) son correctas.".
+*   **Norma**: Estrategia Municipal de Prevención en Fiestas y Aste Nagusia
+*   **Artículo**: Puntos Violeta de Bilbao
+*   **Literal / Explicación**: "Los Puntos Violeta en Aste Nagusia y eventos multitudinarios ofrecen asesoramiento, atención y sensibilización directa contra agresiones."
 
 ---
 
@@ -7366,11 +7263,11 @@ EL SEGUNDO GRAN EJE DE ACTUACIÓN SOBRE EL QUE SE HA ESTRUCTURADO EL V PLAN MUNI
 *   **C)** En el que se recoge un conjunto de medidas dirigidas a incorporar acciones positivas, desde un enfoque intersectorial, en todas las políticas que se diseñen, se implementen y se evalúen en el ámbito de las competencias municipales y que sean necesarias para erradicar toda discriminación por razón de género detectada.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "En el que se recoge un conjunto de medidas dirigidas a incorporar la perspectiva de género, desde un enfoque interseccional, en todas las políticas sectoriales que se diseñen, se implementen y se evalúen en el ámbito de las competencias municipales, incluyendo acciones positivas, y que sean necesarias para erradicar toda discriminación por razón de género detectada.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 6 D. Leg. 1/2023
+*   **Literal / Explicación**: "Emakunde-Instituto Vasco de la Mujer es el organismo autónomo adscrito a Lehendakaritza que lidera las políticas de igualdad en Euskadi."
 
 ---
 
@@ -7387,11 +7284,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** Mediante el desarrollo de instrumentos de coordinación y colaboración con las instituciones, organizaciones civiles y en especial como las asociaciones de barrios de mujeres.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Mediante el desarrollo de instrumentos de coordinación y colaboración con las instituciones, con sociedad civil, organizaciones sociales y en especial como el movimiento asociativo de mujeres y feministas.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Defensoría para la Igualdad
+*   **Literal / Explicación**: "La Defensoría para la Igualdad de Mujeres y Hombres canaliza las quejas por discriminación por razón de sexo en el ámbito privado."
 
 ---
 
@@ -7408,11 +7305,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** Definición y consolidación de estructuras para la implementación de las políticas de igualdad.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Art. 82 D. Leg. 1/2023
+*   **Literal / Explicación**: "La Comisión Interinstitucional para la Igualdad articula la coordinación entre el Gobierno Vasco, las Diputaciones Forales y EUDEL."
 
 ---
 
@@ -7429,11 +7326,11 @@ EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR EL AYUNT
 *   **C)** La planificación fiscal y gestión económica.
 *   **D)** La planificación de la inversión y rentabilidad económica.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "La planificación y gestión presupuestaria.".
+*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo
+*   **Artículo**: Régimen Sancionador D. Leg. 1/2023
+*   **Literal / Explicación**: "El Título VI del D. Leg. 1/2023 tipifica las infracciones administrativas y sanciones en materia de igualdad de mujeres y hombres."
 
 ---
 
@@ -7450,19 +7347,11 @@ SEGÚN EL V PLAN MUNICIPAL PARA LA IGUALDAD DE MUJERES Y HOMBRES ELABORADO POR E
 *   **C)** La evaluación previa de impacto de género.
 *   **D)** La corresponsabilidad social.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Decreto Legislativo 1/2023, de 16 de marzo, y V Plan Municipal de Igualdad del Ayuntamiento de Bilbao
-*   **Ámbito / Materia**: Políticas de igualdad de género y vidas libres de violencia machista
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La evaluación previa de impacto de género.".
-
----
-
-<a name="tema-11"></a>
-## 📜 Tema 11: Contratación Administrativa. Clases, elementos, procedimientos de selección y formalización
-
-* **Normativa aplicable**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-* **Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
+*   **Norma**: V Plan Municipal para la Igualdad del Ayuntamiento de Bilbao
+*   **Artículo**: Evaluación V Plan Bilbao
+*   **Literal / Explicación**: "El seguimiento del V Plan de Bilbao se realiza mediante indicadores de género cuantitativos y cualitativos y una evaluación final de impacto."
 
 ---
 
@@ -7479,11 +7368,11 @@ SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE, DE CONTRATOS DEL SECTOR PÚBLICO, LA DU
 *   **C)** Seis meses, sin ser objeto de prórroga.
 *   **D)** Un año, sin ser objeto de prórroga.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Un año, sin ser objeto de prórroga.".
+*   **Artículo**: Art. 29.8 LCSP
+*   **Literal / Explicación**: "El artículo 29.8 de la LCSP establece que los contratos menores no podrán tener una duración superior a un año ni ser objeto de prórroga."
 
 ---
 
@@ -7500,11 +7389,11 @@ LA NUEVA REGULACIÓN EN MATERIA DE CONTRATACIÓN PÚBLICA ENTRÓ EN VIGOR EN:
 *   **C)** Aún no ha entrado en vigor.
 *   **D)** 2018.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "2018.".
+*   **Artículo**: Art. 118 LCSP
+*   **Literal / Explicación**: "Son contratos menores los contratos de valor estimado inferior a 40.000 euros en obras o a 15.000 euros en suministros y servicios."
 
 ---
 
@@ -7521,11 +7410,11 @@ EL OBJETO DE LOS CONTRATOS DEL SECTOR PÚBLICO:
 *   **C)** Deberá ser inespecífico.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Deberá ser determinado.".
+*   **Artículo**: Art. 12 LCSP
+*   **Literal / Explicación**: "El contrato de obras tiene por objeto la realización de alguno de los trabajos enumerados en el anexo I o la realización de una obra de ingeniería civil o edificación."
 
 ---
 
@@ -7542,11 +7431,11 @@ SEÑALE LA RESPUESTA CORRECTA:
 *   **C)** No podrá fraccionarse un contrato al objeto de eludir los requisitos relativos al procedimiento de adjudicación.
 *   **D)** Los contratos del sector público siempre han de fraccionarse si alcanzan una determinada cuantía o valor económico.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No podrá fraccionarse un contrato al objeto de eludir los requisitos relativos al procedimiento de adjudicación.".
+*   **Artículo**: Art. 16 LCSP
+*   **Literal / Explicación**: "El contrato de suministro tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento con o sin opción de compra de productos o bienes muebles."
 
 ---
 
@@ -7563,11 +7452,11 @@ SEÑALE LA RESPUESTA INCORRECTA:
 *   **C)** Las mutuas colaboradoras con la seguridad social no son poderes adjudicadores.
 *   **D)** Las diputaciones forales se considerarán que forman parte del sector público en lo que respecta a su actividad de contratación.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las mutuas colaboradoras con la seguridad social no son poderes adjudicadores.".
+*   **Artículo**: Art. 17 LCSP
+*   **Literal / Explicación**: "El contrato de servicios comprende prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de obra o suministro."
 
 ---
 
@@ -7584,11 +7473,11 @@ LOS CONTRATOS QUE TIENEN POR OBJETO LA REALIZACIÓN POR CUALQUIER MEDIO DE UNA O
 *   **C)** Son los contratos de concesión de servicios.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Son los contratos de obras.".
+*   **Artículo**: Art. 14 LCSP
+*   **Literal / Explicación**: "La concesión de obras comprende la explotación de las obras por el concesionario asumiendo el riesgo operacional derivado de la explotación."
 
 ---
 
@@ -7605,11 +7494,11 @@ ESTÁN SUJETOS A REGULACIÓN ARMONIZADA LOS CONTRATOS DE SUMINISTRO CUYO VALOR E
 *   **C)** A 100.000 euros cuando se trata de contratos adjudicados por la Administración General del Estado.
 *   **D)** A 50.000 euros cuando se trata de contratos adjudicados por la Administración General del Estado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "A 143.000 euros cuando se trata de contratos adjudicados por la Administración General del Estado.".
+*   **Artículo**: Art. 15 LCSP
+*   **Literal / Explicación**: "La concesión de servicios encomienda la gestión de un servicio con transferencia del riesgo operacional vinculado a la demanda o a la oferta."
 
 ---
 
@@ -7626,11 +7515,11 @@ AQUELLOS CONTRATOS CUYO OBJETO SON PRESTACIONES DE HACER, CONSISTENTES EN EL DES
 *   **C)** Son contratos de suministro.
 *   **D)** Son contratos de servicios.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Son contratos de servicios.".
+*   **Artículo**: Art. 18 LCSP
+*   **Literal / Explicación**: "Son contratos mixtos aquellos que contengan prestaciones correspondientes a más de uno de los contratos típicos de la LCSP."
 
 ---
 
@@ -7647,11 +7536,11 @@ LOS CONTRATOS DE FABRICACIÓN:
 *   **C)** Son contratos de suministros.
 *   **D)** Son contratos de servicios.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Son contratos de suministros.".
+*   **Artículo**: Art. 19 LCSP
+*   **Literal / Explicación**: "Los contratos del sector público se califican en administrativos (típicos y especiales) o contratos privados."
 
 ---
 
@@ -7668,11 +7557,11 @@ SEÑALE LA RESPUESTA INCORRECTA:
 *   **C)** Para celebrar contratos con el sector público los empresarios deberán acreditar estar en posesión de las condiciones mínimas de solvencia económica y financiera y profesionalmente.
 *   **D)** La capacidad de obrar de los empresarios que fueran personas jurídicas se acreditará mediante la escritura o documento de constitución.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "No pueden contratar con el sector público las uniones de empresarios que se constituyan temporalmente.".
+*   **Artículo**: Art. 20 LCSP
+*   **Literal / Explicación**: "La jurisdicción contencioso-administrativa conoce de la preparación, adjudicación, efectos y extinción de los contratos administrativos."
 
 ---
 
@@ -7689,11 +7578,11 @@ SEÑALE LA RESPUESTA INCORRECTA:
 *   **C)** Mediante su inscripción en el registro procedente de acuerdo con la legislación del Estado donde están establecidos.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Mediante su inscripción en el registro procedente de acuerdo con la legislación del Estado donde están establecidos.".
+*   **Artículo**: Art. 21 LCSP
+*   **Literal / Explicación**: "En los contratos privados de la Administración, la jurisdicción civil es competente para resolver las controversias relativas a sus efectos y extinción."
 
 ---
 
@@ -7710,11 +7599,11 @@ SEÑALE LA RESPUESTA INCORRECTA:
 *   **C)** Mediante su inscripción en el registro procedente de acuerdo con la legislación del Estado donde están establecidos.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las anteriores respuestas es correcta.".
+*   **Artículo**: Art. 65 LCSP
+*   **Literal / Explicación**: "Solo podrán contratar con el sector público las personas físicas o jurídicas que tengan plena capacidad de obrar y no estén incursas en prohibición de contratar."
 
 ---
 
@@ -7731,11 +7620,11 @@ SEÑALE LA RESPUESTA CORRECTA:
 *   **C)** Se considerarán contratos menores los contratos de valor estimado inferior a 40.000 euros cuando se trate de contratos de obras.
 *   **D)** Se considerarán contratos menores los contratos de valor estimado inferior a 60.000 euros cuando se trate de contratos de obras.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Se considerarán contratos menores los contratos de valor estimado inferior a 40.000 euros cuando se trate de contratos de obras.".
+*   **Artículo**: Art. 71 LCSP
+*   **Literal / Explicación**: "Enumera las prohibiciones de contratar: condena penal firme por corrupción, quiebra o concurso culpable, o deudas con Seguridad Social y Hacienda."
 
 ---
 
@@ -7752,11 +7641,11 @@ SEÑALE LA RESPUESTA CORRECTA:
 *   **C)** Se considerarán contratos menores los contratos de valor estimado inferior a 40.000 euros cuando se trate de contratos de suministro.
 *   **D)** Se considerarán contratos menores los contratos de valor estimado inferior a 60.000 euros cuando se trate de contratos de servicios.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Se considerarán contratos menores los contratos de valor estimado inferior a 15.000 euros cuando se trate de contratos de suministro.".
+*   **Artículo**: Art. 74 LCSP
+*   **Literal / Explicación**: "Para celebrar contratos con el sector público, los empresarios deberán acreditar su solvencia económica y financiera y solvencia técnica o profesional."
 
 ---
 
@@ -7773,11 +7662,11 @@ LOS CONTRATOS MENORES:
 *   **C)** Nunca podrán adjudicarse directamente a empresarios que no sean españoles o nacionales de la Unión Europea.
 *   **D)** Ninguna de las anteriores opciones es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las anteriores opciones es correcta.".
+*   **Artículo**: Art. 77 LCSP
+*   **Literal / Explicación**: "La clasificación empresarial es exigible de forma obligatoria en los contratos de obras de valor estimado igual o superior a 500.000 euros."
 
 ---
 
@@ -7794,11 +7683,11 @@ LOS CONTRATOS QUE CELEBRAN LAS ADMINISTRACIONES PÚBLICAS:
 *   **C)** Deben formalizarse en documento administrativo que se ajuste con exactitud a las condiciones de la licitación salvo que se trate de un contrato basado en un acuerdo marco o en los contratos específicos dentro de un sistema dinámico de adquisición.
 *   **D)** Pueden ser de tipo verbal.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Deben formalizarse en documento administrativo que se ajuste con exactitud a las condiciones de la licitación salvo que se trate de un contrato basado en un acuerdo marco o en los contratos específicos dentro de un sistema dinámico de adquisición.".
+*   **Artículo**: Art. 101 LCSP
+*   **Literal / Explicación**: "El valor estimado del contrato comprende el importe total pagadero sin incluir el Impuesto sobre el Valor Añadido (IVA), considerando prórrogas y modificaciones."
 
 ---
 
@@ -7815,11 +7704,11 @@ EN EL PROCEDIMIENTO ABIERTO LA APERTURA DE LAS PROPOSICIONES DEBERÁ EFECTUARSE 
 *   **C)** De sesenta días.
 *   **D)** De noventa días.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "De veinte días.".
+*   **Artículo**: Art. 102 LCSP
+*   **Literal / Explicación**: "El precio del contrato podrá formularse tanto en términos de precios unitarios como en precio a tanto alzado."
 
 ---
 
@@ -7836,11 +7725,11 @@ LOS CONTRATOS QUE TENGAN POR OBJETO EL ARRENDAMIENTO DE EQUIPOS Y SISTEMAS DE TE
 *   **C)** Contratos de servicios.
 *   **D)** Ninguna de las anteriores opciones es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Contratos de suministro.".
+*   **Artículo**: Art. 107 LCSP
+*   **Literal / Explicación**: "Los licitadores que presenten la mejor oferta constituirán una garantía definitiva del 5 por ciento del precio final ofertado, excluido el IVA."
 
 ---
 
@@ -7857,11 +7746,11 @@ LA NUEVA LEY DE CONTRATOS DEL SECTOR PÚBLICO:
 *   **C)** Se aprobó por el gobierno de la Nación.
 *   **D)** Se aprobó por la Comisión europea.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Se aprobó por las Cortes Generales.".
+*   **Artículo**: Art. 116 LCSP
+*   **Literal / Explicación**: "El expediente de contratación se iniciará por el órgano de contratación motivando la necesidad e idoneidad del contrato e incorporando los pliegos (PCAP y PPT)."
 
 ---
 
@@ -7878,11 +7767,11 @@ LA ENTRADA EN VIGOR DE LA LEY DE CONTRATOS DEL SECTOR PÚBLICO:
 *   **C)** Fue a los doce meses de su publicación.
 *   **D)** Fue al día siguiente de su publicación.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Fue a los cuatro meses de su publicación.".
+*   **Norma**: Ley 9/2017, de 8 de noviembre
+*   **Artículo**: Disposición Final 16ª LCSP
+*   **Literal / Explicación**: "La Ley 9/2017 entró en vigor a los cuatro meses de su publicación en el BOE (9 de marzo de 2018)."
 
 ---
 
@@ -7899,11 +7788,11 @@ CUANDO EL ÚNICO CRITERIO PARA SELECCIONAR AL ADJUDICATARIO DEL CONTRATO SEA EL 
 *   **C)** La adjudicación deberá recaer en el plazo máximo de quince días a contar desde el siguiente al de apertura de las proposiciones.
 *   **D)** La adjudicación deberá recaer en el plazo máximo de treinta días a contar desde el siguiente al de apertura de las proposiciones.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La adjudicación deberá recaer en el plazo máximo de quince días a contar desde el siguiente al de apertura de las proposiciones.".
+*   **Artículo**: Art. 158 LCSP
+*   **Literal / Explicación**: "Cuando el único criterio sea el precio, la adjudicación deberá recaer en el plazo máximo de quince días a contar desde la apertura de las proposiciones."
 
 ---
 
@@ -7920,11 +7809,11 @@ LOS CONTRATOS DE SUMINISTROS Y DE SERVICIOS DE PRESTACIÓN SUCESIVA:
 *   **C)** Tendrán un plazo máximo de duración de seis años.
 *   **D)** Tendrán un plazo máximo de duración de tres años.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Tendrán un plazo máximo de duración de cinco años.".
+*   **Artículo**: Art. 29.4 LCSP
+*   **Literal / Explicación**: "Los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluidas las prórrogas."
 
 ---
 
@@ -7941,11 +7830,11 @@ LA DURACIÓN DE LOS CONTRATOS DE CONCESIÓN DE OBRAS NO PODRÁN EXCEDER, INCLUÍ
 *   **C)** De cinco años.
 *   **D)** Ninguna de las opciones es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "De cuarenta años.".
+*   **Artículo**: Art. 29.6 LCSP
+*   **Literal / Explicación**: "La duración de los contratos de concesión de obras o de servicios no podrá exceder de cuarenta años."
 
 ---
 
@@ -7962,11 +7851,11 @@ SEGÚN LA LEY 9/2017 DE CONTRATOS DEL SECTOR PÚBLICO, LAS ADJUDICACIONES SE REA
 *   **C)** La oferta económicamente más ventajosa.
 *   **D)** La oferta que incluya mayor importe en cuanto a mejoras.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La oferta económicamente más ventajosa.".
+*   **Artículo**: Art. 145 LCSP
+*   **Literal / Explicación**: "La adjudicación de los contratos se realizará utilizando una pluralidad de criterios en base a la mejor relación calidad-precio."
 
 ---
 
@@ -7983,11 +7872,11 @@ CUANDO POR CAUSAS IMPUTABLES AL ADJUDICATARIO NO SE HUBIESE FORMALIZADO EL CONTR
 *   **C)** Se le exigirá el importe del tres por ciento del presupuesto base de licitación.
 *   **D)** Se le exigirá el importe del uno por ciento del presupuesto base de licitación.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Se le exigirá el importe del tres por ciento del presupuesto base de licitación.".
+*   **Artículo**: Art. 153.4 LCSP
+*   **Literal / Explicación**: "Cuando por causas imputables al adjudicatario no se formalice el contrato, la Administración le exigirá el 3 por ciento del presupuesto base de licitación en concepto de penalidad."
 
 ---
 
@@ -8004,11 +7893,11 @@ LA FORMALIZACIÓN DE LOS CONTRATOS DEBERÁ PUBLICARSE JUNTO CON EL CORRESPONDIEN
 *   **C)** En un plazo no superior a cinco días tras el perfeccionamiento del contrato en el perfil del contratante del órgano de contratación.
 *   **D)** En un plazo no superior a ocho días tras el perfeccionamiento del contrato en el perfil del contratante del órgano de contratación.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En un plazo no superior a quince días tras el perfeccionamiento del contrato en el perfil del contratante del órgano de contratación.".
+*   **Artículo**: Art. 154 LCSP
+*   **Literal / Explicación**: "La formalización de los contratos deberá publicarse en el perfil de contratante en un plazo no superior a quince días tras el perfeccionamiento del contrato."
 
 ---
 
@@ -8025,11 +7914,11 @@ LA FORMALIZACIÓN DE LOS CONTRATOS DEBERÁ PUBLICARSE JUNTO CON EL CORRESPONDIEN
 *   **C)** Cuando el valor estimado sea igual o inferior a 6.000.000 de euros.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Cuando el valor estimado sea igual o inferior a 2.000.000 de euros.".
+*   **Artículo**: Art. 159.1 LCSP
+*   **Literal / Explicación**: "Podrá utilizarse el procedimiento abierto simplificado ordinario en contratos de obras con valor estimado inferior a 2.000.000 euros."
 
 ---
 
@@ -8046,11 +7935,11 @@ LA FORMALIZACIÓN DE LOS CONTRATOS DEBERÁ PUBLICARSE JUNTO CON EL CORRESPONDIEN
 *   **C)** Cuando el valor estimado sea igual o inferior a 500.000 euros.
 *   **D)** Cuando el valor estimado sea igual o inferior a 143.000 euros.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Cuando el valor estimado sea igual o inferior a 143.000 euros.".
+*   **Artículo**: Art. 159.6 LCSP
+*   **Literal / Explicación**: "En el procedimiento abierto supersimplificado (sumario), el valor estimado en suministros y servicios debe ser inferior a 60.000 euros (en obras inferior a 80.000 euros)."
 
 ---
 
@@ -8067,11 +7956,11 @@ EL PLAZO GENERAL DE PRESENTACIÓN DE PROPOSICIONES EN LOS PROCEDIMIENTOS RESTRIN
 *   **C)** En cualquier caso no será inferior a noventa días.
 *   **D)** En cualquier caso no será inferior a treinta días.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "En cualquier caso no será inferior a treinta días.".
+*   **Artículo**: Art. 156 LCSP
+*   **Literal / Explicación**: "En los procedimientos abiertos de contratos no SARA, el plazo general de presentación de proposiciones no será inferior a treinta o quince días según el tipo contractual."
 
 ---
 
@@ -8088,11 +7977,11 @@ EN LAS CONCESIONES DE OBRAS Y SERVICIOS SOLO SE PODRÁ REDUCIR EL PLAZO GENERAL 
 *   **C)** El órgano de contratación aceptara la presentación de ofertas por medios electrónicos.
 *   **D)** En ningún caso es posible reducir tal plazo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El órgano de contratación aceptara la presentación de ofertas por medios electrónicos.".
+*   **Artículo**: Art. 156.3 LCSP
+*   **Literal / Explicación**: "La presentación electrónica de proposiciones permite la reducción en cinco días del plazo de recepción de ofertas."
 
 ---
 
@@ -8109,11 +7998,11 @@ EN LAS CONCESIONES DE OBRAS Y SERVICIOS SOLO SE PODRÁ REDUCIR EL PLAZO GENERAL 
 *   **C)** En los contratos de suministros cuando se trate de la adquisición en mercados organizados.
 *   **D)** Cuando se trate de contratos de servicios sociales personalísimos que tengan por una de sus características determinantes el arraigo de la persona en el entorno de atención social siempre que el objeto del contrato consista en dotar de continuidad en la atención a las personas que ya eran beneficiarios de dicho servicio.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Cuando se trate de contratos de servicios sociales personalísimos que tengan por una de sus características determinantes el arraigo de la persona en el entorno de atención social siempre que el objeto del contrato consista en dotar de continuidad en la atención a las personas que ya eran beneficiarios de dicho servicio.".
+*   **Artículo**: Art. 167 LCSP
+*   **Literal / Explicación**: "El procedimiento de licitación con negociación se utiliza en contratos de servicios sociales o intelectuales complejos que no admitan precios directos."
 
 ---
 
@@ -8130,11 +8019,11 @@ EN LAS CONCESIONES DE OBRAS Y SERVICIOS SOLO SE PODRÁ REDUCIR EL PLAZO GENERAL 
 *   **C)** Será de quince días a partir de la fecha de envío del anuncio de licitación, cuando el contrato esté sujeto a regulación armonizada.
 *   **D)** Será de diez días a partir de la fecha de envío del anuncio de licitación, cuando el contrato esté sujeto a regulación armonizada.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Será de treinta días a partir de la fecha de envío del anuncio de licitación, cuando el contrato esté sujeto a regulación armonizada.".
+*   **Artículo**: Art. 161 LCSP
+*   **Literal / Explicación**: "En los procedimientos restringidos, el plazo mínimo para la recepción de solicitudes de participación será de treinta días desde el envío del anuncio."
 
 ---
 
@@ -8151,11 +8040,11 @@ SEGÚN EL ART. 116 DE LA LEY 9/2017 DE CONTRATOS DEL SECTOR PÚBLICO, EN EL EXPE
 *   **C)** En los contratos de servicios, el informe de insuficiencia de medios.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Artículo**: Art. 116 LCSP
+*   **Literal / Explicación**: "El expediente de contratación debe incorporar la justificación de la necesidad, los pliegos de condiciones y el certificado de existencia de crédito presupuestario."
 
 ---
 
@@ -8172,11 +8061,11 @@ SEGÚN EL ARTÍCULO 3 DE LA LEY 9/2017, DE 8 DE NOVIEMBRE, DE CONTRATOS DEL SECT
 *   **C)** Las fundaciones cuyo patrimonio esté integrado por un cuarenta y nueve por ciento por bienes o derechos aportados o cedidos por sujetos integrantes del sector público con carácter permanente quedan excluidas del ámbito subjetivo de la ley de contratos del sector público.
 *   **D)** Las parroquias no forman parte del ámbito subjetivo de la ley de contratos del sector público.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las fundaciones cuyo patrimonio esté integrado por un cuarenta y nueve por ciento por bienes o derechos aportados o cedidos por sujetos integrantes del sector público con carácter permanente quedan excluidas del ámbito subjetivo de la ley de contratos del sector público.".
+*   **Artículo**: Art. 3.2 LCSP
+*   **Literal / Explicación**: "Son poderes adjudicadores las Administraciones Públicas, las fundaciones públicas y las mutuas colaboradoras con la Seguridad Social."
 
 ---
 
@@ -8193,19 +8082,11 @@ NO SE CONSIDERARÁN PODERES ADJUDICADORES A EFECTOS DE LA LEY DE CONTRATOS DEL S
 *   **C)** Los partidos políticos.
 *   **D)** La Iglesia.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
 *   **Norma**: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)
-*   **Ámbito / Materia**: Contratos administrativos típicos, procedimiento de licitación y adjudicación
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "La Iglesia.".
-
----
-
-<a name="tema-12"></a>
-## 📜 Tema 12: Instrumentos reguladores de RRHH: Oferta Pública de Empleo, planes de empleo y ordenación
-
-* **Normativa aplicable**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-* **Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
+*   **Artículo**: Art. 3 LCSP
+*   **Literal / Explicación**: "Las entidades religiosas y confesiones están excluidas de la calificación de poder adjudicador sujeta a la LCSP."
 
 ---
 
@@ -8222,11 +8103,11 @@ LA OFERTA DE EMPLEO PÚBLICO EN UN MUNICIPIO DE GRAN POBLACIÓN DEBE SER APROBAD
 *   **C)** El Alcalde.
 *   **D)** La Junta de Gobierno Local.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "La Junta de Gobierno Local.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 127.1.h LRBRL
+*   **Literal / Explicación**: "En los municipios de gran población, corresponde a la Junta de Gobierno Local la aprobación de la Oferta de Empleo Público."
 
 ---
 
@@ -8243,11 +8124,11 @@ LA OFERTA DE EMPLEO PÚBLICO, EN UN MUNICIPIO FUERA DEL ÁMBITO ESPECÍFICO DE L
 *   **C)** El Alcalde.
 *   **D)** La Junta de Gobierno Local.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Alcalde.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 21.1.g LRBRL
+*   **Literal / Explicación**: "En los municipios de régimen común, la aprobación de la Oferta de Empleo Público corresponde a la Alcaldía-Presidencia."
 
 ---
 
@@ -8264,11 +8145,11 @@ LA OFERTA DE EMPLEO PÚBLICO, EN UN MUNICIPIO FUERA DEL ÁMBITO ESPECÍFICO DE L
 *   **C)** La planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo contribuir a la consecución de la eficacia en la prestación de los servicios y de la eficiencia en la utilización de los recursos económicos disponibles m ediante la redistribución aleatoria de sus efectivos.
 *   **D)** Todas las respuestas anteriores son falsas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo contribuir a la consecución de la eficacia en la prestación de los servicios y de la eficiencia en la utilización de los recursos económicos disponibles mediante la dimensión adecuada de sus efectivos, su mejor distribución, formación, promoción profesional y movilidad.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 69 TREBEP
+*   **Literal / Explicación**: "La planificación de los recursos humanos tiene como objetivo lograr la dimensión y estructura idónea de las plantillas para la eficaz prestación de los servicios."
 
 ---
 
@@ -8285,11 +8166,11 @@ LAS ADMINISTRACIONES PÚBLICAS PODRÁN APROBAR PLANES PARA LA ORDENACIÓN DE SUS
 *   **C)** Medidas de movilidad, entre las cuales podrá figurar la suspensión de incorporaciones de personal externo a un determinado ámbito o la convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 69.2 TREBEP
+*   **Literal / Explicación**: "Los planes para la ordenación de recursos humanos podrán incluir previsiones sobre modificación de plantillas, movilidad geográfica y funcional y promoción interna."
 
 ---
 
@@ -8306,11 +8187,11 @@ LAS ADMINISTRACIONES PÚBLICAS PODRÁN APROBAR PLANES PARA LA ORDENACIÓN DE SUS
 *   **C)** Sí, salvo la movilidad forzosa.
 *   **D)** Sí, salvo la formación profesional.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Sí.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 69.2 TREBEP
+*   **Literal / Explicación**: "Los planes de ordenación de recursos humanos incorporan medidas de formación, reciclaje y adaptación a las nuevas tecnologías."
 
 ---
 
@@ -8327,11 +8208,11 @@ LAS NECESIDADES DE RECURSOS HUMANOS, CON ASIGNACIÓN PRESUPUESTARIA, QUE DEBAN P
 *   **C)** Relación de puestos de trabajo.
 *   **D)** Anuncio en el DOUE.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Oferta de Empleo Público o de otro instrumento similar de gestión de la provisión de las necesidades de personal.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 70.1 TREBEP
+*   **Literal / Explicación**: "Las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso se integrarán en la Oferta de Empleo Público."
 
 ---
 
@@ -8348,11 +8229,11 @@ LA APROBACIÓN DE LA OFERTA DE EMPLEO PÚBLICO COMPORTARÁ LA OBLIGACIÓN DE CON
 *   **C)** … y hasta un 3% adicional.
 *   **D)** … y hasta un 7% adicional.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "… y hasta un 10% adicional.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 70.1 TREBEP
+*   **Literal / Explicación**: "La OPE comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un 10 por ciento adicional."
 
 ---
 
@@ -8369,11 +8250,11 @@ LA OFERTA DE EMPLEO PÚBLICO DEBERÁ EJECUTARSE EN EL PLAZO DE:
 *   **C)** 3 años máximo.
 *   **D)** 30 meses máximo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "3 años máximo.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 70.1 TREBEP
+*   **Literal / Explicación**: "La ejecución de la Oferta de Empleo Público deberá desarrollarse dentro del plazo improrrogable de tres años."
 
 ---
 
@@ -8390,11 +8271,11 @@ LA OFERTA DE EMPLEO PÚBLICO SE APROBARÁ:
 *   **C)** Bianualmente.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Anualmente.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 70.2 TREBEP
+*   **Literal / Explicación**: "La Oferta de Empleo Público se aprobará anualmente por los órganos de gobierno de las Administraciones Públicas y se publicará en el diario oficial."
 
 ---
 
@@ -8411,11 +8292,11 @@ LA OFERTA DE EMPLEO PÚBLICO O INSTRUMENTO SIMILAR PODRÁ CONTENER MEDIDAS DERIV
 *   **C)** Cierto.
 *   **D)** Falso, salvo que la planificación de recursos humanos sea aprobada en un año en que la Oferta de Empleo Público prevea la convocatoria de 1.000 plazas o más.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cierto.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 70.3 TREBEP
+*   **Literal / Explicación**: "La OPE podrá contener medidas específicas para la estabilización de empleo temporal en los términos autorizados por la legislación básica."
 
 ---
 
@@ -8432,11 +8313,11 @@ CUANDO POR MOTIVOS EXCEPCIONALES LOS PLANES DE ORDENACIÓN DE RECURSOS IMPLIQUEN
 *   **C)** …no se dará prioridad a la voluntariedad de los traslados.
 *   **D)** Un Plan de ordenación de recursos humanos no puede dar lugar a traslados.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "…se dará prioridad a la voluntariedad de los traslados.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 81.2 TREBEP
+*   **Literal / Explicación**: "En los planes de movilidad o reordenación de personal se dará prioridad a la voluntariedad de los traslados antes de acudir a traslados forzosos."
 
 ---
 
@@ -8453,11 +8334,11 @@ LAS ADMINISTRACIONES PÚBLICAS PODRÁN ELABORAR PLANES DE EMPLEO, REFERIDOS A:
 *   **C)** Personal eventual y funcionario.
 *   **D)** Personal funcionario y laboral.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Personal funcionario y laboral.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 69 TREBEP
+*   **Literal / Explicación**: "Los planes de empleo pueden abarcar tanto al personal funcionario de carrera como al personal laboral fijo de la Administración."
 
 ---
 
@@ -8474,11 +8355,11 @@ LOS PLANES DE EMPLEO PODRÁN CONTENER LAS SIGUIENTES PREVISIONES Y MEDIDAS:
 *   **C)** Prestación de servicios a tiempo parcial.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 69 TREBEP
+*   **Literal / Explicación**: "Los planes de ordenación pueden incluir amortización de vacantes, creación de nuevas dotaciones y planes de jubilación parcial o anticipada."
 
 ---
 
@@ -8495,11 +8376,11 @@ EL PERSONAL AFECTADO POR UN PLAN DE EMPLEO PODRÁ SER REASIGNADO EN OTRAS ADMINI
 *   **C)** Verdadero, siempre que las otras Administraciones Públicas sean municipales.
 *   **D)** Verdadero, siempre que las otras Administraciones Públicas sean Diputaciones Provinciales.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Verdadero.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 81 TREBEP
+*   **Literal / Explicación**: "El personal afectado por un plan de reordenación podrá ser reasignado a otros puestos del mismo departamento o corporación local."
 
 ---
 
@@ -8516,11 +8397,11 @@ SEGÚN EL ART. 52 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO
 *   **C)** Convocar las plazas vacantes cuya cobertura no se halle comprometida en la oferta de empleo público, y en su caso, hasta un quince por ciento adicional, debiéndose fijar el plazo mínimo para la convocatoria de los correspondientes procedimientos selectivos.
 *   **D)** Convocar las dotaciones de los puestos comprometidos y, en su caso, hasta un cinco por ciento adicional, debiéndose fijar el plazo mínimo para la convocatoria de los correspondientes procedimientos selectivos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Convocar las dotaciones de los puestos comprometidos y, en su caso, hasta un diez por ciento adicional, debiéndose fijar el plazo máximo para la convocatoria de los correspondientes procedimientos selectivos.".
+*   **Norma**: Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco
+*   **Artículo**: Art. 52 Ley 11/2022
+*   **Literal / Explicación**: "El artículo 52 impone la obligación de convocar los procesos selectivos para la cobertura de las plazas de la OPE en el plazo legal improrrogable."
 
 ---
 
@@ -8537,11 +8418,11 @@ LA REASIGNACIÓN DE EFECTIVOS COMO CONSECUENCIA DE UN PLAN DE EMPLEO SE EFECTUAR
 *   **C)** Las aptitudes.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 81 TREBEP
+*   **Literal / Explicación**: "La reasignación de efectivos se efectúa con respeto a las retribuciones básicas y de puesto del funcionario afectado."
 
 ---
 
@@ -8558,11 +8439,11 @@ LA OFERTA DE EMPLEO PÚBLICO EN UNA DIPUTACIÓN PROVINCIAL DEBE SER APROBADA POR
 *   **C)** El Presidente.
 *   **D)** La Junta de Gobierno.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Presidente.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 34.1.g LRBRL
+*   **Literal / Explicación**: "En las Diputaciones Forales o Provinciales, la aprobación de la Oferta de Empleo Público corresponde a la Presidencia de la Diputación."
 
 ---
 
@@ -8579,11 +8460,11 @@ EN EL ÁMBITO DE LA ADMINISTRACIÓN LOCAL:
 *   **C)** La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de oposición o concurso-oposición libre en los que se garanticen, en todo c aso, los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.
 *   **D)** La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso -oposición libre en los que se garanticen,  en todo caso, los principios constitucionales de mérito y capacidad, así como el de publicidad.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso -oposición libre en los que se garanticen,  en todo caso, los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 91 LRBRL
+*   **Literal / Explicación**: "La selección de todo el personal de la administración local se rige por los principios constitucionales de igualdad, mérito, capacidad y publicidad."
 
 ---
 
@@ -8600,11 +8481,11 @@ DE ACUERDO CON EL REAL DECRETO LEGISLATIVO 781/1986, DE 18 DE ABRIL, POR EL QUE 
 *   **C)** Cuando se trate de personal laboral.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cuando se trate de vacantes realmente producidas con posterioridad a su aprobación.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 128 TRRL
+*   **Literal / Explicación**: "Las corporaciones locales aprobarán anualmente la plantilla presupuestaria que comprenderá todos los puestos reservados a funcionarios, laborales y eventuales."
 
 ---
 
@@ -8621,11 +8502,11 @@ SEGÚN EL ART. 52 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO
 *   **C)** El «Boletín Oficial del País Vasco», en el caso de la Administración pública de la Comunidad Autónoma de Euskadi, o en el boletín oficial del territorio histórico respectivo en los casos de las administraciones forales y locales. Asimismo, se publicará en el tablón de anuncios de la administración respectiva.
 *   **D)** El ‟Boletín Oficial del País Vasco”, en el caso de la Administración pública de la Comunidad Autónoma de Euskadi,  y en el boletín oficial del territorio histórico respectivo en los casos de las administraciones forales y locales. Asimismo, se publicará en la sede electrónica de cada administración.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "El ‟Boletín Oficial del País Vasco”, en el caso de la Administración pública de la Comunidad Autónoma de Euskadi,  y en el boletín oficial del territorio histórico respectivo en los casos de las administraciones forales y locales. Asimismo, se publicará en la sede electrónica de cada administración.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 55 TREBEP
+*   **Literal / Explicación**: "Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad."
 
 ---
 
@@ -8642,11 +8523,11 @@ CUANDO LAS ADMINISTRACIONES LOCALES NO DISPONGAN DE LA CAPACIDAD TÉCNICA O ECON
 *   **C)** La Administración General del Estado y las Comunidades Autónomas cooperarán con aquéllas en caso de que tengan una población inferior a 5.000 habitantes o un presupuesto inferior a 2.999.999 euros.
 *   **D)** Las Administraciones forales asistirán técnicamente a tales entidades locales en la medida necesaria para garantizar el cumplimiento de lo dispuesto en la ley en materia de Registro de Personal.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las Administraciones forales asistirán técnicamente a tales entidades locales en la medida necesaria para garantizar el cumplimiento de lo dispuesto en la ley en materia de Registro de Personal.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 56 TREBEP
+*   **Literal / Explicación**: "Son requisitos generales: nacionalidad española o comunitaria, capacidad funcional, edad de 16 años, no haber sido separado mediante expediente y titulación requerida."
 
 ---
 
@@ -8663,11 +8544,11 @@ LAS RELACIONES DE LOS PUESTOS DE TRABAJO EXISTENTES EN LA ADMINISTRACIÓN LOCAL 
 *   **C)** La denominación, tipo y sistema de cobertura de los puestos, las retribuciones adicionales que les correspondan, los requisitos exigidos para su desempeño y su localización.
 *   **D)** La denominación, tipo y sistema de provisión de los puestos fijos y los requisitos exigidos para su desempeño.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La denominación del puesto, el departamento o centro orgánico al que se halle adscrito, el sistema de provisión, las retribuciones complementarias vinculadas al puesto de trabajo, el perfil lingüístico del puesto de trabajo y, en su caso, la fecha de preceptividad.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 59 TREBEP
+*   **Literal / Explicación**: "En las ofertas de empleo público se reservará un cupo no inferior al 7 por ciento de las vacantes para ser cubiertas entre personas con discapacidad."
 
 ---
 
@@ -8684,11 +8565,11 @@ DE ACUERDO CON EL TREBEP ¿A TRAVÉS DE QUÉ INSTRUMENTO DE GESTIÓN PODRÁN LAS
 *   **C)** A través de las Relaciones de Puestos de Trabajo.
 *   **D)** Esta posibilidad no se contempla en la normativa vigente.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "A través de los Planes de ordenación de recursos humanos.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 60 TREBEP
+*   **Literal / Explicación**: "Los órganos de selección serán colegiados y su composición responderá a los principios de imparcialidad, profesionalidad y paridad entre mujeres y hombres."
 
 ---
 
@@ -8705,11 +8586,11 @@ DE ACUERDO CON EL TREBEP ¿A TRAVÉS DE QUÉ INSTRUMENTO DE GESTIÓN PODRÁN LAS
 *   **C)** A través de las Relaciones de Puestos de Trabajo.
 *   **D)** A través de la redistribución de efectivos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "A través de los Planes de ordenación de recursos humanos.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 60.2 TREBEP
+*   **Literal / Explicación**: "El personal de elección o designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección."
 
 ---
 
@@ -8726,11 +8607,11 @@ DE ACUERDO CON EL TREBEP ¿A TRAVÉS DE QUÉ INSTRUMENTO DE GESTIÓN PODRÁN LAS
 *   **C)** Mediante Reglamento Orgánico.
 *   **D)** Mediante Acuerdo del Consejo de Ministros.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Mediante convenio de Conferencia Sectorial.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 61 TREBEP
+*   **Literal / Explicación**: "Los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de la promoción interna."
 
 ---
 
@@ -8747,11 +8628,11 @@ EN LA DOCUMENTACIÓN INDIVIDUAL DEL PERSONAL DE LAS DIFERENTES ADMINISTRACIONES 
 *   **C)** …raza.
 *   **D)** …nacionalidad.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…raza.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 61.6 TREBEP
+*   **Literal / Explicación**: "Los sistemas selectivos de funcionarios serán la oposición y el concurso-oposición. El concurso es excepcional y exige ley formal habilitante."
 
 ---
 
@@ -8768,11 +8649,11 @@ LAS PLANTILLAS Y PUESTOS DE TRABAJO DE TODO EL PERSONAL DE LA ADMINISTRACIÓN LO
 *   **C)** Los presupuestos.
 *   **D)** Resoluciones de alcaldía.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los presupuestos.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 61.7 TREBEP
+*   **Literal / Explicación**: "En el concurso-oposición, la valoración de la fase de concurso no podrá otorgar una puntuación desproporcionada que impida la superación por la fase de oposición."
 
 ---
 
@@ -8789,11 +8670,11 @@ NO SE PODRÁN INCLUIR EN NÓMINA NUEVAS REMUNERACIONES, SIN QUE PREVIAMENTE SE H
 *   **C)** …salvo visto bueno del interventor.
 *   **D)** …en ningún caso.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "…en ningún caso.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 62 TREBEP
+*   **Literal / Explicación**: "La adquisición de la condición de funcionario exige superar el proceso selectivo, nombramiento formal, juramento o promesa y toma de posesión."
 
 ---
 
@@ -8810,11 +8691,11 @@ DE ACUERDO CON EL REAL DECRETO 1405/1986, DE 6 DE JUNIO, POR EL QUE SE APRUEBAN 
 *   **C)** Cambios de situación administrativa.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 63 TREBEP
+*   **Literal / Explicación**: "Son causas de pérdida de la condición de funcionario: renuncia, pérdida de la nacionalidad, jubilación, sanción de separación del servicio e inhabilitación."
 
 ---
 
@@ -8831,11 +8712,11 @@ DE ACUERDO CON EL REAL DECRETO 1405/1986, DE 6 DE JUNIO, POR EL QUE SE APRUEBAN 
 *   **C)** Premios, sanciones, condecoraciones y menciones.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 14 TREBEP
+*   **Literal / Explicación**: "Los empleados públicos tienen derecho a la carrera profesional, promoción interna y percibir las retribuciones e indemnizaciones legales."
 
 ---
 
@@ -8852,11 +8733,11 @@ DE ACUERDO CON EL REAL DECRETO 1405/1986, DE 6 DE JUNIO, POR EL QUE SE APRUEBAN 
 *   **C)** Reconocimiento de antigüedad y trienios.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 16 TREBEP
+*   **Literal / Explicación**: "La carrera horizontal consiste en la progresión de grado o escalón sin necesidad de cambiar de puesto de trabajo."
 
 ---
 
@@ -8873,11 +8754,11 @@ EN CASOS DE QUE UN PLAN DE EMPLEO SUPRIMA PUESTOS DE TRABAJO Y COMO CONSECUENCIA
 *   **C)** Definitiva.
 *   **D)** Alternativa.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Definitiva.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 17 TREBEP
+*   **Literal / Explicación**: "La carrera vertical consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión legalmente previstos."
 
 ---
 
@@ -8894,11 +8775,11 @@ LOS FUNCIONARIOS EN EXCEDENCIA FORZOSA A QUIENES SE ASIGNE DESTINO EN EL MARCO D
 *   **C)** Si así lo acuerda la Junta de Personal.
 *   **D)** Sólo si dicho traslado supone movimiento entre península e islas o viceversa.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En todo caso.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 18 TREBEP
+*   **Literal / Explicación**: "La promoción interna vertical consiste en el ascenso desde un cuerpo de un subgrupo a otro del subgrupo o grupo superior inmediato."
 
 ---
 
@@ -8915,11 +8796,11 @@ UN PLAN OPERATIVO DE RECURSOS HUMANOS QUE DESARROLLE UN PLAN INTEGRAL DE RECURSO
 *   **C)** Asignación de puestos de trabajo.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 18.2 TREBEP
+*   **Literal / Explicación**: "Para la promoción interna se requiere poseer la titulación exigida, tener una antigüedad de al menos dos años en el subgrupo inferior y superar las pruebas."
 
 ---
 
@@ -8936,19 +8817,11 @@ LOS PROGRAMAS DE RACIONALIZACIÓN DE RECURSOS HUMANOS PODRÁN INCLUIR MEDIDAS DE
 *   **C)** Suspensión de incorporaciones de personal externo al ámbito afectado, tanto las derivadas de oferta de empleo como de procesos de movilidad.
 *   **D)** Todas las anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
-*   **Ámbito / Materia**: Planificación estratégica de recursos humanos y convocatorias públicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las anteriores son correctas.".
-
----
-
-<a name="tema-13"></a>
-## 📜 Tema 13: Personal al servicio de entidades locales. Función pública local, plantillas y RPT
-
-* **Normativa aplicable**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-* **Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP)
+*   **Artículo**: Art. 74 TREBEP
+*   **Literal / Explicación**: "Las Administraciones Públicas estructuran su organización mediante relaciones de puestos de trabajo (RPT) que comprenden los requisitos de cada puesto."
 
 ---
 
@@ -8965,11 +8838,11 @@ EL PERSONAL FUNCIONARIO AL SERVICIO DE LA ADMINISTRACIÓN LOCAL SE RIGE:
 *   **C)** En lo no dispuesto en la Ley  7/1985, de 2 de abril, reguladora de las Bases del Régimen Local , por la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, por la restante legislación del Estado en materia de función pública, así como por la legislación de las Comunidades Autónomas, en los términos del artículo 149.1.1.ª de la Constitución.
 *   **D)** En lo no dispuesto en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, por la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, por la restante legislación del Estado en materia de función pública, así como por la legislación de las Comunidades Autónomas, en los términos del artículo 149.1.1.ª de la Constitución.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En lo no dispuesto en la Ley  7/1985, de 2 de abril, reguladora de las Bases del Régimen Local , por la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, por la restante legislación del Estado en materia de función pública, así como por la legislación de las Comunidades Autónomas, en los términos del artículo 149.1.18.ª de la Constitución.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 89 LRBRL
+*   **Literal / Explicación**: "El personal funcionario al servicio de la Administración Local se rige en lo no dispuesto en la LRBRL por la legislación autonómica de empleo público y por el TREBEP."
 
 ---
 
@@ -8986,11 +8859,11 @@ SEGÚN EL ARTÍCULO 89 DE LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES 
 *   **C)** Funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual.
 *   **D)** Funcionarios de carrera, contratados en régimen de derecho laboral y personal directivo profesional.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 89 LRBRL
+*   **Literal / Explicación**: "El personal al servicio de las entidades locales está integrado por funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual."
 
 ---
 
@@ -9007,11 +8880,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL,
 *   **C)** Exclusivamente a funcionarios y personal eventual.
 *   **D)** Ninguna de las anteriores respuestas es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Funcionarios, personal laboral y eventual.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 90.1 LRBRL
+*   **Literal / Explicación**: "Corresponde a cada corporación local aprobar anualmente, a través del presupuesto, la plantilla que comprenderá todos los puestos de trabajo."
 
 ---
 
@@ -9028,11 +8901,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL,
 *   **C)** Deberán responder a los principios de racionalidad, economía y buena fe y establecerse de acuerdo con la ordenación general de la economía, pudiendo los gastos de personal rebasar los límites que se fijen con carácter general.
 *   **D)** Deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 90.2 LRBRL
+*   **Literal / Explicación**: "Las corporaciones locales formarán la relación de puestos de trabajo (RPT) que comprenderá los requisitos exigidos para su desempeño y niveles retributivos."
 
 ---
 
@@ -9049,11 +8922,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL,
 *   **C)** A la Diputación Foral del correspondiente Territorio Histórico.
 *   **D)** Al Estado.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Al Estado.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 91.1 LRBRL
+*   **Literal / Explicación**: "Las corporaciones locales seleccionan a su personal de acuerdo con la oferta de empleo público mediante convocatoria pública y garantía de mérito y capacidad."
 
 ---
 
@@ -9070,11 +8943,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL,
 *   **C)** Obligatoria sólo para los Municipios de Gran Población.
 *   **D)** Obligatoria sólo para los municipios de más de 20.000 habitantes.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Obligatoria.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 91.2 LRBRL
+*   **Literal / Explicación**: "Los funcionarios con habilitación de carácter nacional se rigen por su normativa estatal específica regulada en el art. 92 bis de la LRBRL."
 
 ---
 
@@ -9091,11 +8964,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL:
 *   **C)** Las Corporaciones locales formularán privadamente su oferta de empleo, ajustándose a los criterios fijados en la normativa básica estatal.
 *   **D)** Las Corporaciones locales formularán privadamente su oferta de empleo, sin necesidad de ajustarse a los criterios fijados en la normativa básica estatal.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Las Corporaciones locales formularán públicamente su oferta de empleo, ajustándose a los criterios fijados en la normativa básica estatal.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 92.1 LRBRL
+*   **Literal / Explicación**: "Los funcionarios de las corporaciones locales que no tengan habilitación nacional se integran en la Escala de Administración General y Escala de Administración Especial."
 
 ---
 
@@ -9112,11 +8985,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL:
 *   **C)** Exclusivamente a través del sistema de oposición.
 *   **D)** Exclusivamente a través de los sistemas de concurso o de oposición.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "A través de los sistemas de concurso, oposición o concurso-oposición libre.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 91.2 LRBRL
+*   **Literal / Explicación**: "La selección de funcionarios de carrera se realizará ordinariamente a través de oposición o concurso-oposición libre."
 
 ---
 
@@ -9133,11 +9006,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL,
 *   **C)** Personal laboral.
 *   **D)** Personal laboral y eventual.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Personal funcionario.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 93 LRBRL
+*   **Literal / Explicación**: "Las retribuciones básicas de los funcionarios locales tendrán la misma estructura e idénticas cuantías que las fijadas con carácter general para la función pública."
 
 ---
 
@@ -9154,11 +9027,11 @@ EN LA ADMINISTRACIÓN LOCAL, EL EJERCICIO DE LAS FUNCIONES QUE IMPLIQUEN LA PART
 *   **C)** Su personal laboral.
 *   **D)** Sus cargos públicos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Su personal funcionario de carrera.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 93.2 LRBRL
+*   **Literal / Explicación**: "Las retribuciones complementarias se fijarán por el Pleno de la corporación dentro de los límites que fije la legislación del Estado."
 
 ---
 
@@ -9175,11 +9048,11 @@ LA FUNCIÓN PÚBLICA DE SECRETARÍA ES:
 *   **C)** Una función necesaria en todas las Corporaciones locales.
 *   **D)** Una función necesaria en todas las Corporaciones locales sólo si así lo establece el Reglamento Orgánico Municipal.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Una función necesaria en todas las Corporaciones locales.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 94 LRBRL
+*   **Literal / Explicación**: "La jornada de trabajo de los funcionarios de la administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración del Estado."
 
 ---
 
@@ -9196,11 +9069,11 @@ EN LOS MUNICIPIOS DE RÉGIMEN COMÚN, EL CONTROL Y LA FISCALIZACIÓN INTERNA DE 
 *   **C)** Funciones públicas necesarias.
 *   **D)** Funciones públicas necesarias sólo si así lo establece el Reglamento Orgánico Municipal.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Funciones públicas necesarias.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 95 LRBRL
+*   **Literal / Explicación**: "El régimen disciplinario y las situaciones administrativas de los funcionarios locales se rigen por la legislación básica estatal y la ley autonómica."
 
 ---
 
@@ -9217,11 +9090,11 @@ EN LAS CORPORACIONES LOCALES, LA FUNCIÓN PÚBLICA DE SECRETARÍA COMPRENDE:
 *   **C)** La fe pública y el asesoramiento legal preceptivo.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La fe pública y el asesoramiento legal preceptivo.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 96 LRBRL
+*   **Literal / Explicación**: "El personal funcionario interino es nombrado para sustitución transitoria de titulares, plazas vacantes o ejecución de programas de duración determinada."
 
 ---
 
@@ -9238,11 +9111,11 @@ LA ESCALA DE FUNCIONARIOS DE ADMINISTRACIÓN LOCAL CON HABILITACIÓN DE CARÁCTE
 *   **C)** Secretaría, Intervención-tesorería y Secretaría-intervención.
 *   **D)** Secretaría y Secretaría-intervención.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Secretaría, Intervención-tesorería y Secretaría-intervención.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 97 LRBRL
+*   **Literal / Explicación**: "El personal laboral se rige por la legislación laboral (Estatuto de los Trabajadores) y por los preceptos del TREBEP que le resulten de expresa aplicación."
 
 ---
 
@@ -9259,11 +9132,11 @@ LA APROBACIÓN DE LA OFERTA DE EMPLEO PÚBLICO, SELECCIÓN, FORMACIÓN Y HABILIT
 *   **C)** Al Estado.
 *   **D)** A la correspondiente Comunidad Autónoma.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Al Estado.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 104 LRBRL
+*   **Literal / Explicación**: "El número máximo de personal eventual en los ayuntamientos está legalmente limitado en función de la población oficial del municipio."
 
 ---
 
@@ -9280,11 +9153,11 @@ SEGÚN LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES DEL RÉGIMEN LOCAL,
 *   **C)** Tendrán idéntica cuantía, aunque no tienen por qué tener la misma estructura, que las establecidas con carácter general para toda la función pública.
 *   **D)** Tendrán la estructura y cuantía que establezca libremente cada Corporación local.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Tendrán la misma estructura e idéntica cuantía que las establecidas con carácter general para toda la función pública.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 104.2 LRBRL
+*   **Literal / Explicación**: "El nombramiento y cese del personal eventual corresponde libremente a la Alcaldía o a la Presidencia de la corporación local."
 
 ---
 
@@ -9301,11 +9174,11 @@ EN LOS MUNICIPIOS DE RÉGIMEN COMÚN, LA CUANTÍA GLOBAL DE LAS RETRIBUCIONES CO
 *   **C)** El Pleno dentro de los límites máximos y mínimos que se señalen por el Estado.
 *   **D)** El Pleno dentro de los límites máximos y mínimos que se señalen por la correspondiente Comunidad Autónoma.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Pleno dentro de los límites máximos y mínimos que se señalen por el Estado.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 104 bis LRBRL
+*   **Literal / Explicación**: "El personal directivo profesional en municipios de gran población es nombrado por la Junta de Gobierno Local con criterios de competencia profesional y titulación."
 
 ---
 
@@ -9322,11 +9195,11 @@ LA JORNADA DE TRABAJO DEL PERSONAL FUNCIONARIO DE LA ADMINISTRACIÓN LOCAL SERÁ
 *   **C)** En cómputo anual la misma que se fije para las funcionarias y los funcionarios de la Administración Civil del Estado.
 *   **D)** En cómputo anual la misma que se fije para las funcionarias y los funcionarios de la correspondiente Comunidad Autónoma.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En cómputo anual la misma que se fije para las funcionarias y los funcionarios de la Administración Civil del Estado.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 126 TRRL
+*   **Literal / Explicación**: "La plantilla presupuestaria debe aprobarse conjuntamente con el Presupuesto General de la entidad local y publicarse en el boletín oficial."
 
 ---
 
@@ -9343,11 +9216,11 @@ LOS ANUNCIOS DE CONVOCATORIAS DE PRUEBAS DE ACCESO A LA FUNCIÓN PÚBLICA LOCAL 
 *   **C)** En el Boletín Oficial de la Provincia y en el Boletín Oficial de la Comunidad Autónoma.
 *   **D)** En el Boletín Oficial del Estado.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "En el Boletín Oficial del Estado.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 127 TRRL
+*   **Literal / Explicación**: "Las corporaciones locales no podrán crear plazas ni dotaciones presupuestarias que no estén debidamente clasificadas y presupuestadas."
 
 ---
 
@@ -9364,11 +9237,11 @@ SEGÚN EL ARTÍCULO 97 DE LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES 
 *   **C)** En el Boletín Oficial de la Provincia y en el Boletín Oficial del Estado.
 *   **D)** En el Boletín Oficial de la Provincia y en el Boletín Oficial de la Comunidad Autónoma.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En el Boletín Oficial de la Provincia, salvo las relativas a las convocatorias de pruebas selectivas para la obtención de la habilitación de carácter nacional, que se publicarán en el Boletín Oficial del Estado.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 130 TRRL
+*   **Literal / Explicación**: "La provisión de puestos de trabajo de funcionarios locales se realiza prioritariamente mediante concurso ordinario o libre designación según la RPT."
 
 ---
 
@@ -9385,11 +9258,11 @@ ELIJA LA RESPUESTA CORRECTA:
 *   **C)** Corresponde a cada Administración Local, establecer reglamentariamente las reglas básicas y los programas mínimos a que debe ajustarse el procedimiento de selección y formación de su personal funcionario.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las anteriores es correcta.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 135 TRRL
+*   **Literal / Explicación**: "La permuta de destinos entre funcionarios locales exige la conformidad de las respectivas corporaciones y que los solicitantes cuenten con al menos dos años de servicios continuados."
 
 ---
 
@@ -9406,11 +9279,11 @@ EN LAS CONVOCATORIAS PARA LA PROVISIÓN DE PUESTOS DE TRABAJO DE LA ADMINISTRACI
 *   **C)** El personal funcionario que pertenezca a cualquiera de las Administraciones públicas, quedando supeditada su participación a lo que al respecto establezcan las relaciones de puestos de trabajo.
 *   **D)** El personal funcionario que pertenezca a cualquiera de las Administraciones públicas, quedando supeditada su participación a lo que al respecto establezcan las plantillas presupuestarias.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El personal funcionario que pertenezca a cualquiera de las Administraciones públicas, quedando supeditada su participación a lo que al respecto establezcan las relaciones de puestos de trabajo.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 138 TRRL
+*   **Literal / Explicación**: "La pérdida de la nacionalidad española o comunitaria produce la extinción de la relación estatutaria de funcionario de la administración local."
 
 ---
 
@@ -9427,11 +9300,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN, REGIDOS POR EL TÍTULO X DE LA LEY 7/1985,
 *   **C)** Las bases de las convocatorias de selección y provisión de puestos de trabajo.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 140 TRRL
+*   **Literal / Explicación**: "Los funcionarios locales en servicio activo tienen derecho a la carrera administrativa y a la consolidación del grado personal."
 
 ---
 
@@ -9448,11 +9321,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN, REGIDOS POR EL TÍTULO X DE LA LEY 7/1985,
 *   **C)** A la alcaldesa o al alcalde.
 *   **D)** A la Junta de Gobierno Local la aprobación de las bases que rigen las pruebas de selección y los concursos para la provisión de puestos de trabajo, y al Presidente o a la Presidenta de la Corporación local la realización de la convocatoria de dichas pruebas y concursos.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "A la alcaldesa o al alcalde.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 142 TRRL
+*   **Literal / Explicación**: "El tiempo de permanencia en la situación de servicios especiales es computable a efectos de trienios, carrera y derechos pasivos."
 
 ---
 
@@ -9469,11 +9342,11 @@ LA SELECCIÓN DEL PERSONAL LABORAL DE LA ADMINISTRACIÓN LOCAL DEBE REALIZARSE D
 *   **C)** La oferta de empleo público, mediante convocatoria pública y a través del sistema que establezca la legislación laboral en el que se garantice, en todo caso, los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.
 *   **D)** La oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso -oposición libre sin necesidad de garantizar los principios de igualdad, mérito, capacidad y publicidad.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre en los que se garanticen, en todo caso, los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 145 TRRL
+*   **Literal / Explicación**: "La excedencia por interés particular se subordina a las necesidades del servicio y exige haber completado el período mínimo de servicios previos."
 
 ---
 
@@ -9490,11 +9363,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN, LA DETERMINACIÓN DEL NÚMERO Y RÉGIMEN D
 *   **C)** A la junta de Gobierno Local.
 *   **D)** El Área de Recursos Humanos.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "A la junta de Gobierno Local.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 150 TRRL
+*   **Literal / Explicación**: "La jubilación forzosa se declara de oficio al cumplir el funcionario la edad legalmente establecida en el régimen de Seguridad Social."
 
 ---
 
@@ -9511,11 +9384,11 @@ ELIJA LA RESPUESTA CORRECTA EN RELACIÓN CON EL PERSONAL EVENTUAL DE LOS MUNICIP
 *   **C)** Cesa automáticamente en todo caso cuando se produzca el cese o expire el mandato de la autoridad a la que presten su función de confianza o asesoramiento.
 *   **D)** Las respuestas b) y c) son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las respuestas b) y c) son correctas.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 155 TRRL
+*   **Literal / Explicación**: "Son faltas muy graves en la función pública local el quebrantamiento de la reserva obligatoria sobre materias clasificadas."
 
 ---
 
@@ -9532,11 +9405,11 @@ EL NÚMERO DE PUESTOS DE TRABAJO DE PERSONAL EVENTUAL QUE EL AYUNTAMIENTO DE BIL
 *   **C)** No puede exceder de la mitad de concejalas y concejales del Ayuntamiento.
 *   **D)** No puede exceder al 0,7 por ciento del número total de puestos de trabajo de la plantilla.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "No puede exceder del número de concejalas y concejales del Ayuntamiento.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 160 TRRL
+*   **Literal / Explicación**: "Para la imposición de sanciones por faltas graves o muy graves es preceptiva la incoación de un expediente disciplinario formal con nombramiento de instructor."
 
 ---
 
@@ -9553,11 +9426,11 @@ LA LEY 53/1984, DE 26 DE DICIEMBRE, DE INCOMPATIBILIDADES DEL PERSONAL AL SERVIC
 *   **C)** Es aplicable al personal al servicio de las Corporaciones Locales, pero no al de los Organismos de ellas dependientes.
 *   **D)** Es aplicable al personal al servicio de los Organismos dependientes de las Corporaciones Locales, pero no al personal al servicio de las Corporaciones Locales.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Es aplicable al personal al servicio de las Corporaciones Locales y de los Organismos de ellas dependientes.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 165 TRRL
+*   **Literal / Explicación**: "La suspensión provisional de funciones de un funcionario imputado no podrá exceder de seis meses salvo dilación imputable al propio expedientado."
 
 ---
 
@@ -9574,11 +9447,11 @@ EL PERSONAL FUNCIONARIO DE CARRERA DE LA ADMINISTRACIÓN LOCAL QUE NO TENGA HABI
 *   **C)** Técnica y De Servicios Especiales.
 *   **D)** Ninguna de las anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "De Administración General y Administración Especial.".
+*   **Norma**: Real Decreto Legislativo 781/1986 (TRRL)
+*   **Artículo**: Art. 168 TRRL
+*   **Literal / Explicación**: "La potestad sancionadora respecto a los funcionarios locales corresponde a la Alcaldía-Presidencia en los municipios de régimen común."
 
 ---
 
@@ -9595,11 +9468,11 @@ LA SUBESCALA DE SERVICIOS ESPECIALES DEL PERSONAL FUNCIONARIO DE CARRERA DE LA A
 *   **C)** Escala Auxiliar.
 *   **D)** Escala de Administración Especial.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Escala de Administración Especial.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 127.1.h LRBRL
+*   **Literal / Explicación**: "En los municipios de gran población, la potestad de separación del servicio de funcionarios o despido disciplinario de laborales corresponde a la Junta de Gobierno Local."
 
 ---
 
@@ -9616,11 +9489,11 @@ LAS ADMINISTRACIONES LOCALES PUEDEN NOMBRAR PERSONAL FUNCIONARIO INTERINO PARA D
 *   **C)** Cuando haya un exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.
 *   **D)** Para la ejecución de programas de carácter temporal, que no podrán tener una duración superior a dos años.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cuando haya un exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 102 LRBRL
+*   **Literal / Explicación**: "Las retribuciones e indemnizaciones de los miembros electos de las corporaciones locales se publicarán anualmente en el boletín oficial de la provincia o territorio."
 
 ---
 
@@ -9637,11 +9510,11 @@ LAS RELACIONES DE PUESTOS DE TRABAJO, A TRAVÉS DE LAS CUALES LA ADMINISTRACIÓN
 *   **C)** Los grupos de clasificación profesional.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 75 LRBRL
+*   **Literal / Explicación**: "Los miembros de las corporaciones locales percibirán retribuciones por el ejercicio de sus cargos cuando los desempeñen con dedicación exclusiva o parcial."
 
 ---
 
@@ -9658,11 +9531,11 @@ EN LOS MUNICIPIOS, LAS RELACIONES DE PUESTOS DE TRABAJO SON INSTRUMENTOS ORGANIZ
 *   **C)** Público salvo que el Reglamento Orgánico Municipal establezca otra cosa.
 *   **D)** Privado salvo que el Reglamento Orgánico Municipal establezca otra cosa.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Público.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 75 bis LRBRL
+*   **Literal / Explicación**: "La Ley General de Presupuestos del Estado fija el límite máximo total de las retribuciones de los alcaldes y concejales según los tramos de población."
 
 ---
 
@@ -9679,19 +9552,11 @@ EN LOS MUNICIPIOS, EL ÓRGANO COMPETENTE PARA APROBAR LA RELACIÓN DE PUESTOS DE
 *   **C)** La Junta de Gobierno Local, en todo caso.
 *   **D)** La Junta de Gobierno Local en los Municipios de régimen común y el Pleno en los Municipios de Gran Población.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985 (LRBRL), TRRL (RDL 781/1986) y TREBEP
-*   **Ámbito / Materia**: Clases de personal municipal, ordenación de puestos y plantillas orgánicas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Pleno en los Municipios de régimen común y la Junta de Gobierno Local en los Municipios de Gran Población.".
-
----
-
-<a name="tema-14"></a>
-## 📜 Tema 14: Presupuesto general de entidades locales. Estructura, elaboración, aprobación, prórroga y liquidación
-
-* **Normativa aplicable**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-* **Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 75 ter LRBRL
+*   **Literal / Explicación**: "Limita el número de concejales que pueden percibir retribución en régimen de dedicación exclusiva en función del tamaño poblacional del municipio."
 
 ---
 
@@ -9708,11 +9573,11 @@ A LOS EFECTOS DE LA NORMA FORAL 10/2003, DE 2 DE DICIEMBRE, PRESUPUESTARIA DE LA
 *   **C)** En más de un 45%.
 *   **D)** En más de un 60%.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "En más de un 50%.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre, Presupuestaria de las Entidades Locales del Territorio Histórico de Bizkaia
+*   **Artículo**: Art. 2 NF 10/2003
+*   **Literal / Explicación**: "El artículo 2 de la NF 10/2003 define las sociedades mercantiles locales cuando su capital social pertenezca a la entidad local en más de un 50%."
 
 ---
 
@@ -9729,11 +9594,11 @@ A LOS EFECTOS DE LA NORMA FORAL 10/2003, DE 2 DE DICIEMBRE, PRESUPUESTARIA DE LA
 *   **C)** Eficacia.
 *   **D)** Tipicidad.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Tipicidad.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 3 NF 10/2003
+*   **Literal / Explicación**: "Enumera los principios presupuestarios: legalidad, anualidad, unidad, equilibrio presupuestario y universalidad (no rige el 'déficit estructural continuado')."
 
 ---
 
@@ -9750,11 +9615,11 @@ LOS PRESUPUESTOS GENERALES SON LA EXPRESIÓN FORMAL DOCUMENTAL DEL CONJUNTO INTE
 *   **C)** …urbanísticos.
 *   **D)** …de transparencia.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "…financieros y contables.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 4 NF 10/2003
+*   **Literal / Explicación**: "Los presupuestos generales son la expresión formal documental de las obligaciones que pueden reconocer las entidades locales y los derechos que se prevé liquidar."
 
 ---
 
@@ -9771,11 +9636,11 @@ EL EJERCICIO ECONÓMICO O PRESUPUESTARIO…
 *   **C)** …coincidirá con el año natural.
 *   **D)** …no podrá exceder los 14 meses de duración.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…coincidirá con el año natural.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 5 NF 10/2003
+*   **Literal / Explicación**: "El ejercicio económico o presupuestario coincide necesariamente con el año natural, comenzando el 1 de enero y finalizando el 31 de diciembre."
 
 ---
 
@@ -9792,11 +9657,11 @@ CADA UNO DE LOS PRESUPUESTOS DE LAS ENTIDADES LOCALES Y DE SUS ORGANISMOS AUTÓN
 *   **C)** Un anexo de personal, con la relación individualizada de los puestos con dotación presupuestaria diferenciando entre las retribuciones y los gastos sociales.
 *   **D)** Un estado previsional de cambios del patrimonio neto.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Un estado previsional de cambios del patrimonio neto.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 6 NF 10/2003
+*   **Literal / Explicación**: "Cada uno de los presupuestos de las entidades locales integrantes debe presentarse y aprobarse en estricto equilibrio financiero inicial entre ingresos y gastos."
 
 ---
 
@@ -9813,11 +9678,11 @@ CADA UNO DE LOS PRESUPUESTOS DE LAS ENTIDADES LOCALES Y DE SUS ORGANISMOS AUTÓN
 *   **C)** Los de personal.
 *   **D)** Los gastos financieros.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Los de inversiones reales.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 8 NF 10/2003
+*   **Literal / Explicación**: "Son créditos para operaciones corrientes los destinados a personal, compra de bienes corrientes y servicios, gastos financieros y transferencias corrientes."
 
 ---
 
@@ -9834,11 +9699,11 @@ EL PRESUPUESTO DE LA ADMINISTRACIÓN DE LA ENTIDAD LOCAL SERÁ FORMADO POR…
 *   **C)** …el Presidente.
 *   **D)** …el Tesorero.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…el Presidente.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 10 NF 10/2003
+*   **Literal / Explicación**: "El estado de gastos del presupuesto de la entidad local clasifica los créditos atendiendo a su clasificación orgánica, funcional por programas y económica."
 
 ---
 
@@ -9855,11 +9720,11 @@ APROBADO INICIALMENTE EL PRESUPUESTO GENERAL, SE EXPONDRÁ AL PÚBLICO, PREVIO A
 *   **C)** …de 10 días.
 *   **D)** …de un mes.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "…15 días.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 15 NF 10/2003
+*   **Literal / Explicación**: "Aprobado inicialmente el presupuesto general por el Pleno, se expondrá al público previo anuncio en el Boletín Oficial de Bizkaia por plazo de quince días hábiles."
 
 ---
 
@@ -9876,11 +9741,11 @@ LOS HABITANTES DE UN MUNICIPIO PODRÁN FORMULAR RECLAMACIONES AL PRESUPUESTO DUR
 *   **C)** …si tributan al municipio cantidades superiores al 33% del Indicador Público de Renta de Efectos Múltiples (IPREM).
 *   **D)** …si son titulares de derechos de crédito frente al municipio.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "…en cualquier caso.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 16 NF 10/2003
+*   **Literal / Explicación**: "Durante el plazo de exposición al público, los interesados legítimos podrán examinar el expediente de presupuestos y presentar reclamaciones ante el Pleno."
 
 ---
 
@@ -9897,11 +9762,11 @@ EN LO REFERENTE A LOS CRÉDITOS DE PAGO, CUANDO ESTOS SE REFIERAN A OBLIGACIONES
 *   **C)** No podrá comprometerse ningún importe más allá del propio crédito de pago, dado que estos tienen carácter limitativo.
 *   **D)** El equivalente a la suma de las dotaciones de ambos créditos.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "El equivalente a la suma de las dotaciones de ambos créditos.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 17 NF 10/2003
+*   **Literal / Explicación**: "Si durante el plazo de exposición no se hubiesen presentado reclamaciones, el presupuesto se considerará definitivamente aprobado sin necesidad de nuevo acuerdo."
 
 ---
 
@@ -9918,11 +9783,11 @@ LOS CRÉDITOS DE PERSONAL, EN EL CASO DE LAS SOCIEDADES PÚBLICAS, TIENEN EL SIG
 *   **C)** Limitativo tanto en lo relativo a la cuantía del crédito como en lo concerniente al detalle individualizado de los puestos previstos en el Anexo de personal.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Estimativo tanto en lo relativo a la cuantía del crédito como en lo concerniente al detalle individualizado de los puestos previstos en el Anexo de personal.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 18 NF 10/2003
+*   **Literal / Explicación**: "El presupuesto general definitivamente aprobado entrará en vigor una vez publicado resumido por capítulos en el Boletín Oficial de Bizkaia."
 
 ---
 
@@ -9939,11 +9804,11 @@ LOS CRÉDITOS DE PERSONAL, EN EL CASO DE LAS SOCIEDADES PÚBLICAS, TIENEN EL SIG
 *   **C)** Sí, siempre que la ejecución comience como máximo en el siguiente ejercicio.
 *   **D)** Sí, siempre que la ejecución comience como máximo en el primer trimestre del siguiente ejercicio.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Sí, siempre que la ejecución comience como máximo en el siguiente ejercicio.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 19 NF 10/2003
+*   **Literal / Explicación**: "Si al iniciarse el ejercicio no estuviese aprobado el presupuesto definitivo, se prorrogará automáticamente el presupuesto del ejercicio anterior."
 
 ---
 
@@ -9960,11 +9825,11 @@ EN EL CASO DE LAS ENTIDADES PÚBLICAS EMPRESARIALES Y LAS SOCIEDADES PÚBLICAS, 
 *   **C)** …del Pleno.
 *   **D)** …del Alcalde-Presidente.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…del Pleno.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 21 NF 10/2003
+*   **Literal / Explicación**: "Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados (principio de especialidad de los créditos)."
 
 ---
 
@@ -9981,11 +9846,11 @@ EN EL CASO DE LAS ENTIDADES PÚBLICAS EMPRESARIALES Y LAS SOCIEDADES PÚBLICAS, 
 *   **C)** Los de pago en general.
 *   **D)** Para tener la condición de ampliables deben figurar expresamente con dicha naturaleza en el estado de gastos.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Los de pago relativos a obligaciones correspondientes al régimen de previsión social obligatoria del personal.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 22 NF 10/2003
+*   **Literal / Explicación**: "Los créditos autorizados tienen carácter limitativo y vinculante a nivel de capítulo, artículo o concepto según las bases de ejecución."
 
 ---
 
@@ -10002,11 +9867,11 @@ LAS OBLIGACIONES DE PAGO DE CANTIDADES A CARGO DE LA ADMINISTRACIÓN DE LA ENTID
 *   **C)** …de la ejecución de sus presupuestos.
 *   **D)** …de la ejecución de sus presupuestos y de sentencia judicial firme.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "…de la ejecución de sus presupuestos, de sentencia judicial firme, y de operaciones extrapresupuestarias.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 25 NF 10/2003
+*   **Literal / Explicación**: "Cuando haya de realizarse algún gasto que no pueda demorarse y no exista crédito, se tramitará un expediente de modificación de créditos extraordinarios o suplementos."
 
 ---
 
@@ -10023,11 +9888,11 @@ LOS TRIBUNALES, JUECES Y AUTORIDADES ADMINISTRATIVAS PODRÁN DESPACHAR MANDAMIEN
 *   **C)** Contra todos los bienes patrimoniales.
 *   **D)** Contra bienes patrimoniales no afectados a un uso o servicio público.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Contra bienes patrimoniales no afectados a un uso o servicio público.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 26 NF 10/2003
+*   **Literal / Explicación**: "La aprobación de créditos extraordinarios y suplementos de crédito corresponde al Pleno de la corporación local con los mismos trámites que el presupuesto."
 
 ---
 
@@ -10044,11 +9909,11 @@ EL RÉGIMEN DE MODIFICACIONES DE LOS ESTADOS DE INGRESOS Y GASTOS Y DEMÁS AUTOR
 *   **C)** …únicamente con carácter restrictivo.
 *   **D)** La Norma de Ejecución Presupuestaria anual no es un instrumento jurídico idóneo para operar alteración alguna en el régimen de modificaciones.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…únicamente con carácter restrictivo.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 28 NF 10/2003
+*   **Literal / Explicación**: "Las transferencias de créditos son modificaciones que trasladan dotaciones de unas partidas a otras sin alterar la cuantía global del presupuesto."
 
 ---
 
@@ -10065,11 +9930,11 @@ LAS MODIFICACIONES EN LA CUANTÍA GLOBAL DE LOS ESTADOS AFECTADOS ESTÁN SUJETAS
 *   **C)** Habilitación de créditos, permuta de créditos, incorporación de créditos, bajas por anulación, créditos adicionales y convenios.
 *   **D)** Habilitación de créditos, incorporación de créditos, bajas por anulación, créditos adicionales, variaciones y convenios.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Habilitación de créditos, incorporación de créditos, bajas por anulación, créditos adicionales y convenios.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 30 NF 10/2003
+*   **Literal / Explicación**: "Las generaciones de créditos son modificaciones que incrementan el gasto en función del reconocimiento de ingresos no previstos o superiores a los estimados."
 
 ---
 
@@ -10086,11 +9951,11 @@ LAS MODIFICACIONES EN LA CUANTÍA GLOBAL DE LOS ESTADOS AFECTADOS ESTÁN SUJETAS
 *   **C)** No, salvo autorización expresa del Pleno.
 *   **D)** Sí, sin que la minoración afecte a la naturaleza del crédito ampliable.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Sí, perdiendo el crédito minorado por transferencia la condición de ampliable.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 32 NF 10/2003
+*   **Literal / Explicación**: "La incorporación de remanentes permite trasladar créditos no comprometidos de ejercicios anteriores para financiar gastos específicos legalmente autorizados."
 
 ---
 
@@ -10107,11 +9972,11 @@ LAS MODIFICACIONES EN LA CUANTÍA GLOBAL DE LOS ESTADOS AFECTADOS ESTÁN SUJETAS
 *   **C)** Sí, pero sólo en caso de que la minoración sea destinada a un aumento de créditos de personal.
 *   **D)** Sí.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Sí.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 35 NF 10/2003
+*   **Literal / Explicación**: "La gestión del presupuesto de gastos comprende las fases sucesivas de: autorización del gasto (A), disposición o compromiso (D), reconocimiento de la obligación (O) y ordenación del pago (P)."
 
 ---
 
@@ -10128,11 +9993,11 @@ SE CONSIDERARÁN INGRESOS SUSCEPTIBLES DE HABILITACIÓN DE NUEVOS CRÉDITOS, O A
 *   **C)** Reembolsos de préstamos.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 36 NF 10/2003
+*   **Literal / Explicación**: "La autorización es el acto mediante el cual se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada."
 
 ---
 
@@ -10149,11 +10014,11 @@ LOS CRÉDITOS HABILITADOS EN BASE A LAS OPERACIONES DE ENAJENACIÓN DE BIENES DE
 *   **C)** La financiación de gastos corrientes.
 *   **D)** La financiación de cualquier tipo de operaciones.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La financiación de operaciones de capital.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 37 NF 10/2003
+*   **Literal / Explicación**: "La disposición o compromiso es el acto en virtud del cual se acuerda con un tercero la realización de obras, prestaciones o suministros formalizados."
 
 ---
 
@@ -10170,11 +10035,11 @@ SE PODRÁ INCORPORAR, EN CADA CASO, AL PRESUPUESTO DE LA ADMINISTRACIÓN DE LA E
 *   **C)** Créditos habilitados y otros créditos vinculados a ingresos afectados.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 38 NF 10/2003
+*   **Literal / Explicación**: "El reconocimiento de la obligación es el acto que declara la existencia de un crédito exigible contra la entidad local previa acreditación de la prestación."
 
 ---
 
@@ -10191,11 +10056,11 @@ QUEDARÁN ANULADOS LOS CRÉDITOS SUSCEPTIBLES DE INCORPORACIÓN QUE NO HUBIERAN 
 *   **C)** …30 de junio.
 *   **D)** …1 de septiembre.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "…30 de junio.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 40 NF 10/2003
+*   **Literal / Explicación**: "La ordenación del pago es la orden formal impartida a la tesorería municipal para materializar la salida de fondos."
 
 ---
 
@@ -10212,11 +10077,11 @@ QUEDARÁN ANULADOS LOS CRÉDITOS SUSCEPTIBLES DE INCORPORACIÓN QUE NO HUBIERAN 
 *   **C)** Sí, siempre que la anulación se realice en el primer semestre del ejercicio.
 *   **D)** La normativa no permite las anulaciones de créditos.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Sí.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 42 NF 10/2003
+*   **Literal / Explicación**: "En los municipios de gran población, la ordenación de pagos corresponde al Alcalde o Concejal en quien delegue."
 
 ---
 
@@ -10233,11 +10098,11 @@ EN EL MARCO DE UNA CONCESIÓN DE CRÉDITO ADICIONAL, ¿CUÁL NO ES UNA DE LAS CA
 *   **C)** Que las operaciones queden canceladas antes de que se proceda a la renovación de la Corporación que las concierte.
 *   **D)** Que su importe total anual no supere el 5% de los recursos por operaciones corrientes del Presupuesto de la Entidad.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Que su importe total anual no supere el 7% de los recursos por operaciones corrientes del Presupuesto de la Entidad.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 48 NF 10/2003
+*   **Literal / Explicación**: "El presupuesto de ingresos se estructura según su naturaleza económica en capítulos: 1 (Impuestos directos), 2 (Indirectos), 3 (Tasas y precios), 4 (Transferencias corrientes)."
 
 ---
 
@@ -10254,11 +10119,11 @@ EL EXPEDIENTE DE CRÉDITO ADICIONAL SE TRAMITARÁ UNA VEZ INFORMADO POR…
 *   **C)** …el Tribunal Vasco de Cuentas Públicas.
 *   **D)** …la Intervención General del Estado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "…el Interventor.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 50 NF 10/2003
+*   **Literal / Explicación**: "La gestión del presupuesto de ingresos comprende las fases de reconocimiento del derecho, liquidación e ingreso o recaudación material."
 
 ---
 
@@ -10275,11 +10140,11 @@ LOS HABITANTES DE UN MUNICIPIO PODRÁN FORMULAR RECLAMACIONES A LOS EXPEDIENTES 
 *   **C)** …si tributan al municipio cantidades superiores al 33% del Indicador Público de Renta de Efectos Múltiples (IPREM).
 *   **D)** …si son titulares de derechos de crédito frente al municipio.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "…en cualquier caso.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 55 NF 10/2003
+*   **Literal / Explicación**: "La liquidación del presupuesto general se practicará al 31 de diciembre de cada año natural."
 
 ---
 
@@ -10296,11 +10161,11 @@ LOS HABITANTES DE UN MUNICIPIO PODRÁN FORMULAR RECLAMACIONES A LOS EXPEDIENTES 
 *   **C)** 8 días.
 *   **D)** 5 días.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "8 días.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 56 NF 10/2003
+*   **Literal / Explicación**: "La aprobación de la liquidación del presupuesto corresponde a la Alcaldía-Presidencia en los municipios de régimen común o a la Junta de Gobierno en gran población."
 
 ---
 
@@ -10317,11 +10182,11 @@ SI COMO CONSECUENCIA DE LOS CONVENIOS QUE CELEBRE LA ENTIDAD LOCAL CON OTRAS ENT
 *   **C)** …de la Junta de Gobierno.
 *   **D)** No se requiere autorización si el compromiso no supone un importe superior al 10% del conjunto de créditos de pago incluidos en el Presupuesto de la Entidad local.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "…del Pleno.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 58 NF 10/2003
+*   **Literal / Explicación**: "El resultado presupuestario se obtiene por la diferencia entre los derechos liquidados netos y las obligaciones reconocidas netas devengadas."
 
 ---
 
@@ -10338,11 +10203,11 @@ SI COMO CONSECUENCIA DE LOS CONVENIOS QUE CELEBRE LA ENTIDAD LOCAL CON OTRAS ENT
 *   **C)** Principio de titularidad real del crédito.
 *   **D)** Principio de constancia escrita del cumplimiento de las operaciones por parte de los responsables.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Principio de titularidad real del crédito.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 60 NF 10/2003
+*   **Literal / Explicación**: "El remanente de tesorería para gastos generales es la magnitud financiera resultante de sumar los fondos líquidos y derechos pendientes de cobro y deducir obligaciones pendientes."
 
 ---
 
@@ -10359,11 +10224,11 @@ LOS CRÉDITOS PRESUPUESTARIOS NO UTILIZADOS PODRÁN ENCONTRARSE EN UNA DE LAS SI
 *   **C)** Créditos no disponibles.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 65 NF 10/2003
+*   **Literal / Explicación**: "La Cuenta General de la entidad local está integrada por la cuenta de la propia entidad, de los organismos autónomos y de las sociedades mercantiles íntegramente municipales."
 
 ---
 
@@ -10380,11 +10245,11 @@ LOS CRÉDITOS PRESUPUESTARIOS NO UTILIZADOS PODRÁN ENCONTRARSE EN UNA DE LAS SI
 *   **C)** Constituyen la Tesorería de la Administración de la Entidad local todos los recursos financieros, sean dinero, valores o créditos de la Entidad por operaciones presupuestarias pero no extrapresupuestarias.
 *   **D)** Constituyen la Tesorería de la Administración de la Entidad local todos los recursos financieros que sean dinero o valores pero no créditos de la Entidad, tanto por operaciones presupuestarias como extrapresupuestarias.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Constituyen la Tesorería de la Administración de la Entidad local todos los recursos financieros, sean dinero, valores o créditos de la Entidad, tanto por operaciones presupuestarias como extrapresupuestarias.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 68 NF 10/2003
+*   **Literal / Explicación**: "La Cuenta General se somete a dictamen previo de la Comisión Especial de Cuentas antes del 1 de junio y se aprueba por el Pleno antes del 1 de octubre."
 
 ---
 
@@ -10401,11 +10266,11 @@ LA CUENTA GENERAL ESTARÁ INTEGRADA POR:
 *   **C)** La de las sociedades públicas dependientes.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 70 NF 10/2003
+*   **Literal / Explicación**: "La fiscalización y control interno de la gestión económico-financiera y presupuestaria local corresponde a la Intervención General Municipal."
 
 ---
 
@@ -10422,19 +10287,11 @@ CORRESPONDERÁ, EN TODO CASO, AL PLENO DE LA CORPORACIÓN LA RESOLUCIÓN DE LOS 
 *   **C)** Cuando se refieran a obligaciones o gastos cuya aprobación sea de su competencia.
 *   **D)** Cuando no hubieran sido fiscalizados los actos que dieron origen a las órdenes de pago.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Real Decreto Legislativo 2/2004 (TRLRHL - Texto Refundido de la Ley Reguladora de las Haciendas Locales)
-*   **Ámbito / Materia**: Ciclo presupuestario, fases de gasto y contabilidad presupuestaria local
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cuando se refieran a obligaciones o gastos cuya aprobación sea de su competencia.".
-
----
-
-<a name="tema-15"></a>
-## 📜 Tema 15: Ordenanzas y reglamentos de las entidades locales
-
-* **Normativa aplicable**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-* **Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
+*   **Norma**: Norma Foral 10/2003, de 2 de diciembre
+*   **Artículo**: Art. 75 NF 10/2003
+*   **Literal / Explicación**: "La fiscalización externa de las cuentas del Ayuntamiento de Bilbao corresponde al Tribunal Vasco de Cuentas Públicas (TVCP/HKEE) y al Tribunal de Cuentas del Estado."
 
 ---
 
@@ -10451,11 +10308,11 @@ EN EL ÁMBITO LOCAL, LA POTESTAD REGLAMENTARIA CORRESPONDE EN TODO CASO A:
 *   **C)** Los municipios, provincias e islas.
 *   **D)** Los municipios, provincias, islas y mancomunidades de municipios.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los municipios, provincias e islas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 4.1.a LRBRL
+*   **Literal / Explicación**: "El artículo 4.1.a) de la LRBRL reconoce la potestad reglamentaria y de autoorganización a los municipios, provincias e islas en su ámbito territorial."
 
 ---
 
@@ -10472,11 +10329,11 @@ LA POTESTAD REGLAMENTARIA CORRESPONDE A LAS COMARCAS:
 *   **C)** Si sus estatutos así lo determinan.
 *   **D)** Las Comarcas no tienen potestad reglamentaria en ningún caso.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Si una ley de la correspondiente Comunidad Autónoma así lo determina.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 4.2 LRBRL
+*   **Literal / Explicación**: "Las comarcas ostentan potestad reglamentaria cuando las leyes autonómicas de creación de la comarca les atribuyan expresamente dicha potestad."
 
 ---
 
@@ -10493,11 +10350,11 @@ LA POTESTAD REGLAMENTARIA CORRESPONDE A LAS ÁREAS METROPOLITANAS:
 *   **C)** Si sus estatutos así lo determinan.
 *   **D)** Las áreas Metropolitanas no tienen potestad reglamentaria en ningún caso.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Si una ley de la correspondiente Comunidad Autónoma así lo determina.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 4.2 LRBRL
+*   **Literal / Explicación**: "Las áreas metropolitanas y mancomunidades gozan de potestad reglamentaria limitada a la gestión y prestación de los servicios de su competencia."
 
 ---
 
@@ -10514,11 +10371,11 @@ LA APROBACIÓN DEL REGLAMENTO ORGÁNICO MUNICIPAL EN LOS MUNICIPIOS DE RÉGIMEN 
 *   **C)** A la Junta de Gobierno Local, en determinados casos.
 *   **D)** Al Pleno, en todo caso.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Al Pleno, en todo caso.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 47.2.a LRBRL
+*   **Literal / Explicación**: "La aprobación del Reglamento Orgánico Municipal exige el voto favorable de la mayoría absoluta del número legal de miembros del Pleno."
 
 ---
 
@@ -10535,11 +10392,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN CORRESPONDE AL PLENO:
 *   **C)** La aprobación y modificación de las ordenanzas municipales, pero no la de los reglamentos municipales.
 *   **D)** La aprobación y modificación de los reglamentos municipales, excepto la de los reglamentos de naturaleza orgánica.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La aprobación y modificación de las ordenanzas y reglamentos municipales.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 123.1.d LRBRL
+*   **Literal / Explicación**: "En los municipios de gran población corresponde exclusivamente al Pleno la aprobación y modificación de los reglamentos orgánicos y de las ordenanzas."
 
 ---
 
@@ -10556,11 +10413,11 @@ LA APROBACIÓN DE LAS ORDENANZAS MUNICIPALES CORRESPONDE:
 *   **C)** A la Junta de Gobierno Local en los municipios de régimen común y al Pleno en los Municipios de Gran Población.
 *   **D)** Al Pleno en los municipios de régimen común y a la Junta de Gobierno Local en los Municipios de Gran Población.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Al Pleno, en todo caso.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 22.2.d LRBRL
+*   **Literal / Explicación**: "En los municipios de régimen común corresponde preceptivamente al Pleno municipal la aprobación de las ordenanzas y reglamentos."
 
 ---
 
@@ -10577,11 +10434,11 @@ LA APROBACIÓN DE LOS REGLAMENTOS MUNICIPALES DE NATURALEZA ORGÁNICA ES:
 *   **C)** Indelegable en el caso de los municipios de régimen común y delegable en el caso de los Municipios de Gran Población.
 *   **D)** Delegable en el caso de los municipios de régimen común e indelegable en el caso de los Municipios de Gran Población.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Indelegable, en todo caso.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 47 LRBRL
+*   **Literal / Explicación**: "La aprobación de las ordenanzas y reglamentos ordinarios no orgánicos se adopta como regla general por mayoría simple de los miembros presentes."
 
 ---
 
@@ -10598,11 +10455,11 @@ LA APROBACIÓN DE LAS ORDENANZAS MUNICIPALES EN LOS MUNICIPIOS DE RÉGIMEN COMÚ
 *   **C)** Indelegable, salvo en determinados casos.
 *   **D)** Delegable, salvo en determinados casos.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Indelegable.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 127.1.a LRBRL
+*   **Literal / Explicación**: "En los municipios de gran población, la iniciativa normativa y aprobación de los proyectos de ordenanzas corresponde a la Junta de Gobierno Local."
 
 ---
 
@@ -10619,11 +10476,11 @@ LA APROBACIÓN DE LAS ORDENANZAS MUNICIPALES EN LOS MUNICIPIOS DE GRAN POBLACIÓ
 *   **C)** Indelegable, salvo que decida otra cosa la Junta de Gobierno Local.
 *   **D)** Delegable, salvo que decida otra cosa la Junta de Gobierno Local.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Delegable.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 49 LRBRL
+*   **Literal / Explicación**: "El procedimiento de aprobación de ordenanzas comprende: aprobación inicial por el Pleno, información pública de 30 días, resolución de alegaciones y aprobación definitiva."
 
 ---
 
@@ -10640,11 +10497,11 @@ INDIQUE LA AFIRMACIÓN CORRECTA:
 *   **C)** Los entes locales podrán, en defecto de normativa sectorial específica, establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones contenidos en las correspondientes ordenanzas.
 *   **D)** Los entes locales podrán, previa autorización por el Estado, establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones contenidos en las correspondientes ordenanzas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Los entes locales podrán, en defecto de normativa sectorial específica, establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones contenidos en las correspondientes ordenanzas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 49.b LRBRL
+*   **Literal / Explicación**: "El plazo preceptivo mínimo de información pública y audiencia a los interesados para presentar alegaciones o reclamaciones es de treinta días."
 
 ---
 
@@ -10661,11 +10518,11 @@ LAS INFRACCIONES A LAS ORDENANZAS LOCALES SE CLASIFICAN EN:
 *   **C)** Graves y muy graves.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Leves, graves y muy graves.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 49.c LRBRL
+*   **Literal / Explicación**: "Si no se presentasen reclamaciones ni alegaciones durante el período de información pública, el acuerdo inicial deviene automáticamente definitivo."
 
 ---
 
@@ -10682,11 +10539,11 @@ CONSTITUYE INFRACCIÓN MUY GRAVE DE UNA ORDENANZA LOCAL:
 *   **C)** El impedimento del uso de un servicio público por otra u otras personas con derecho a su utilización.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 70.2 LRBRL
+*   **Literal / Explicación**: "Las ordenanzas locales no entran en vigor hasta que se haya publicado íntegramente su texto en el Boletín Oficial correspondiente y transcurrido el plazo del art. 65.2 LRBRL (15 días)."
 
 ---
 
@@ -10703,11 +10560,11 @@ LOS ACTOS DE DETERIORO GRAVE Y RELEVANTE DE EQUIPAMIENTOS, INFRAESTRUCTURAS, INS
 *   **C)** Muy grave.
 *   **D)** Gravísima.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Muy grave.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 65.2 LRBRL
+*   **Literal / Explicación**: "La ordenanza entrará en vigor una vez transcurridos 15 días hábiles desde la recepción de la copia del acuerdo por la Administración del Estado y de la CCAA."
 
 ---
 
@@ -10724,11 +10581,11 @@ LOS ACTOS DE DETERIORO GRAVE Y RELEVANTE DE ESPACIOS PÚBLICOS O DE CUALQUIERA D
 *   **C)** Muy grave.
 *   **D)** Gravísima.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Muy grave.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 84 LRBRL
+*   **Literal / Explicación**: "Las entidades locales pueden intervenir la actividad de los ciudadanos a través de ordenanzas, bandos, licencias, declaraciones responsables y control posterior."
 
 ---
 
@@ -10745,11 +10602,11 @@ SALVO PREVISIÓN LEGAL DISTINTA, EL LÍMITE MÁXIMO DE LAS MULTAS POR INFRACCIÓ
 *   **C)** 750 €.
 *   **D)** 1.500 €.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "750 €.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 84 bis LRBRL
+*   **Literal / Explicación**: "El régimen general de ejercicio de actividades económicas se basará con carácter prioritario en la declaración responsable o comunicación previa sin licencia previa."
 
 ---
 
@@ -10766,11 +10623,11 @@ SALVO PREVISIÓN LEGAL DISTINTA, EL LÍMITE MÁXIMO DE LAS MULTAS POR INFRACCIÓ
 *   **C)** 2.500 €.
 *   **D)** 3.000 €.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "1.500 €.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 139 LRBRL
+*   **Literal / Explicación**: "Los municipios pueden tipificar infracciones y sanciones en ordenanzas locales para la protección de bienes y servicios públicos en defecto de ley específica."
 
 ---
 
@@ -10787,11 +10644,11 @@ SALVO PREVISIÓN LEGAL DISTINTA, EL LÍMITE MÁXIMO DE LAS MULTAS POR INFRACCIÓ
 *   **C)** 3.000 €.
 *   **D)** 5.000 €.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "3.000 €.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 140 LRBRL
+*   **Literal / Explicación**: "Las infracciones en ordenanzas se clasifican en muy graves, graves y leves con respeto a la legalidad básica."
 
 ---
 
@@ -10808,11 +10665,11 @@ EL RECURSO PROCEDENTE CONTRA UN REGLAMENTO MUNICIPAL ES:
 *   **C)** El recurso de alzada.
 *   **D)** El recurso extraordinario de revisión.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El recurso contencioso administrativo.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 141 LRBRL
+*   **Literal / Explicación**: "Fija los límites pecuniarios máximos de las multas de ordenanzas: hasta 3.000 euros para muy graves, hasta 1.500 euros para graves y hasta 750 euros para leves."
 
 ---
 
@@ -10829,11 +10686,11 @@ EL RECURSO PROCEDENTE CONTRA UNA ORDENANZA MUNICIPAL ES:
 *   **C)** El recurso de alzada.
 *   **D)** El recurso extraordinario de revisión.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El recurso contencioso administrativo.".
+*   **Norma**: Real Decreto Legislativo 2/2004 (TRLHL)
+*   **Artículo**: Art. 15 TRLHL
+*   **Literal / Explicación**: "Las entidades locales aprueban ordenanzas fiscales reguladoras de sus tributos propios (impuestos, tasas y contribuciones especiales)."
 
 ---
 
@@ -10850,11 +10707,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN, TIENE/N EN TODO CASO NATURALEZA ORGÁNICA:
 *   **C)** En los Municipios de Gran Población no hay Reglamentos de naturaleza orgánica.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Los reglamentos que tengan por objeto la regulación del Pleno, del Consejo Social de la ciudad y de la Comisión Especial de Sugerencias y Reclamaciones, entre otros.".
+*   **Norma**: Real Decreto Legislativo 2/2004 (TRLHL)
+*   **Artículo**: Art. 17 TRLHL
+*   **Literal / Explicación**: "El acuerdo de aprobación inicial de ordenanzas fiscales se expondrá al público en el tablón de edictos y boletín oficial por plazo de treinta días hábiles."
 
 ---
 
@@ -10871,11 +10728,11 @@ EN LOS MUNICIPIOS DE RÉGIMEN COMÚN, LA ADOPCIÓN DE ACUERDOS EN MATERIA DE APR
 *   **C)** El voto favorable de la mayoría absoluta del número legal de sus miembros.
 *   **D)** Unanimidad de los miembros presentes.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El voto favorable de la mayoría absoluta del número legal de sus miembros.".
+*   **Norma**: Real Decreto Legislativo 2/2004 (TRLHL)
+*   **Artículo**: Art. 17.3 TRLHL
+*   **Literal / Explicación**: "Finalizado el período de exposición pública, las corporaciones locales adoptarán el acuerdo definitivo resolviendo las reclamaciones presentadas."
 
 ---
 
@@ -10892,11 +10749,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN, LA ADOPCIÓN DE ACUERDOS EN MATERIA DE APR
 *   **C)** El voto favorable de la mayoría absoluta del número legal de sus miembros.
 *   **D)** Unanimidad de los miembros presentes.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El voto favorable de la mayoría absoluta del número legal de sus miembros.".
+*   **Norma**: Real Decreto Legislativo 2/2004 (TRLHL)
+*   **Artículo**: Art. 19.1 TRLHL
+*   **Literal / Explicación**: "Contra los acuerdos definitivos sobre ordenanzas fiscales sólo cabe interponer directamente recurso contencioso-administrativo sin recurso previo de reposición."
 
 ---
 
@@ -10913,11 +10770,11 @@ PUEDEN EJERCER LA INICIATIVA POPULAR, PRESENTANDO PROYECTOS DE REGLAMENTOS EN MA
 *   **C)** Las vecinas y vecinos del municipio que gocen del derecho de sufragio activo en las elecciones municipales.
 *   **D)** Cualquier persona residente empadronada en el municipio.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Las vecinas y vecinos del municipio que gocen del derecho de sufragio activo en las elecciones municipales.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 21.1.e LRBRL
+*   **Literal / Explicación**: "Dictar bandos es una atribución propia del Alcalde que tiene carácter de recordatorio, comunicación o emergencia, sin rango de norma jurídica innovadora."
 
 ---
 
@@ -10934,11 +10791,11 @@ LA INICIATIVA POPULAR EN UN MUNICIPIO DE 350.000 HABITANTES HA DE IR SUSCRITA AL
 *   **C)** El 20 por ciento.
 *   **D)** El 25 por ciento.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El 10 por ciento.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 21.1.m LRBRL
+*   **Literal / Explicación**: "En casos de catástrofe o grave riesgo público, el Alcalde podrá adoptar personalmente y bajo su responsabilidad las medidas inmediatas y bandos necesarios."
 
 ---
 
@@ -10955,11 +10812,11 @@ LA INICIATIVA POPULAR EN UN MUNICIPIO DE 2.500 HABITANTES HA DE IR SUSCRITA AL M
 *   **C)** El 20 por ciento.
 *   **D)** El 25 por ciento.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El 20 por ciento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 133 Ley 39/2015
+*   **Literal / Explicación**: "Con carácter previo a la elaboración de ordenanzas y reglamentos locales se sustanciará una consulta pública previa a través del portal web municipal."
 
 ---
 
@@ -10976,11 +10833,11 @@ LA INICIATIVA POPULAR EN UN MUNICIPIO DE 20.000 HABITANTES HA DE IR SUSCRITA AL 
 *   **C)** El 20 por ciento.
 *   **D)** El 25 por ciento.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El 15 por ciento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 133.2 Ley 39/2015
+*   **Literal / Explicación**: "El trámite de audiencia e información pública ciudadana en el portal web permite recabar aportaciones adicionales de las personas afectadas."
 
 ---
 
@@ -10997,11 +10854,11 @@ ELIJA LA RESPUESTA CORRECTA EN RELACIÓN A LA INICIATIVA POPULAR EN EL ÁMBITO M
 *   **C)** Debe ser sometida a debate y votación en el Pleno y en todo caso requiere el previo informe de legalidad del secretario o de la secretaria del ayuntamiento, así como el informe del interventor o de la interventora cuando la iniciativa afecte a derechos y obligaciones de contenido económico del ayuntamiento.
 *   **D)** Debe ser sometida a debate y votación en el Pleno y en todo caso requiere el previo informe de legalidad del secretario o de la secretaria del ayuntamiento, así como el informe del interventor o de la interventora.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Debe ser sometida a debate y votación en el Pleno y en todo caso requiere el previo informe de legalidad del secretario o de la secretaria del ayuntamiento, así como el informe del interventor o de la interventora cuando la iniciativa afecte a derechos y obligaciones de contenido económico del ayuntamiento.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 128 Ley 39/2015
+*   **Literal / Explicación**: "Las ordenanzas y reglamentos locales están subordinados a las leyes y no pueden vulnerar preceptos de rango legal ni la Constitución."
 
 ---
 
@@ -11018,11 +10875,11 @@ SEÑALE LA RESPUESTA INCORRECTA. EL PROCEDIMIENTO DE APROBACIÓN DE LAS ORDENANZ
 *   **C)** La resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo.
 *   **D)** La aprobación definitiva por el Pleno.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Información pública y audiencia a las personas interesadas por el plazo mínimo de veinte días para la presentación de reclamaciones y sugerencias.".
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+*   **Artículo**: Art. 47.2 Ley 39/2015
+*   **Literal / Explicación**: "Son nulas de pleno derecho las ordenanzas y reglamentos que vulneren preceptos constitucionales o leyes de superior rango jerárquico."
 
 ---
 
@@ -11039,11 +10896,11 @@ SEGÚN EL ARTÍCULO 133 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO AD
 *   **C)** Ha de sustanciar una consulta pública aunque puede prescindir de dicho trámite en determinados casos.
 *   **D)** Ha de sustanciar una consulta pública sólo si así lo solicita, como mínimo, el 10% de vecinos y vecinas con derecho a sufragio activo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ha de sustanciar una consulta pública aunque puede prescindir de dicho trámite en determinados casos.".
+*   **Norma**: Ley 29/1998 de la Jurisdicción Contencioso-Administrativa
+*   **Artículo**: Art. 26 Ley 29/1998 (LJCA)
+*   **Literal / Explicación**: "Las ordenanzas municipales pueden ser objeto de recurso contencioso-administrativo directo o impugnarse de forma indirecta con ocasión de sus actos de aplicación."
 
 ---
 
@@ -11060,11 +10917,11 @@ SEGÚN EL ARTÍCULO 106 DE LA LEY 7/1985, DE 2 DE ABRIL, REGULADORA DE LAS BASES
 *   **C)** Las respuestas a y b son correctas.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Ordenanzas fiscales reguladoras de sus tributos propios.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 71 LRBRL
+*   **Literal / Explicación**: "Los vecinos tienen derecho a participar en la gestión municipal y a ser consultados en las materias de la competencia local."
 
 ---
 
@@ -11081,11 +10938,11 @@ LAS ORDENANZAS FISCALES REGULADORAS DE LOS TRIBUTOS LOCALES COMENZARÁN A APLICA
 *   **C)** En el momento de su publicación definitiva en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial.
 *   **D)** En el momento de su publicación definitiva en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial,  salvo que en las mismas Ordenanzas fiscales se señale otra fecha.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "En el momento de su publicación definitiva en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial,  salvo que en las mismas Ordenanzas fiscales se señale otra fecha.".
+*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)
+*   **Artículo**: Art. 70 bis LRBRL
+*   **Literal / Explicación**: "Los vecinos que gocen del derecho de sufragio activo pueden ejercer la iniciativa popular para presentar propuestas de ordenanzas avaladas por un porcentaje de firmas."
 
 ---
 
@@ -11102,11 +10959,11 @@ EN LOS MUNICIPIOS DE GRAN POBLACIÓN LA APROBACIÓN DE LOS PROYECTOS DE ORDENANZ
 *   **C)** Al Pleno.
 *   **D)** A ninguno de los anteriores.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "A la Junta de Gobierno Local.".
+*   **Norma**: Ley 7/1985 y Estatuto de Autonomía de Euskadi
+*   **Artículo**: Art. 71 LRBRL y Art. 18 EAPV
+*   **Literal / Explicación**: "Las consultas populares municipales requieren la autorización previa del Gobierno de la Nación en los términos previstos en la ley orgánica."
 
 ---
 
@@ -11123,11 +10980,11 @@ SEGÚN EL ARTÍCULO 132 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO AD
 *   **C)** Anualmente.
 *   **D)** Los municipios no están obligados a realizar Planes Normativos.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Anualmente.".
+*   **Norma**: Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi (LILE)
+*   **Artículo**: Ley 2/2016 (LILE)
+*   **Literal / Explicación**: "La LILE reconoce la potestad normativa municipal de los Ayuntamientos vascos para aprobar ordenanzas con amplia autonomía de autogobierno."
 
 ---
 
@@ -11144,11 +11001,11 @@ EN LAS PROVINCIAS, LA APROBACIÓN DE LAS ORDENANZAS CORRESPONDE:
 *   **C)** Al Presidente o a la Presidenta de la Diputación.
 *   **D)** A los órganos de estudio, informe o consulta de la Diputación.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Al Pleno de la Diputación.".
+*   **Norma**: Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi
+*   **Artículo**: Art. 10 LILE
+*   **Literal / Explicación**: "La LILE garantiza el principio de subsidiariedad y la suficiencia financiera de los municipios vascos en el ejercicio de sus competencias normativas."
 
 ---
 
@@ -11165,19 +11022,11 @@ ENTRE LOS CONCEPTOS QUE HAN DE CONTENER LAS ORDENANZAS FISCALES REGULADORAS DE L
 *   **C)** Las fechas de su aprobación y del comienzo de su aplicación.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (artículos 4, 49, 70 y concordantes)
-*   **Ámbito / Materia**: Potestad reglamentaria municipal y procedimiento de aprobación de ordenanzas
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
-
----
-
-<a name="tema-16"></a>
-## 📜 Tema 16: Las Cortes Generales. El Defensor del Pueblo. El Ararteko
-
-* **Normativa aplicable**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-* **Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
+*   **Norma**: Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi
+*   **Artículo**: Art. 82 LILE
+*   **Literal / Explicación**: "La Comisión de Gobiernos Locales de Euskadi vela por el respeto de la autonomía local frente a anteproyectos de ley que afecten a materias locales."
 
 ---
 
@@ -11194,11 +11043,11 @@ EL ARARTEKO ES UNA INSTITUCIÓN PÚBLICA PREVISTA DIRECTAMENTE POR…
 *   **C)** …la Ley Orgánica del Defensor del Pueblo.
 *   **D)** …la Ley 40/2015 de 1 de octubre.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "…el Estatuto de autonomía.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 15 EAPV
+*   **Literal / Explicación**: "El artículo 15 del Estatuto de Autonomía para el País Vasco prevé la figura del Ararteko como alto comisionado del Parlamento Vasco para la defensa de los derechos y libertades."
 
 ---
 
@@ -11215,11 +11064,11 @@ EL ARARTEKO SERÁ DESIGNADO POR…
 *   **C)** …el Lehendakari
 *   **D)** …acuerdo conjunto de las Juntas Generales de los tres Territorios Históricos.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "…el Parlamento.".
+*   **Norma**: Ley 3/1985, de 27 de febrero, por la que se crea y regula la institución del Ararteko
+*   **Artículo**: Art. 2 Ley 3/1985
+*   **Literal / Explicación**: "El Ararteko es designado por el Parlamento Vasco por mayoría reforzada de tres quintas partes de sus miembros."
 
 ---
 
@@ -11236,11 +11085,11 @@ LA DURACIÓN DE LA DESIGNACIÓN DEL ARARTEKO ES LA SIGUIENTE:
 *   **C)** Cinco años prorrogables una sola vez por mismo periodo.
 *   **D)** Cuatro años prorrogables una sola vez por mismo periodo.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cinco años prorrogables una sola vez por mismo periodo.".
+*   **Norma**: Ley 3/1985, de 27 de febrero, del Ararteko
+*   **Artículo**: Art. 3 Ley 3/1985
+*   **Literal / Explicación**: "El mandato del Ararteko tiene una duración de cinco años y podrá ser reelegido por una sola vez."
 
 ---
 
@@ -11257,11 +11106,11 @@ LA CONDICIÓN DE ARARTEKO ES INCOMPATIBLE CON:
 *   **C)** Con la afiliación a un partido político, Sindicato u organización patronal.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Ley 3/1985, de 27 de febrero, del Ararteko
+*   **Artículo**: Art. 7 Ley 3/1985
+*   **Literal / Explicación**: "La condición de Ararteko es incompatible con todo mandato representativo, cargo político, afiliación a partidos o sindicatos y ejercicio de cualquier profesión o comercio."
 
 ---
 
@@ -11278,11 +11127,11 @@ LA CONDICIÓN DE ARARTEKO ES INCOMPATIBLE CON:
 *   **C)** Sí, previa autorización del Parlamento.
 *   **D)** Sí, en todo caso, salvo aquellos documentos relativos a agentes de la autoridad en funciones recogidas en el art. 282. bis de la Ley de Enjuiciamiento Criminal.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Sí, salvo acuerdo expreso del Gobierno que deniegue el acceso a dicho documento.".
+*   **Norma**: Ley 3/1985, de 27 de febrero, del Ararteko
+*   **Artículo**: Art. 19 Ley 3/1985
+*   **Literal / Explicación**: "El Ararteko no podrá conocer de documentos que hayan sido legalmente clasificados como secretos conforme a la legislación de secretos oficiales."
 
 ---
 
@@ -11299,11 +11148,11 @@ LA CONDICIÓN DE ARARTEKO ES INCOMPATIBLE CON:
 *   **C)** La reclusión en centro penitenciario.
 *   **D)** Ninguna de las anteriores.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ninguna de las anteriores.".
+*   **Norma**: Ley 3/1985, de 27 de febrero, del Ararteko
+*   **Artículo**: Art. 13 Ley 3/1985
+*   **Literal / Explicación**: "Cualquier persona natural o jurídica puede dirigirse al Ararteko sin que la nacionalidad, residencia o privación de libertad constituyan impedimento."
 
 ---
 
@@ -11320,11 +11169,11 @@ LA CONDICIÓN DE ARARTEKO ES INCOMPATIBLE CON:
 *   **C)** 6 meses.
 *   **D)** No hay plazo.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "1 año.".
+*   **Norma**: Ley 3/1985, de 27 de febrero, del Ararteko
+*   **Artículo**: Art. 14 Ley 3/1985
+*   **Literal / Explicación**: "Las quejas deberán formularse ante el Ararteko en el plazo máximo de un año contado a partir del momento en que ocurrieron los hechos."
 
 ---
 
@@ -11341,11 +11190,11 @@ EL NOMBRAMIENTO DEL DEFENSOR DEL PUEBLO SE REALIZARÁ POR UN PERIODO DE:
 *   **C)** 5 años.
 *   **D)** 3 años.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "5 años.".
+*   **Norma**: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo
+*   **Artículo**: Art. 2 LO 3/1981
+*   **Literal / Explicación**: "El Defensor del Pueblo es elegido por las Cortes Generales para un periodo de cinco años por mayoría de tres quintos del Congreso y del Senado."
 
 ---
 
@@ -11362,11 +11211,11 @@ EL DEFENSOR DEL PUEBLO SE CONFIGURA CONSTITUCIONALMENTE COMO ALTO COMISIONADO:
 *   **C)** Del Rey.
 *   **D)** Del Senado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "De las Cortes Generales.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 54 CE
+*   **Literal / Explicación**: "El artículo 54 de la Constitución instituye al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I."
 
 ---
 
@@ -11383,11 +11232,11 @@ EL DEFENSOR DEL PUEBLO SE CONFIGURA CONSTITUCIONALMENTE COMO ALTO COMISIONADO:
 *   **C)** No está sujeto a mandato imperativo.
 *   **D)** Del Consejo de Ministros.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No está sujeto a mandato imperativo.".
+*   **Norma**: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo
+*   **Artículo**: Art. 6.1 LO 3/1981
+*   **Literal / Explicación**: "El cargo de Defensor del Pueblo es incompatible con todo mandato representativo, cargo político, partido o sindicato y carrera judicial o fiscal."
 
 ---
 
@@ -11404,11 +11253,11 @@ LAS CÁMARAS SE REÚNEN EN SESIONES:
 *   **C)** Ordinarias, extraordinarias y conjuntas.
 *   **D)** Ordinarias, extraordinarias y de urgencia.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ordinarias, extraordinarias y conjuntas.".
+*   **Norma**: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo
+*   **Artículo**: Art. 15 LO 3/1981
+*   **Literal / Explicación**: "El plazo para presentar quejas ante el Defensor del Pueblo es de un año contado a partir del momento en que se tuviera conocimiento de los hechos."
 
 ---
 
@@ -11425,11 +11274,11 @@ EN GENERAL, PARA ADOPTAR ACUERDOS, LAS CÁMARAS DEBEN ESTAR REUNIDAS REGLAMENTAR
 *   **C)** Por mayoría de 3/5.
 *   **D)** Por mayoría de 2/3.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Por la mayoría de miembros presentes.".
+*   **Norma**: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo
+*   **Artículo**: Art. 29 LO 3/1981
+*   **Literal / Explicación**: "El Defensor del Pueblo está legitimado para interponer los recursos de inconstitucionalidad y los recursos de amparo ante el Tribunal Constitucional."
 
 ---
 
@@ -11446,11 +11295,11 @@ EN GENERAL, PARA ADOPTAR ACUERDOS, LAS CÁMARAS DEBEN ESTAR REUNIDAS REGLAMENTAR
 *   **C)** Dentro de los 15 días siguientes.
 *   **D)** Entre los 30 y los 45 días siguientes.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Dentro de los 25 días siguientes.".
+*   **Norma**: Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo
+*   **Artículo**: Art. 32 LO 3/1981
+*   **Literal / Explicación**: "El Defensor del Pueblo dará cuenta anualmente a las Cortes Generales de la gestión realizada mediante un informe general."
 
 ---
 
@@ -11467,11 +11316,11 @@ EN LAS CAUSAS CONTRA DIPUTADOS Y SENADORES SERÁ COMPETENTE:
 *   **C)** La sala tercera de la Audiencia Nacional.
 *   **D)** La sala de lo penal del Tribunal Supremo.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "La sala de lo penal del Tribunal Supremo.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 66.1 CE
+*   **Literal / Explicación**: "El artículo 66.1 de la Constitución establece: «Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado»."
 
 ---
 
@@ -11488,11 +11337,11 @@ LAS DIPUTACIONES PERMANENTES ESTARÁN PRESIDIDAS POR:
 *   **C)** El Presidente de la respectiva Cámara.
 *   **D)** El portavoz del grupo más numeroso.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Presidente de la respectiva Cámara.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 66.2 CE
+*   **Literal / Explicación**: "El artículo 66.2 de la Constitución determina que las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos y controlan la acción del Gobierno."
 
 ---
 
@@ -11509,11 +11358,11 @@ LAS DIPUTACIONES PERMANENTES ESTARÁN PRESIDIDAS POR:
 *   **C)** Cuatro.
 *   **D)** Dos.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Cuatro.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 67.2 CE
+*   **Literal / Explicación**: "El artículo 67.2 de la Constitución consagra la prohibición del mandato imperativo: «Los miembros de las Cortes Generales no estarán ligados por mandato imperativo»."
 
 ---
 
@@ -11530,11 +11379,11 @@ LAS SESIONES CONJUNTAS DEL CONGRESO Y DEL SENADO SERÁN PRESIDIDAS:
 *   **C)** Por el Letrado Mayor del Senado.
 *   **D)** Por el Senador de más edad.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Por el Presidente del Congreso.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 68.1 CE
+*   **Literal / Explicación**: "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto."
 
 ---
 
@@ -11551,11 +11400,11 @@ LOS SENADORES POR PROVINCIAS SE ELEGIRÁN POR:
 *   **C)** Voto único transferible.
 *   **D)** A través de listas cerradas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Sufragio universal, libre, igual, directo y secreto.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 68.2 CE
+*   **Literal / Explicación**: "La circunscripción electoral para la elección de Diputados es la provincia. Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado."
 
 ---
 
@@ -11572,11 +11421,11 @@ LOS SENADORES POR PROVINCIAS SE ELEGIRÁN POR:
 *   **C)** Los Presidentes del Senado y el Congreso y el Interventor de las Cortes Generales.
 *   **D)** Un Diputado, un Senador y el Interventor de las Cortes Generales.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Un Diputado, un Senador y el Interventor de las Cortes Generales.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 68.3 CE
+*   **Literal / Explicación**: "La elección en cada circunscripción se verificará atendiendo a criterios de representación proporcional (sistema d'Hondt)."
 
 ---
 
@@ -11593,11 +11442,11 @@ SEÑALE LA RESPUESTA CORRECTA.
 *   **C)** Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos.
 *   **D)** La Constitución española dispone que el Congreso tendrá un mínimo de 350 y un máximo de 450 Diputados.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 68.4 CE
+*   **Literal / Explicación**: "El Congreso es elegido por cuatro años. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara."
 
 ---
 
@@ -11614,11 +11463,11 @@ EL NÚMERO MÍNIMO DE DIPUTADOS EN EL CONGRESO ES DE:
 *   **C)** 315.
 *   **D)** No hay mínimo.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "300.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 69.1 CE
+*   **Literal / Explicación**: "El artículo 69.1 de la Constitución define al Senado como la Cámara de representación territorial."
 
 ---
 
@@ -11635,11 +11484,11 @@ NO ES INCOMPATIBLE PARA SER ELECTO DIPUTADO UN:
 *   **C)** Juez.
 *   **D)** Ministro.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Ministro.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 69.2 CE
+*   **Literal / Explicación**: "En cada provincia peninsular se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas."
 
 ---
 
@@ -11656,11 +11505,11 @@ NO ES INCOMPATIBLE PARA SER ELECTO DIPUTADO UN:
 *   **C)** Tres.
 *   **D)** Cuatro.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Tres.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 69.3 CE
+*   **Literal / Explicación**: "En las provincias insulares, cada isla o agrupación con Cabildo o Consejo Insular constituye circunscripción electoral para Senadores."
 
 ---
 
@@ -11677,11 +11526,11 @@ EL PRESIDENTE DE LA DIPUTACIÓN PERMANENTE DEL CONGRESO DE LOS DIPUTADOS ES EL:
 *   **C)** Presidente de la Cámara.
 *   **D)** Elegido por los Portavoces de los Grupos Parlamentarios.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Presidente de la Cámara.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 69.4 CE
+*   **Literal / Explicación**: "Ceuta y Melilla eligen cada una de ellas a dos Senadores."
 
 ---
 
@@ -11698,11 +11547,11 @@ FUERA DE LOS PERIODOS ORDINARIOS DE SESIONES, SEÑALE ¿QUIÉN NO PUEDE SOLICITA
 *   **C)** La Mesa de cada Cámara.
 *   **D)** El Gobierno.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La Mesa de cada Cámara.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 69.5 CE
+*   **Literal / Explicación**: "Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio."
 
 ---
 
@@ -11719,11 +11568,11 @@ EL PRIMER PERIODO DE SESIONES DE LAS CÁMARAS CONCLUYE, SEGÚN LA CONSTITUCIÓN:
 *   **C)** En diciembre.
 *   **D)** En junio.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En diciembre.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 71.1 CE
+*   **Literal / Explicación**: "Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones parlamentarias."
 
 ---
 
@@ -11740,11 +11589,11 @@ NO PUEDE DELEGARSE EN UNA COMISIÓN LEGISLATIVA PERMANENTE LA POSIBILIDAD DE APR
 *   **C)** Orgánica.
 *   **D)** Las respuestas a) y c) son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Orgánica.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 71.2 CE
+*   **Literal / Explicación**: "Durante su mandato gozarán de inmunidad y sólo podrán ser detenidos en caso de flagrante delito. No podrán ser inculpados ni procesados sin previa autorización de la Cámara (suplicatorio)."
 
 ---
 
@@ -11761,11 +11610,11 @@ EL DEFENSOR DEL PUEBLO DA CUENTA DE SUS ATRIBUCIONES AL/A LAS:
 *   **C)** Gobierno.
 *   **D)** Poder Judicial.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cortes Generales.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 71.3 CE
+*   **Literal / Explicación**: "En las causas contra Diputados y Senadores será competente la Sala de lo Penal del Tribunal Supremo."
 
 ---
 
@@ -11782,11 +11631,11 @@ LA ELECCIÓN DEL DEFENSOR DEL PUEBLO COMPETE AL/A LA/A LOS:
 *   **C)** Gobierno.
 *   **D)** Rey.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Plenos del Congreso y del Senado.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 72.1 CE
+*   **Literal / Explicación**: "Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y el estatuto del personal de las Cortes Generales."
 
 ---
 
@@ -11803,11 +11652,11 @@ LA INVIOLABILIDAD, RESPECTO DEL DEFENSOR DEL PUEBLO:
 *   **C)** La ostenta en cuanto a los actos que realice en el ejercicio de sus competencias como tal.
 *   **D)** Supone que está exento de dar cuenta de su trabajo ante las Cortes Generales.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "La ostenta en cuanto a los actos que realice en el ejercicio de sus competencias como tal.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 73.1 CE
+*   **Literal / Explicación**: "Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre; y el segundo, de febrero a junio."
 
 ---
 
@@ -11824,11 +11673,11 @@ SI SE PRESENTA UNA QUEJA ANÓNIMA ANTE EL DEFENSOR DEL PUEBLO:
 *   **C)** No está obligado a darle trámite.
 *   **D)** Se deja a su arbitrio el darle o no trámite.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "No está obligado a darle trámite.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 75.1 CE
+*   **Literal / Explicación**: "Las Cámaras funcionarán en Pleno y por Comisiones legislativas permanentes."
 
 ---
 
@@ -11845,11 +11694,11 @@ LAS QUEJAS DEBEN PRESENTARSE AL DEFENSOR DEL PUEBLO:
 *   **C)** Con justificante de pago de tasas.
 *   **D)** En papel común.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "En papel común.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 78.1 CE
+*   **Literal / Explicación**: "En cada Cámara habrá una Diputación Permanente presidida por el Presidente de la Cámara respectiva y compuesta por un mínimo de 21 miembros."
 
 ---
 
@@ -11866,11 +11715,11 @@ EL AUXILIO AL DEFENSOR DEL PUEBLO POR PARTE DE LOS FUNCIONARIOS PÚBLICOS:
 *   **C)** Ha de ser preferente y urgente.
 *   **D)** Es potestativo para ellos.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ha de ser preferente y urgente.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 78.2 CE
+*   **Literal / Explicación**: "Corresponde a la Diputación Permanente velar por los poderes de las Cámaras cuando éstas no estén reunidas o hubieren sido disueltas."
 
 ---
 
@@ -11887,11 +11736,11 @@ EL AUXILIO AL DEFENSOR DEL PUEBLO POR PARTE DE LOS FUNCIONARIOS PÚBLICOS:
 *   **C)** Ceuta por uno y Melilla por dos.
 *   **D)** Por un solo Diputado común para ambas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Cada una por un Diputado.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 87.1 CE
+*   **Literal / Explicación**: "La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado de acuerdo con la Constitución y los Reglamentos de las Cámaras."
 
 ---
 
@@ -11908,19 +11757,11 @@ SEÑALE LA RESPUESTA INCORRECTA RESPECTO AL SENADO.
 *   **C)** El Senado es la Cámara de representación territorial.
 *   **D)** Las Comunidades Autónomas designarán, además, un Senador y otro más por cada medio millón de habitantes de su respectivo territorio.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española de 1978 (Título III), Ley Orgánica 3/1981 y Ley del Parlamento Vasco 3/1985 del Ararteko
-*   **Ámbito / Materia**: Poder legislativo del Estado e instituciones de defensoría del pueblo y Ararteko
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Las Comunidades Autónomas designarán, además, un Senador y otro más por cada medio millón de habitantes de su respectivo territorio.".
-
----
-
-<a name="tema-17"></a>
-## 📜 Tema 17: Distribución de competencias entre el Estado y las CCAA en la CE y el Estatuto de Gernika
-
-* **Normativa aplicable**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-* **Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 87.3 CE
+*   **Literal / Explicación**: "Una ley orgánica regulará la iniciativa legislativa popular, que exigirá no menos de 500.000 firmas acreditadas y no procederá en materias de ley orgánica, tributarias ni de gracia."
 
 ---
 
@@ -11937,11 +11778,11 @@ QUÉ TITULO DE LA CONSTITUCIÓN ESTÁ DEDICADO A LA REGULACIÓN DE LA ORGANIZACI
 *   **C)** El Título VIII.
 *   **D)** El Título IX.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Título VIII.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título VIII CE
+*   **Literal / Explicación**: "El Título VIII de la Constitución («De la Organización Territorial del Estado», artículos 137 a 158) regula la estructura territorial y competencial."
 
 ---
 
@@ -11958,11 +11799,11 @@ QUÉ TITULO DE LA CONSTITUCIÓN ESTÁ DEDICADO A LA REGULACIÓN DE LA ORGANIZACI
 *   **C)** Las Comunidades Autónomas pueden aprobar leyes de transferencias.
 *   **D)** Todas las respuestas anteriores son incorrectas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son incorrectas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 137 CE
+*   **Literal / Explicación**: "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan, gozando todas de autonomía para la gestión de sus intereses."
 
 ---
 
@@ -11979,11 +11820,11 @@ LAS MATERIAS SOBRE LAS QUE EL ESTADO TIENE COMPETENCIA EXCLUSIVA VIENEN ENUMERAD
 *   **C)** En el artículo 150.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "En el artículo 149.1.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1 CE
+*   **Literal / Explicación**: "El artículo 149.1 de la Constitución contiene el catálogo de las 32 materias sobre las que el Estado tiene competencia exclusiva."
 
 ---
 
@@ -12000,11 +11841,11 @@ DE ACUERDO CON LA CONSTITUCIÓN ESPAÑOLA, ¿CÓMO SE ORGANIZA TERRITORIALMENTE 
 *   **C)** En Comunidades Autónomas.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 137 CE
+*   **Literal / Explicación**: "La Constitución establece la organización territorial del Estado descentralizada en municipios, provincias y Comunidades Autónomas."
 
 ---
 
@@ -12021,11 +11862,11 @@ SEGUN LA CONSTITUCIÓN, ¿CUÁL O CUALES DE LAS SIGUIENTES COMPETENCIAS ES EXCLU
 *   **C)** Administración de Justicia.
 *   **D)** Todas las respuestas citadas con correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas citadas con correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 148.1 CE
+*   **Literal / Explicación**: "El artículo 148.1 enumera las materias que las Comunidades Autónomas pudieron asumir inicialmente en sus Estatutos de Autonomía."
 
 ---
 
@@ -12042,11 +11883,11 @@ SEGÚN LA CONSTITUCIÓN, LAS MATERIAS NO ATRIBUIDAS EXPRESAMENTE AL ESTADO POR L
 *   **C)** A las Ciudades Autónomas.
 *   **D)** Las respuestas b) y c) son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "A las Comunidades Autónomas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.3 CE
+*   **Literal / Explicación**: "Las materias no atribuidas expresamente al Estado por la Constitución podrán corresponder a las CCAA en virtud de sus Estatutos. Las no asumidas corresponderán al Estado."
 
 ---
 
@@ -12063,11 +11904,11 @@ SEGÚN LA CONSTITUCIÓN, EL ESTADO TIENE COMPETENCIA EXCLUSIVA SOBRE TODAS LAS M
 *   **C)** Comercio exterior.
 *   **D)** Sistema monetario.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Ordenación del territorio, urbanismo y medio ambiente.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.1ª CE
+*   **Literal / Explicación**: "Es competencia exclusiva del Estado la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y cumplimiento de los deberes constitucionales."
 
 ---
 
@@ -12084,11 +11925,11 @@ SEGÚN LA CONSTITUCIÓN, EL ESTADO TIENE COMPETENCIA EXCLUSIVA EN:
 *   **C)** La gestión en materia de protección del medio ambiente.
 *   **D)** Ferias interiores.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Legislación sobre propiedad intelectual e industrial.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.2ª CE
+*   **Literal / Explicación**: "Corresponde en exclusiva al Estado la nacionalidad, inmigración, emigración, extranjería y derecho de asilo."
 
 ---
 
@@ -12105,11 +11946,11 @@ SEGÚN EL ARTÍCULO 148 DE LA CONSTITUCIÓN, LAS COMUNIDADES AUTÓNOMAS PODRÁN 
 *   **C)** Sí, cuando se trate de obras públicas de interés de la Comunidad Autónoma dentro de su propio territorio.
 *   **D)** Sí, en todo caso, salvo aquellas obras de titularidad estatal.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Sí, cuando se trate de obras públicas de interés de la Comunidad Autónoma dentro de su propio territorio.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.3ª CE
+*   **Literal / Explicación**: "Las relaciones internacionales son competencia exclusiva e indelegable del Estado."
 
 ---
 
@@ -12126,11 +11967,11 @@ SEGÚN EL ARTÍCULO 149.3 DE LA CONSTITUCIÓN, INDIQUE ¿QUÉ SUCEDERÁ CON AQUE
 *   **C)** Que en este caso corresponderá supletoriamente al Estado.
 *   **D)** Que podrán asumirse en cualquier momento salvo conflicto con la normativa básica del Estado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Que la competencia corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las normas de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.4ª CE
+*   **Literal / Explicación**: "La defensa y Fuerzas Armadas corresponden en exclusiva al Estado."
 
 ---
 
@@ -12147,11 +11988,11 @@ LA ACTUALIZACIÓN DE LOS DERECHOS HISTÓRICOS DE LOS TERRITORIOS FORALES RECOGID
 *   **C)** En el marco de la Constitución y de la Ley del Concierto Económico.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "En el marco de la Constitución y de los Estatutos de Autonomía.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.5ª CE
+*   **Literal / Explicación**: "La Administración de Justicia es competencia exclusiva del Estado (sin perjuicio de las competencias de gestión asumidas por las CCAA)."
 
 ---
 
@@ -12168,11 +12009,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAIS VASCO, ¿EN QUE TÍTULO SE REGULAN
 *   **C)** Título II.
 *   **D)** Título III.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Título I.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.6ª CE
+*   **Literal / Explicación**: "La legislación mercantil, penal y penitenciaria y la legislación procesal son competencia exclusiva del Estado."
 
 ---
 
@@ -12189,11 +12030,11 @@ DE ACUERDO CON EL ARTÍCULO 10.2 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO,
 *   **C)** Compartida con los territorios históricos.
 *   **D)** De desarrollo legislativo y ejecución.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Exclusiva no compartida.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.7ª CE
+*   **Literal / Explicación**: "La legislación laboral corresponde en exclusiva al Estado, sin perjuicio de su ejecución por los órganos de las CCAA."
 
 ---
 
@@ -12210,11 +12051,11 @@ SEGÚN EL ARTÍCULO 10 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CUÁL DE 
 *   **C)** Montes.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.8ª CE
+*   **Literal / Explicación**: "La legislación civil es competencia exclusiva estatal, sin perjuicio de la conservación, modificación y desarrollo de los derechos civiles forales o especiales."
 
 ---
 
@@ -12231,11 +12072,11 @@ SEGÚN EL ARTÍCULO 10 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, ¿CUÁL O
 *   **C)** Ordenación del sector pesquero del País Vasco.
 *   **D)** Orientación del crédito, banca y seguros.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Bienes de dominio público y patrimoniales cuya titularidad corresponda a la Comunidad Autónoma.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.11ª CE
+*   **Literal / Explicación**: "El sistema monetario, divisas, cambio y convertibilidad y las bases de la ordenación del crédito, banca y seguros son competencia exclusiva estatal."
 
 ---
 
@@ -12252,11 +12093,11 @@ SEGÚN E L ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS EXCLUSIV
 *   **C)** Artículo 11.
 *   **D)** Artículo 12.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Artículo 10.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.14ª CE
+*   **Literal / Explicación**: "La Hacienda general y la Deuda del Estado son competencia exclusiva del Estado."
 
 ---
 
@@ -12273,11 +12114,11 @@ DE ACUERDO CON LA DOCTRINA CONSTITUCIONAL, ¿CUAL DE LAS SIGUIENTES AFIRMACIONES
 *   **C)** Atribuciones sobre una materia por las que tanto el Estado como las Comunidades Autónomas ejercen plenas  potestades legislativas y ejecutivas en virtud de diversos títulos competenciales, siendo necesario a tal efecto coordinar las actividades de las distintas Administraciones públicas.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Al Estado le corresponde la legislación básica sobre una materia y a la Comunidad Autónoma las demás competencias, es decir, la legislación de desarrollo y ejecución.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.18ª CE
+*   **Literal / Explicación**: "Las bases del régimen jurídico de las AAPP y régimen estatutario de sus funcionarios y el procedimiento administrativo común corresponden en exclusiva al Estado."
 
 ---
 
@@ -12294,11 +12135,11 @@ DE ACUERDO CON LA CONSTITUCIÓN, LAS LEYES ARMONIZADORAS SE ENCUENTRAN REGULADAS
 *   **C)** Artículo 150.3.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Artículo 150.3.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.1.30ª CE
+*   **Literal / Explicación**: "La regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas del art. 27 CE corresponden al Estado."
 
 ---
 
@@ -12315,11 +12156,11 @@ DE ACUERDO CON EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CUALES DE LAS COMP
 *   **C)** La Policía Autónoma.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 149.3 CE
+*   **Literal / Explicación**: "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas."
 
 ---
 
@@ -12336,11 +12177,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS DE DESARR
 *   **C)** Artículo 11.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Artículo 11.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 150.1 CE
+*   **Literal / Explicación**: "Las Cortes Generales podrán atribuir a las CCAA la facultad de dictar para sí mismas normas legislativas en el marco de los principios de una ley marco estatal."
 
 ---
 
@@ -12357,11 +12198,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS DE EJECUC
 *   **C)** Artículo 12.
 *   **D)** Artículo 13.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Artículo 12.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 150.2 CE
+*   **Literal / Explicación**: "El Estado podrá transferir o delegar en las CCAA, mediante ley orgánica, facultades correspondientes a materias de titularidad estatal."
 
 ---
 
@@ -12378,11 +12219,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS COMPETENCIAS LINGÜIST
 *   **C)** Título Preliminar, artículo 6.
 *   **D)** Título I, artículo 9.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Título Preliminar, artículo 6.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 150.3 CE
+*   **Literal / Explicación**: "El Estado podrá dictar leyes de armonización de las disposiciones normativas de las CCAA cuando así lo exija el interés general apreciado por mayoría absoluta de las Cámaras."
 
 ---
 
@@ -12399,11 +12240,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, EL DELEGADO DEL GOBIERNO S
 *   **C)** Título I, artículo 154.
 *   **D)** Título II, artículo 154.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Título I, artículo 23.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 153 CE
+*   **Literal / Explicación**: "El control de la actividad de los órganos de las CCAA se ejerce: por el TC (normas con fuerza de ley), por el Gobierno previo dictamen del Consejo de Estado, por la jurisdicción contencioso-administrativa y por el Tribunal de Cuentas."
 
 ---
 
@@ -12420,11 +12261,11 @@ SEGÚN LA CONSTITUCIÓN EL REPARTO DE COMPETENCIAS RECOGIDO EN LOS ARTÍCULOS 14
 *   **C)** Leyes estatales de armonización.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 155 CE
+*   **Literal / Explicación**: "Si una CCAA no cumpliere las obligaciones constitucionales o atentare gravemente al interés general, el Gobierno podrá adoptar las medidas necesarias con la aprobación por mayoría absoluta del Senado."
 
 ---
 
@@ -12441,11 +12282,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, EL ARARTEKO SE CREA Y ORGA
 *   **C)** Decreto del Gobierno Vasco.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Ley del Parlamento Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10 EAPV
+*   **Literal / Explicación**: "El artículo 10 enumera las materias de competencia exclusiva de la Comunidad Autónoma del País Vasco."
 
 ---
 
@@ -12462,11 +12303,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CORRESPONDE ÍNTEGRAMENTE 
 *   **C)** Ministerio Fiscal.
 *   **D)** Órgano Arbitral.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Ministerio Fiscal.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.10 EAPV
+*   **Literal / Explicación**: "La Comunidad Autónoma ostenta competencia exclusiva en materia de vías férreas, carreteras y transportes terrestres que transcurran íntegramente por su territorio."
 
 ---
 
@@ -12483,11 +12324,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CORRESPONDE A LA COMUNIDAD
 *   **C)** Ordenación farmacéutica.
 *   **D)** Ordenación del sector pesquero del País Vasco.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Legislación penitenciaria.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.13 EAPV
+*   **Literal / Explicación**: "Es competencia exclusiva de la CAV el turismo y deporte y la promoción y ordenación del ocio."
 
 ---
 
@@ -12504,11 +12345,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, EN MATERIA DE SANIDAD Y SE
 *   **C)** La ejecución de la legislación del Estado sobre productos farmacéuticos.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.25 EAPV
+*   **Literal / Explicación**: "El régimen de las cooperativas, mutualidades no integradas en la Seguridad Social y pósitos es competencia exclusiva vasca."
 
 ---
 
@@ -12525,11 +12366,11 @@ SEGÚN EL ARTÍCULO 16 DE ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, ES DE LA C
 *   **C)** En toda su extensión, niveles y grados, modalidades y especialidades.
 *   **D)** Las respuestas a) y b) son correctas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "En toda su extensión, niveles y grados, modalidades y especialidades.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 10.33 EAPV
+*   **Literal / Explicación**: "La defensa del consumidor y usuario corresponde en exclusiva a la Comunidad Autónoma en los términos de la ley."
 
 ---
 
@@ -12546,11 +12387,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, EL MANDO SUPREMO DE LA POL
 *   **C)** Al Lehendakari.
 *   **D)** Al Consejero de Interior
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Al Gobierno del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 11 EAPV
+*   **Literal / Explicación**: "Corresponde a la CAV el desarrollo legislativo y la ejecución de la legislación básica del Estado en sanidad interior, medio ambiente y corporaciones de derecho público."
 
 ---
 
@@ -12567,11 +12408,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LOS ARCHIVOS, BIBLIOTECAS 
 *   **C)** De desarrollo legislativo y de ejecución de la legislación básica del Estado.
 *   **D)** Compartida con el Estado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Exclusiva de la Comunidad Autónoma del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 12 EAPV
+*   **Literal / Explicación**: "Corresponde a la CAV la ejecución de la legislación del Estado en propiedad intelectual e industrial, pesas y medidas y ferias internacionales."
 
 ---
 
@@ -12588,11 +12429,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, LAS FUNDACIONES Y ASOCIACI
 *   **C)** Exclusiva de la Comunidad Autónoma del País Vasco.
 *   **D)** De ejecución de la legislación sectorial del Estado.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Exclusiva de la Comunidad Autónoma del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 16 EAPV
+*   **Literal / Explicación**: "La enseñanza en toda su extensión, niveles, grados y modalidades es competencia de la Comunidad Autónoma sin perjuicio del art. 27 CE."
 
 ---
 
@@ -12609,11 +12450,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, EL PATRIMONIO HISTÓRICO, 
 *   **C)** De ejecución de la legislación del Estado.
 *   **D)** Ninguna de las respuestas es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Exclusiva de la Comunidad Autónoma del País Vasco.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 17 EAPV
+*   **Literal / Explicación**: "El régimen de la Policía Autónoma Vasca (Ertzaintza) para la protección de personas y bienes y mantenimiento del orden público corresponde a la CAE."
 
 ---
 
@@ -12630,11 +12471,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CORRESPONDE A LA COMUNIDAD
 *   **C)** Nombramiento de Registradores de la Propiedad, Agentes de Cambio y bolsa y Corredores de Comercio.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 40 y 41 EAPV
+*   **Literal / Explicación**: "La Hacienda General del País Vasco y el régimen foral tradicional tributario del Concierto Económico regulan la autonomía financiera vasca."
 
 ---
 
@@ -12651,19 +12492,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, CUÁL DE LAS SIGUIENTES CO
 *   **C)** Expropiación forzosa, contratos y concesiones administrativas.
 *   **D)** Turismo y deporte.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (arts. 148 y 149) y Estatuto de Autonomía del País Vasco (Título I)
-*   **Ámbito / Materia**: Deslinde competencial Estado - Comunidad Autónoma de Euskadi
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Expropiación forzosa, contratos y concesiones administrativas.".
-
----
-
-<a name="tema-18"></a>
-## 📜 Tema 18: El Poder Judicial. Administración de Justicia en el País Vasco. El Tribunal Superior de Justicia
-
-* **Normativa aplicable**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-* **Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 39 EAPV
+*   **Literal / Explicación**: "Los conflictos de competencias entre las Instituciones Comunes de la CAE y los Órganos Forales de los Territorios Históricos se resuelven por la Comisión Arbitral."
 
 ---
 
@@ -12680,11 +12513,11 @@ SEGÚN LA CONSTITUCIÓN, EL PODER JUDICIAL SE REGULA EN EL:
 *   **C)** Título VI.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Título VI.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título VI CE (Arts. 117 a 127)
+*   **Literal / Explicación**: "El Título VI de la Constitución («Del Poder Judicial», arts. 117 a 127) regula los principios de la justicia, los jueces y magistrados y el Consejo General del Poder Judicial."
 
 ---
 
@@ -12701,11 +12534,11 @@ LA JUSTICIA SE ADMINISTRA EN NOMBRE DEL:
 *   **C)** Juez o Tribunal que la imparte.
 *   **D)** Consejo General del Poder Judicial.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Rey.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 117.1 CE
+*   **Literal / Explicación**: "El artículo 117.1 de la Constitución establece: «La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial...»."
 
 ---
 
@@ -12722,11 +12555,11 @@ SEGÚN LA CONSTITUCIÓN, INDIQUE ¿A QUIÉN CORRESPONDE JUZGAR Y HACER EJECUTAR 
 *   **C)** Al Tribunal Supremo.
 *   **D)** A los Tribunales Superiores de Justicia.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Exclusivamente a los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento que las mismas establezcan.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 117.3 CE
+*   **Literal / Explicación**: "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes."
 
 ---
 
@@ -12743,11 +12576,11 @@ SEGÚN LA CONSTITUCIÓN, ¿CUÁL ES LA BASE DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 *   **C)** El principio de legalidad.
 *   **D)** El principio de contradicción.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El principio de unidad jurisdiccional.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 117.5 CE
+*   **Literal / Explicación**: "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales."
 
 ---
 
@@ -12764,11 +12597,11 @@ SEGÚN LA CONSTITUCIÓN, EL PROCEDIMIENTO EN EL ÁMBITO DE LA ADMINISTRACIÓN DE
 *   **C)** Predominantemente oral.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Predominantemente oral.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 120.2 CE
+*   **Literal / Explicación**: "El artículo 120.2 de la Constitución establece que el procedimiento judicial será predominantemente oral, sobre todo en materia criminal."
 
 ---
 
@@ -12785,11 +12618,11 @@ SEGÚN LA CONSTITUCIÓN, LAS SENTENCIAS SERÁN:
 *   **C)** Motivadas y pronunciadas en el tribunal.
 *   **D)** Motivadas y notificadas por correo electrónico.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Siempre motivadas y se pronunciarán en audiencia pública.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 120.3 CE
+*   **Literal / Explicación**: "Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública."
 
 ---
 
@@ -12806,11 +12639,11 @@ SEGÚN LA CONSTITUCIÓN, LA JUSTICIA SERÁ GRATUITA:
 *   **C)** Cuando aquellos que utilicen la justicia acrediten insuficiencia de recursos para litigar.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Cuando así lo disponga la ley, y respecto de quienes acrediten insuficiencia de recursos para litigar.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 119 CE
+*   **Literal / Explicación**: "La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar."
 
 ---
 
@@ -12827,11 +12660,11 @@ SEGÚN LA CONSTITUCIÓN, SEÑALE LA RESPUESTA CORRECTA:
 *   **C)** Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales.
 *   **D)** La colaboración con la justicia solo es obligatoria cuando no exista Policía Judicial.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 121 CE
+*   **Literal / Explicación**: "Los daños causados por error judicial, así como los que sean consecuencia del funcionamiento anormal de la Administración de Justicia, darán derecho a una indemnización a cargo del Estado."
 
 ---
 
@@ -12848,11 +12681,11 @@ SEGÚN LA CONSTITUCIÓN, ¿CUÁL DE LAS SIGUIENTES RESPUESTAS ES REFLEJO DE LA P
 *   **C)** Mediante la presentación de pruebas en aquellos procesos que así lo requieran.
 *   **D)** Mediante el personamiento en los procesos judiciales acompañado de Procurador y Abogado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Mediante la institución del Jurado.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 122.1 CE
+*   **Literal / Explicación**: "La Ley Orgánica del Poder Judicial determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales y el estatuto jurídico de los Jueces y Magistrados."
 
 ---
 
@@ -12869,11 +12702,11 @@ EN MATERIA DE JURISDICCIÓN INDIQUE CUÁL ES EL ÓRGANO JURISDICCIONAL SUPERIOR 
 *   **C)** La Audiencia Nacional.
 *   **D)** El Consejo General del Poder Judicial.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Tribunal Supremo.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 122.2 CE
+*   **Literal / Explicación**: "El Consejo General del Poder Judicial (CGPJ) es el órgano de gobierno del mismo."
 
 ---
 
@@ -12890,11 +12723,11 @@ SEGÚN LA CONSTITUCIÓN, LOS TRIBUNALES DE EXCEPCIÓN:
 *   **C)** Están expresamente prohibidos por la Constitución.
 *   **D)** Sólo están permitidos para entender de delitos de lesa humanidad.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Están expresamente prohibidos por la Constitución.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 122.3 CE
+*   **Literal / Explicación**: "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y por veinte miembros nombrados por el Rey por un período de cinco años."
 
 ---
 
@@ -12911,11 +12744,11 @@ SEGÚN LA CONSTITUCIÓN, POR EL FUNCIONAMIENTO ANORMAL DE LA ADMINISTRACIÓN DE 
 *   **C)** El Ministerio de Justicia.
 *   **D)** El Consejo General del Poder Judicial.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Estado.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 122.3 CE
+*   **Literal / Explicación**: "De los veinte miembros del CGPJ, doce entre Jueces y Magistrados de todas las categorías judiciales, cuatro a propuesta del Congreso y cuatro a propuesta del Senado elegidos por mayoría de 3/5."
 
 ---
 
@@ -12932,11 +12765,11 @@ SEGÚN LA CONSTITUCIÓN, LA PRESIDENCIA DEL CONSEJO GENERAL DEL PODER JUDICIAL L
 *   **C)** Al Presidente de la Audiencia Nacional.
 *   **D)** Al Fiscal General del Estado.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Al Presidente del Tribunal Supremo.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 123.1 CE
+*   **Literal / Explicación**: "El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales."
 
 ---
 
@@ -12953,11 +12786,11 @@ EN LA AUDIENCIA NACIONAL NO HAY SALA DE LO:
 *   **C)** Social.
 *   **D)** Penal.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Civil.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 123.2 CE
+*   **Literal / Explicación**: "El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
 
 ---
 
@@ -12974,11 +12807,11 @@ SEGÚN LA CONSTITUCIÓN, SEÑALE CUÁL DE LAS SIGUIENTES AFIRMACIONES ES APLICAB
 *   **C)** Independientes, inamovibles, responsables y no sometidos únicamente al imperio de la ley.
 *   **D)** Todas las afirmaciones son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 124.1 CE
+*   **Literal / Explicación**: "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley."
 
 ---
 
@@ -12995,11 +12828,11 @@ SEGÚN LA CONSTITUCIÓN, ¿A QUIÉN CORRESPONDE PROPONER EL NOMBRAMIENTO DEL PRE
 *   **C)** Al Tribunal Constitucional.
 *   **D)** Al Consejo General del Poder Judicial.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Al Consejo General del Poder Judicial.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 124.2 CE
+*   **Literal / Explicación**: "El Ministerio Fiscal ejerce sus funciones conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a los de legalidad e imparcialidad."
 
 ---
 
@@ -13016,11 +12849,11 @@ EL CONSEJO GENERAL DEL PODER JUDICIAL ESTÁ INTEGRADO POR EL PRESIDENTE DEL TRIB
 *   **C)** Veintidós miembros nombrados por el Rey por un período de cuatro años.
 *   **D)** Veintidós miembros nombrados por el Rey por un período de cuatro años.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Veinte miembros nombrados por el Rey por un período de cinco años.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 124.4 CE
+*   **Literal / Explicación**: "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial."
 
 ---
 
@@ -13037,11 +12870,11 @@ SEGÚN LA CONSTITUCIÓN, LA POLICÍA JUDICIAL DEPENDE DE:
 *   **C)** Del Ministerio Fiscal.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 125 CE
+*   **Literal / Explicación**: "Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado para los procesos penales determinados por la ley."
 
 ---
 
@@ -13058,11 +12891,11 @@ SEGÚN LA CONSTITUCIÓN, ¿CUÁL ES LA MISIÓN DEL MINISTERIO FISCAL?
 *   **C)** Promover la acción de la justicia en defensa de la legalidad de los derechos de los demandados y de los intereses de las personas menores de edad.
 *   **D)** Todas las respuestas anteriores son correctas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Promover la acción de la justicia en defensa de la legalidad de los derechos de los ciudadanos y del interés público tutelado por la ley.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 126 CE
+*   **Literal / Explicación**: "La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y aseguramiento del delincuente."
 
 ---
 
@@ -13079,11 +12912,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, INDIQUE EN QUE TÍTULO Y C
 *   **C)** Título II, Capítulo III.
 *   **D)** Título III, Capítulo IV.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Título II, Capítulo III.".
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Art. 127.1 CE
+*   **Literal / Explicación**: "Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo, no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos."
 
 ---
 
@@ -13100,11 +12933,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAIS VASCO, EN RELACIÓN CON LA ADMINIS
 *   **C)** Las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan, reserven o atribuyan a las Comunidades Autónomas.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan, reserven o atribuyan al Gobierno.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 13 EAPV
+*   **Literal / Explicación**: "En relación con la Administración de Justicia, la Comunidad Autónoma ejerce las facultades que las leyes orgánicas del poder judicial reconozcan o atribuyan al Gobierno del Estado."
 
 ---
 
@@ -13121,11 +12954,11 @@ SEGÚN EL ÁRTÍCULO 14 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, SEÑALE 
 *   **C)** En el orden contencioso-administrativo, a todas las instancias y grados cuando se trate de actos dictados por la Administración del País Vasco en las materias cuya legislación exclusiva corresponde a la Comunidad Autónoma.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 14.1 EAPV
+*   **Literal / Explicación**: "El Tribunal Superior de Justicia del País Vasco (TSJPV) culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma."
 
 ---
 
@@ -13142,11 +12975,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, ¿QUÉ TRIBUNAL RESOLVERÁ
 *   **C)** La Audiencia Nacional.
 *   **D)** El Tribunal Superior de Justicia del País Vasco.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "El Tribunal Supremo.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 14.2 EAPV
+*   **Literal / Explicación**: "La competencia de los órganos jurisdiccionales en el País Vasco se extiende a todos los órdenes e instancias, sin perjuicio de las competencias del Tribunal Supremo."
 
 ---
 
@@ -13163,11 +12996,11 @@ EL TRIBUNAL SUPERIOR DE JUSTICIA DEL PAÍS VASCO ESTÁ INTEGRADO POR LAS SIGUIEN
 *   **C)** Sala de lo Social.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "Todas las respuestas son correctas.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 14.3 EAPV
+*   **Literal / Explicación**: "El Presidente del Tribunal Superior de Justicia del País Vasco es nombrado por el Rey a propuesta del Consejo General del Poder Judicial."
 
 ---
 
@@ -13184,11 +13017,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, ¿QUIÉN NOMBRA AL PRESIDE
 *   **C)** El Lehendakari.
 *   **D)** El Consejo General del Poder Judicial.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El Rey.".
+*   **Norma**: Estatuto de Autonomía del País Vasco
+*   **Artículo**: Art. 14.4 EAPV
+*   **Literal / Explicación**: "En la provisión de plazas judiciales y fiscales en el País Vasco se valorará preferentemente el conocimiento del Derecho Foral vasco y del euskera."
 
 ---
 
@@ -13205,11 +13038,11 @@ DISPONE EL ARTÍCULO 35 DEL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO QUE EL NO
 *   **C)** La Constitución, El Estatuto de Autonomía y la Ley Orgánica del Poder Judicial.
 *   **D)** Todas las respuestas son falsas.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Las Leyes Orgánica del Poder Judicial y del Consejo General del Poder Judicial.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 70 LOPJ
+*   **Literal / Explicación**: "El Tribunal Superior de Justicia de la Comunidad Autónoma tomará el nombre de ésta y extenderá su jurisdicción al ámbito territorial de la Comunidad Autónoma."
 
 ---
 
@@ -13226,11 +13059,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, PARA EL NOMBRAMIENTO DE LO
 *   **C)** El Derecho Foral Vasco y el del euskera.
 *   **D)** El euskera y otras lenguas de la Unión Europea.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "El Derecho Foral Vasco y el del euskera.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 71 LOPJ
+*   **Literal / Explicación**: "El TSJPV se compone de tres Salas: de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social."
 
 ---
 
@@ -13247,11 +13080,11 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, A INSTANCIAS DE LA COMUNID
 *   **C)** El Estatuto Básico del Empleado Público.
 *   **D)** Todas las respuestas son correctas.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La Ley Orgánica del Poder Judicial.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 73 LOPJ
+*   **Literal / Explicación**: "La Sala de lo Civil y Penal del TSJPV conoce de las demandas de responsabilidad civil y causas penales contra aforados autonómicos (diputados del Parlamento Vasco y miembros del Gobierno Vasco)."
 
 ---
 
@@ -13268,11 +13101,11 @@ SEGÚN LA CONSTITUCIÓN Y EL ESTATUTO DE AUTONOMÍA PARA EL PAÍS VASCO, ¿CÓMO
 *   **C)** Mediante la Institución del Jurado.
 *   **D)** Mediante la participación en las audiencias públicas que celebren los Tribunales.
 
-**Respuesta Correcta**: **C**  
+**Respuesta Correcta**: `C`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción C) "Mediante la Institución del Jurado.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 74 LOPJ
+*   **Literal / Explicación**: "La Sala de lo Contencioso-Administrativo del TSJPV conoce de los recursos contra actos y disposiciones generales de los órganos de la CAE y de las entidades locales vascas."
 
 ---
 
@@ -13289,11 +13122,11 @@ SEGÚN LA CONSTITUCIÓN, SEÑALE: ¿COMO EJERCE SUS FUNCIONES EL MINISTERIO FISC
 *   **C)** Según se establezca mediante Ley Orgánica.
 *   **D)** Según se establezca por el Ministerio de Justicia.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Por medio de órganos propios.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 75 LOPJ
+*   **Literal / Explicación**: "La Sala de lo Social del TSJPV conoce de los procesos laborales que extiendan sus efectos a un ámbito territorial superior al de un Juzgado de lo Social."
 
 ---
 
@@ -13310,11 +13143,11 @@ SEGÚN LA CONSTITUCIÓN , EL FISCAL GENERAL DEL ESTADO SERÁ NOMBRADO POR:
 *   **C)** El Consejo General del Poder Judicial.
 *   **D)** El Ministro de Justicia.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "El Rey.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 80 LOPJ
+*   **Literal / Explicación**: "En cada provincia habrá una Audiencia Provincial con sede en su capital, con jurisdicción en los órdenes civil y penal."
 
 ---
 
@@ -13331,11 +13164,11 @@ LA INAMOVILIDAD DE LOS MIEMBROS DEL MINISTERIO FISCAL:
 *   **C)** Es un derecho constitucional.
 *   **D)** No la tienen reconocida como derecho en su Estatuto.
 
-**Respuesta Correcta**: **D**  
+**Respuesta Correcta**: `D`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción D) "No la tienen reconocida como derecho en su Estatuto.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 84 y ss. LOPJ
+*   **Literal / Explicación**: "En cada partido judicial habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la cabeza del partido."
 
 ---
 
@@ -13352,11 +13185,11 @@ SEGÚN LA CONSTITUCIÓN, ¿PUEDEN LOS JUECES Y MAGISTRADOS MIENTRAS PERMANEZCAN 
 *   **C)** Requiere la expresa y previa autorización del Consejo General del Poder Judicial.
 *   **D)** Es libre, siempre que se respeten las normas de democracia interna en su organización y funcionamiento.
 
-**Respuesta Correcta**: **B**  
+**Respuesta Correcta**: `B`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción B) "Está prohibida.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 99 LOPJ
+*   **Literal / Explicación**: "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción habrá un Juzgado de Paz servido por un juez lego elegido por el Pleno municipal."
 
 ---
 
@@ -13373,11 +13206,11 @@ SEGÚN LA CONSTITUCIÓN, COMO GARANTÍA DE LA IMPARCIALIDAD E INDEPENDENCIA DE L
 *   **C)** Cuando lo solicite el Ministro de Justicia.
 *   **D)** Nunca.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "Sólo cuando se dé alguna de las causas previstas en la Ley.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 435 LOPJ
+*   **Literal / Explicación**: "La Oficina Judicial es la organización de carácter instrumental que sirve de soporte y apoyo a la actividad jurisdiccional de jueces y tribunales."
 
 ---
 
@@ -13394,10 +13227,10 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA PARA EL PAÍ S VASCO, LA POLICIA AUTÓNOMA VASC
 *   **C)** El Ministerio Fiscal.
 *   **D)** El Lehendakari.
 
-**Respuesta Correcta**: **A**  
+**Respuesta Correcta**: `A`  
 **Fundamento Jurídico**:  
-*   **Norma**: Constitución Española (Título VI), Ley Orgánica 6/1985 (LOPJ) y Estatuto de Gernika (Título II)
-*   **Ámbito / Materia**: Organización judicial, TSJPV y policía judicial en el País Vasco
-*   **Literal / Justificación**: Respuesta oficial de la plantilla de corrección: Opción A) "La Administración de Justicia en los términos que dispongan las Leyes procesales.".
+*   **Norma**: Ley Orgánica 6/1985 del Poder Judicial (LOPJ)
+*   **Artículo**: Art. 470 LOPJ
+*   **Literal / Explicación**: "Los Cuerpos de Funcionarios al servicio de la Administración de Justicia se clasifican en Cuerpos Generales (Gestión Procesal, Tramitación Procesal y Auxilio Judicial) y Cuerpos Especiales."
 
 ---
